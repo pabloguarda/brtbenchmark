@@ -1,0 +1,410 @@
+Region,Country,City,Corridor,Value,Year,Source
+Africa,Nigeria,Lagos,Lagos BRT,200000,2011,Viva 2010 ( www.uncrd.or.jp ); Trans-Africa Consortium 2010 ; www.itdp.org
+Africa,South Africa,Cape Town,1A,20000,2013,www.citylab.com
+Africa,South Africa,Johannesburg,1A,42000,2013,www.joburg.org.za
+Africa,South Africa,Johannesburg,1B,,,
+Asia,China,Beijing,BRT 1,150000,2013,CUSTReC CATS
+Asia,China,Beijing,BRT 2,,,
+Asia,China,Beijing,BRT 3,,,
+Asia,China,Beijing,BRT 4,,,
+Asia,China,Changde,Line 1,,,
+Asia,China,Changzhou,Line 1,,,
+Asia,China,Changzhou,Line 2,,,
+Asia,China,Chengdu,2nd Ring Elevated Road,,,
+Asia,China,Chongqing,Chongqing BRT,12000,2012,www.chinabrt.org
+Asia,China,Dalian,Dalian BRT,87000,2011,www.chinabrt.org
+Asia,China,Guangzhou,Zhongshan Avenue,850000,2014,www.chinabrt.org
+Asia,China,Hangzhou,Line 1,,,
+Asia,China,Hangzhou,Line 2,,,
+Asia,China,Hangzhou,Line 3,,,
+Asia,China,Hefei,Changjiang Lu,65250,2010,www.chinabrt.org
+Asia,China,Jinan,BRT-1,,,
+Asia,China,Jinan,BRT-2,,,
+Asia,China,Jinan,BRT-3,,,
+Asia,China,Jinan,BRT-4,,,
+Asia,China,Jinan,BRT-5,,,
+Asia,China,Jinan,BRT-6,,,
+Asia,China,Jinan,BRT-7,,,
+Asia,China,Kunming,,156000,2010,www.chinabrt.org
+Asia,China,Lanzhou,Line 1,290000,2013,www.chinabrt.org
+Asia,China,Lianyungang,Line 1,20000,2013,CUSTReC CATS
+Asia,China,Urumqi,Line 1,,,
+Asia,China,Urumqi,Line 2,,,
+Asia,China,Urumqi,Line 3,,,
+Asia,China,Urumqi,Line 4,,,
+Asia,China,Xiamen,Line 1,,,
+Asia,China,Xiamen,Line 2,,,
+Asia,China,Xiamen,Line 3,,,
+Asia,China,Yancheng,Line 1,33000,2010,CUSTReC CATS
+Asia,China,Yichang,Phase 1,240000,2015,www.chinabrt.org
+Asia,China,Yinchuan,Line 1,87000,2013,CUSTReC CATS
+Asia,China,Zaozhuang,Line 1,30000,2010,CUSTReC CATS
+Asia,China,Zhengzhou,Line 1,650000,2013,www.chinabrt.org
+Asia,India,Ahmedabad,,130000,2013,www.ahmedabadbrts.com
+Asia,India,Bhopal,,70000,2013,EMBARQ India
+Asia,India,Indore,,45500,2014,BRT Planning for Vientiane atwww.asiabrts.org
+Asia,India,Jaipur,,6622,2011,"Primary Survey,EMBARQ"
+Asia,India,Pune,,96750,2011,"Primary Survey, EMBARQ"
+Asia,India,Rajkot,,7500,2013,EMBARQ India
+Asia,India,Surat,Udhna Darwaza to Sachin GIDC,13500,2014,Integrated City Bus Services Surat atwww.asiabrts.org
+Asia,Indonesia,Jakarta,Koridor 1,,,
+Asia,Indonesia,Jakarta,Koridor 2,,,
+Asia,Indonesia,Jakarta,Koridor 3,,,
+Asia,Indonesia,Jakarta,Koridor 4,,,
+Asia,Indonesia,Jakarta,Koridor 5,,,
+Asia,Indonesia,Jakarta,Koridor 6,,,
+Asia,Indonesia,Jakarta,Koridor 7,,,
+Asia,Indonesia,Jakarta,Koridor 8,,,
+Asia,Indonesia,Jakarta,Koridor 9,,,
+Asia,Indonesia,Jakarta,Koridor 10,,,
+Asia,Indonesia,Jakarta,Koridor 11,,,
+Asia,Indonesia,Jakarta,Koridor 12,,,
+Asia,Iran,Tabriz,,,,
+Asia,Iran,Tehran,Line 1,,,
+Asia,Iran,Tehran,Line 2,,,
+Asia,Iran,Tehran,Line 3,,,
+Asia,Iran,Tehran,Line 4,,,
+Asia,Iran,Tehran,Line 5,,,
+Asia,Iran,Tehran,Line 7,,,
+Asia,Iran,Tehran,Line 8,40000,2013,en.tehran.ir
+Asia,Iran,Tehran,Line 10,,,
+Asia,Israel,Haifa,The Red Line,,,
+Asia,Israel,Haifa,The Blue Line,,,
+Asia,Israel,Haifa,The Green Line,,,
+Asia,Japan,Kesennuma - Tome,Kesennuma Line,,,
+Asia,Japan,Nagoya,Yutorito Line,9000,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Malaysia,Subang Jaya,BRT Sunway Line,,,
+Asia,Pakistan,Islamabad - Rawalpindi,Rawalpindi - Islmabad,125000,2015,www.worldbrt.net
+Asia,Pakistan,Lahore,,180000,2015,en.wikipedia.org
+Asia,Republic of Korea,Seoul,,400000,2009,www.chinabrt.org buses and ridership estimated
+Asia,Taiwan,Chiayi,Chiayi BRT,2000,2010,Transportation and tourism department
+Asia,Taiwan,Taichung,Blue Line,50000,2014,BRT Experiences : Taiwan atwww.asiabrts.org
+Asia,Taiwan,Taipei,,1200000,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,Bangkok BRT,15000,2011,www.chinabrt.org
+Europe,Belgium,Liège,d’Avroy - Sauvenière,,,
+Europe,Belgium,Liège,Cadran - Fontainebleau,,,
+Europe,Belgium,Liège,Quai Saint-Léonard,,,
+Europe,Czech Republic,Prague,Line 213,18000,2011,COST - European Cooperation in Science and Technology
+Europe,Finland,Helsinki,Runkolinja 550,30000,2011,COST - European Cooperation in Science and Technology
+Europe,France,Belfort,Optymo BHNS,32000,2013,info.optymo.fr
+Europe,France,Caen,Twisto TVR,48000,2009,www.nbrti.org
+Europe,France,Cannes,Ligne 1,,,
+Europe,France,Châlon-sur-Saône,Flash,5300,2013,www.info-chalon.com
+Europe,France,Douai,,1800,2010,Viva 2010 ( www.uncrd.or.jp );connectedcities.eu ; lw2.easy-site.nl
+Europe,France,Evry,Tice,,,
+Europe,France,La Rochelle,,5600,2010,www.ville-larochelle.fr
+Europe,France,Lille,,,,
+Europe,France,Lorient,The Triskell,45000,2011,COST - European Cooperation in Science and Technology .
+Europe,France,Lyon,C-Lines,4700,2009,www.nbrti.org
+Europe,France,Maubeuge,BHLS - Viavil,5000,2009,www.nbrti.org
+Europe,France,Metz,Ligne A,,,
+Europe,France,Metz,Ligne B,,,
+Europe,France,Nancy,TVR (GLT),37000,2011,www.nbrti.org
+Europe,France,Nantes,BusWay,25000,2011,COST - European Cooperation in Science and Technology
+Europe,France,Nice,,58000,2009,bhns.fr
+Europe,France,Nîmes,Tango+ T1,7719,2014,trambus.nimes-metropole.fr
+Europe,France,Paris,T Zen 1,6000,2012,www.tzen.com
+Europe,France,Paris,"Ligne 393, RATP",17500,2011,www.agglo-hautvaldemarne.fr
+Europe,France,Paris,TVM,66000,2011,COST - European Cooperation in Science and Technology
+Europe,France,Rouen,T1,,,
+Europe,France,Rouen,T2,,,
+Europe,France,Rouen,T3,,,
+Europe,France,Saint-Nazaire,Hélyce,10000,2013,www.mobilicites.com
+Europe,France,Strasbourg,Ligne G,9000,2014,technicity.daimler.com
+Europe,France,Toulouse,,13300,2010,Viva 2010 ( www.uncrd.or.jp ); CERTU 2010
+Europe,Germany,Essen,The Spurbus,17000,2011,COST - European Cooperation in Science and Technology
+Europe,Germany,Hamburg,Line 5,60000,2011,COST - European Cooperation in Science and Technology
+Europe,Germany,Oberhausen,ÖPNV-Trasse,25000,2011,COST - European Cooperation in Science and Technology
+Europe,Ireland,Dublin,,34000,2009,"Heddebaut O. et. al ""The European Bus with a High Level of Service (BHLS): Concept and Practice"", Built Environment Vol 36, No. 3, 2010"
+Europe,Italy,Brescia,LAM1,,,
+Europe,Italy,Brescia,LAM2,12000,2011,COST - European Cooperation in Science and Technology
+Europe,Italy,Prato,Blu,,,
+Europe,Italy,Prato,Arancio,,,
+Europe,Italy,Prato,Rossa,,,
+Europe,Netherlands,Almere,Line 1,16000,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Amsterdam,Zuidtangent,40000,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Eindhoven,Phileas,12000,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,Netherlands,Enschede,Line 2,1318,2011,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Enschede,Line3,1250,2011,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Utrecht,,40000,2010,Viva 2010 ( www.uncrd.or.jp );www.ashford.gov.uk ;www.chinabrt.org
+Europe,Portugal,Lisbon,24 de Julho Corridor (mixed traffic with 10 tramways),27000,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Barcelona,Línia 64: Barceloneta - Pedralbes,15300,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Castellon,Line 1,3200,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Madrid,Bus VAO,112000,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,LAC,27667,2014,Calculated using annual demand and 300 working days
+Europe,Sweden,Gothenburg,Stombuss,25000,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line1,,,
+Europe,Sweden,Jonkoping,Line2,,,
+Europe,Sweden,Jonkoping,Line3,,,
+Europe,Sweden,Stockholm,,57000,2011,COST - European Cooperation in Science and Technology
+Europe,Switzerland,Zurich,Line 31,14000,2011,COST - European Cooperation in Science and Technology
+Europe,Turkey,Istanbul,TUYAP - Sogutlucesme Metrobus Corridor,750000,2013,IETT
+Europe,United Kingdom,Bradford,Manchester Road,5467,2011,www.ashford.gov.uk
+Europe,United Kingdom,Cambridge,The Busway,12000,2015,Calculated using annual demand and 300 working days
+Europe,United Kingdom,Crawley,,6000,2005,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,United Kingdom,Edinburgh,,44000,2005,www.ashford.gov.uk
+Europe,United Kingdom,Fareham - Gosport,Eclipse,,,
+Europe,United Kingdom,Kent,Fastrack,5726,2005,www.ashford.gov.uk
+Europe,United Kingdom,Leeds,,31000,2005,www.ashford.gov.uk
+Europe,United Kingdom,London,,9000,2010,www.tfl.gov.uk
+Europe,United Kingdom,Luton,,30000,2010,en.wikipedia.org
+Europe,United Kingdom,Manchester,A6 Corridor,21000,2011,COST - European Cooperation in Science and Technology
+Europe,United Kingdom,Runcorn,,,,
+Europe,United Kingdom,Swansea,,5000,2010,en.wikipedia.org
+Europe,United Kingdom,York,FTR,5500,2010,en.wikipedia.org
+Latin America,Argentina,Buenos Aires,Sur - Ramal Coronel Roca,250000,"2013, for both sections of Corridor Sur",movilidad.buenosaires.gob.ar
+Latin America,Argentina,Buenos Aires,Sur - Ramal Fernandéz de la Cruz,250000,"2013, for both sections of Corridor Sur",movilidad.buenosaires.gob.ar
+Latin America,Argentina,Buenos Aires,9 de Julio,250000,2013,www.lanacion.com.ar
+Latin America,Argentina,Buenos Aires,Juan B. Justo,100000,2013,movilidad.buenosaires.gob.ar
+Latin America,Argentina,Córdoba,Sabattini,58000,2014,diarioalfil.com.ar
+Latin America,Argentina,Rosario,Santa Fé - Maipú,,,
+Latin America,Argentina,Rosario,San Lorenzo - Laprida,,,
+Latin America,Argentina,Rosario,Córdoba,,,
+Latin America,Brazil,Belém,Almirante Barroso,120000,2014,ww3.belem.pa.gov.br
+Latin America,Brazil,Belo Horizonte,MOVE - Antônio Carlos,500000,"2015, together corridors Antônio Carlos, Cristiano Machado and Área Central carries 500000 passenger",www.otempo.com.br
+Latin America,Brazil,Belo Horizonte,MOVE - Cristiano Machado,500000,"2015, together corridors Antônio Carlos, Cristiano Machado and Área Central carries 500000 passenger",www.otempo.com.br
+Latin America,Brazil,Belo Horizonte,Nossa Senhora do Carmo,125000,,BHTrans
+Latin America,Brazil,Belo Horizonte,Boulevard Arrudas,,,
+Latin America,Brazil,Belo Horizonte,MOVE - Área Central,500000,"2015, together corridors Antônio Carlos, Cristiano Machado and Área Central carries 500000 passenger",www.otempo.com.br
+Latin America,Brazil,Belo Horizonte,Amazonas,380000,,BHTrans
+Latin America,Brazil,Belo Horizonte,Pedro II,,,
+Latin America,Brazil,Blumenau,Rua 7 de Setembro,25000,,www.blumenau.sc.gov.br
+Latin America,Brazil,Blumenau,Av. Martin Luther,12000,,www.blumenau.sc.gov.br
+Latin America,Brazil,Blumenau, Av. Presidente Castelo Branco (Beira-Rio),45000,,radioblumenau.viazoom.com.br
+Latin America,Brazil,Blumenau,Rua 2 de Setembro,,,
+Latin America,Brazil,Blumenau,Rua São Paulo - Iguaçu (Henrique Classen),,,
+Latin America,Brazil,Blumenau,Rua São Paulo - Antônio da Veiga (Castelo Branco),,,
+Latin America,Brazil,Blumenau,Rua Eng Paul Werner,,,
+Latin America,Brazil,Blumenau,Rua das Palmeiras,,,
+Latin America,Brazil,Brasília,Expresso DF Sul,270000,2015,www.df.gov.br$-3-a-partir-de-28-de-mar%C3%A7o.html
+Latin America,Brazil,Brasília,Estrada Parque Núcleo Bandeirante,20000,2013,www.dftrans.df.gov.br
+Latin America,Brazil,Brasília,W3 Norte,,,
+Latin America,Brazil,Brasília,W3 Sul,,,
+Latin America,Brazil,Brasília,Setor Policial,,,
+Latin America,Brazil,Brasília,Estrada Parque Taguatinga-Guará,11000,2013,www.dftrans.df.gov.br
+Latin America,Brazil,Campinas,Av. Amoreiras,,,
+Latin America,Brazil,Campinas,Av. João Jorge,40000,,www.jusbrasil.com.br
+Latin America,Brazil,Campinas,Corredor Central,160000,,www.campinas.sp.gov.br
+Latin America,Brazil,Campo Grande,Duque de Caxias,73000,,www.pmcg.ms.gov.br
+Latin America,Brazil,Campo Grande,Rui Barbosa,,,
+Latin America,Brazil,Campo Grande,Av. Calógeras,,,
+Latin America,Brazil,Campo Grande,Rua 26 de Agosto,,,
+Latin America,Brazil,Caxias do Sul,Pinheiro Machado,,,
+Latin America,Brazil,Caxias do Sul,Marechal Floriano,,,
+Latin America,Brazil,Caxias do Sul,Moreira Cesar - Centro Bairro,,,
+Latin America,Brazil,Caxias do Sul,Pio 12 - Moreira,,,
+Latin America,Brazil,Caxias do Sul,18 do Forte,,,
+Latin America,Brazil,Caxias do Sul,Sinimbu,,,
+Latin America,Brazil,Caxias do Sul,Bento,,,
+Latin America,Brazil,Criciúma,Av. Centenário,10470,,ASTC
+Latin America,Brazil,Curitiba,Linha Verde,31000,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Boqueirão,89000,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Leste,92500,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Oeste,49000,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Norte,84000,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Sul,162500,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,Curitiba,Rua XV de Novembro,53000,2014,www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,São Paulo - Metropolitan area,Corredor Metropolitano ABD,360000,,ie.org.br
+Latin America,Brazil,Feira de Santana,Av. Senhor dos Passos,,,
+Latin America,Brazil,Fortaleza,Av. João Pessoa,100000,,ETUFOR
+Latin America,Brazil,Fortaleza,Av. Bezerra de Menezes,186777,2013,ETUFOR
+Latin America,Brazil,Goiânia,Leste Oeste (Eixo Anhanguera),240000,,RMTC
+Latin America,Brazil,Goiânia,80-90 Goiás,88300,,RMTC
+Latin America,Brazil,Goiânia,Universitário,50000,2013,www.rmtcgoiania.com.br
+Latin America,Brazil,Guarulhos,Guarulhos,30000,2013,www.emtu.sp.gov.br
+Latin America,Brazil,Jaboatão dos Guararapes,Av. Ayrton Senna,,,
+Latin America,Brazil,João Pessoa,Av. Epitácio Pessoa - Av. Miguel Couto - Av. Sanhauá - Rua Guedes Pereira,276243,2012,Semob-JP
+Latin America,Brazil,Joinville,Avenida JK,,,
+Latin America,Brazil,Joinville,João Colim,,,
+Latin America,Brazil,Joinville,Blumenau,,,
+Latin America,Brazil,Joinville,Santa Catarina,,,
+Latin America,Brazil,Joinville,São Paulo,,,
+Latin America,Brazil,Juiz de Fora,Av. Barão do Rio Branco,,,
+Latin America,Brazil,Londrina,Rua João Cândido,,,
+Latin America,Brazil,Londrina,Rua Duque de Caxias,,,
+Latin America,Brazil,Londrina,Winston Churchill,37000,,londrina.odiario.com
+Latin America,Brazil,Maceió,Av. Fernandes Lima,,,
+Latin America,Brazil,Natal,Av. Bernardo Vieira,,,
+Latin America,Brazil,Niterói,Corredor Metropolitano Alameda São Boaventura,250000,,www.nittrans.niteroi.rj.gov.br
+Latin America,Brazil,Olinda,Av. Pan Nordestina - PE 15,447695,,Grande Recife
+Latin America,Brazil,Porto Alegre,Av. Farrapos,63400,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Assis Brasil,66200,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Sertório,20100,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Baltazar Garcia,49200,2012,EPTC
+Latin America,Brazil,Porto Alegre,III Perimetral,29000,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Aureliano de Figueiredo Pinto - Av. Érico Veríssimo (Cascatinha),7400,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. João Pessoa,55500,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Azenha - Av. Bento,31100,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Bento Gonçalves,60400,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Osvaldo Aranha - Av. Protásio Alves,87700,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Cristovão Colombo,12900,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Independência,8700,2012,EPTC
+Latin America,Brazil,Porto Alegre,Av. Teresópolis - Av. Nonoai - Av. Cavalhada,,,
+Latin America,Brazil,Porto Alegre,Av. Brasil,,,
+Latin America,Brazil,Recife,Via Livre Leste-Oeste,,,
+Latin America,Brazil,Recife,Via Livre Norte-Sul,,,
+Latin America,Brazil,Recife,Av. Conde do Boa Vista,423639,,Grande Recife
+Latin America,Brazil,Recife,Av. Sul,277620,,Grande Recife
+Latin America,Brazil,Rio de Janeiro,TransOeste,216000,2015,BRT Rio
+Latin America,Brazil,Rio de Janeiro,TransCarioca,234000,2015,BRT Rio
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Av. Nossa Senhora de Copacabana,240000,"2013, for both sections of Corridor Copacabana",brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Rua Barata Ribeiro,240000,"2013, for both sections of Corridor Copacabana",brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Visconde de Pirajá (Rua Ataulfo de Paiva),235000,"2013, for both sections of Corridor Ipanema-Leblon",brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Prudente de Morais (General San Martin),235000,"2013, for both sections of Corridor Ipanema-Leblon",brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Antônio Carlos,261000,2012,NTU
+Latin America,Brazil,Rio de Janeiro,BRS Rio Branco,307600,2012,NTU
+Latin America,Brazil,Rio de Janeiro,BRS Presidente Vargas,550000,2013,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Estácio,45000,2013,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Tijuca,30000,2013,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS 24 de maio,160000,2013,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Carioca,450000,2013,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Marechal Rondon,290000,2014,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - Voluntários,60000,2014,www.brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - São Clemente,54000,2014,www.brsrio.com.br
+Latin America,Brazil,Salvador,Av. Tancredo Neves - Av. Luis Viana Filho (Paralela),,,
+Latin America,Brazil,Salvador,Av. Vasco da Gama,,,
+Latin America,Brazil,Salvador,Av. Mario Leal Ferreira (Bonoco),,,
+Latin America,Brazil,Santos,Ana Costa,1705,2012,CET Santos
+Latin America,Brazil,São Paulo,Campo Limpo - Rebouças - Centro,410000,2013,SPTrans
+Latin America,Brazil,São Paulo,Expresso Tiradentes (Eixo Sudeste),60000,2013,SPTrans
+Latin America,Brazil,São Paulo,Inajar - Rio Branco - Centro,223000,2013,SPTrans
+Latin America,Brazil,São Paulo,Itapecerica - João Dias - Santo Amaro,264000,2013,SPTrans
+Latin America,Brazil,São Paulo,Paes de Barros,79000,2013,SPTrans
+Latin America,Brazil,São Paulo,Parelheiros - Rio Bonito - Santo Amaro,390000,2013,SPTrans
+Latin America,Brazil,São Paulo,Pirituba - Lapa - Centro,325000,2013,SPTrans
+Latin America,Brazil,São Paulo,Santo Amaro - Nove de Julho - Centro,609000,2013,SPTrans
+Latin America,Brazil,São Paulo,Ver. José Diniz - Ibirapuera - Santa Cruz,451000,2013,SPTrans
+Latin America,Brazil,São Paulo,Jd. Ângela - Guarapiranga - Santo Amaro,353000,2013,SPTrans
+Latin America,Brazil,Sorocaba,Hermelino Matarazzo,,,
+Latin America,Brazil,Sorocaba,Comendador Oeterer,,,
+Latin America,Brazil,Sumaré,Corredor Metropolitano Noroeste,75000,,EMTU
+Latin America,Brazil,Teresina,Av. Frei Serafim,,,
+Latin America,Brazil,Uberaba,Leste/Oeste,68000,2015,SEPLAN
+Latin America,Brazil,Uberlândia,Estrutural Sudeste,16000,2013,www.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,Avenida Grecia,59000,2012,Transantiago
+Latin America,Chile,Santiago,Pajaritos Norte,72400,2012,Transantiago
+Latin America,Chile,Santiago,Santa Rosa Norte,58600,2012,Transantiago
+Latin America,Chile,Santiago,Blanco Encalada - Arica,,,
+Latin America,Chile,Santiago,Santa Rosa Sur,,,
+Latin America,Chile,Santiago,Vicuña Mackenna Norte,,,
+Latin America,Chile,Santiago,Anillo Intermedio Norte,,,
+Latin America,Chile,Santiago,Las Industrias,,,
+Latin America,Chile,Santiago,Departamental Poniente,,,
+Latin America,Chile,Santiago,Dorsal,,,
+Latin America,Chile,Santiago,Pedro Aguirre Cerda,53500,2012,Transantiago
+Latin America,Chile,Santiago,Suiza - Las Rejas,6300,2012,Transantiago
+Latin America,Chile,Santiago,Vicuña Mackenna Sur,84500,2012,Transantiago
+Latin America,Chile,Santiago,Pajaritos Sur,6500,2012,Transantiago
+Latin America,Colombia,Barranquilla,Troncal Murillo,,,
+Latin America,Colombia,Barranquilla,Troncal Olaya,,,
+Latin America,Colombia,Bogotá,Calle 80,158086,2011,TransMilenio
+Latin America,Colombia,Bogotá,Caracas,520880,"2011, together corridors Caracas, Caracas Sur and Eje Ambiental carries 520880 passenger",TransMilenio
+Latin America,Colombia,Bogotá,Caracas Sur,520880,"2011, together corridors Caracas, Caracas Sur and Eje Ambiental carries 520880 passenger",TransMilenio
+Latin America,Colombia,Bogotá,Eje Ambiental,520880,"2011, together corridors Caracas, Caracas Sur and Eje Ambiental carries 520880 passenger",TransMilenio
+Latin America,Colombia,Bogotá,Norte,335700,2011,TransMilenio
+Latin America,Colombia,Bogotá,Américas,282051,2011,TransMilenio
+Latin America,Colombia,Bogotá,NQS Central,192405,"2011, together corridors NQS Central and NQS Sur carries 192405 passenger",TransMilenio
+Latin America,Colombia,Bogotá,NQS Sur,192405,"2011, together corridors NQS Central and NQS Sur carries 192405 passenger",TransMilenio
+Latin America,Colombia,Bogotá,Suba,121438,2011,TransMilenio
+Latin America,Colombia,Bogotá,Calle 26,104180,2012,TransMilenio
+Latin America,Colombia,Bogotá,Carrera 10,256970,2012,TransMilenio
+Latin America,Colombia,Bucaramanga,Metrolínea,72000,2013,www.amb.gov.co
+Latin America,Colombia,Cali,Avenida 3,,,
+Latin America,Colombia,Cali,Centro (Calle 13/Calle 15),,,
+Latin America,Colombia,Cali,Carrera 1,,,
+Latin America,Colombia,Cali,Calle 5,,,
+Latin America,Colombia,Cali,Carrera 15,,,
+Latin America,Colombia,Cali,Aguablanca,,,
+Latin America,Colombia,Medellín,Línea 1,52000,2013,Metroplús
+Latin America,Colombia,Medellín,Línea 2,8000,2013,Metroplús
+Latin America,Colombia,Pereira,Ruta 1,,,
+Latin America,Colombia,Pereira,Ruta 2,,,
+Latin America,Colombia,Pereira,Ruta 3,,,
+Latin America,Ecuador,Guayaquil,Guasmo - Río Daule,140000,,Metrovía
+Latin America,Ecuador,Guayaquil,Bastión Popular - Centro,170000,,Metrovía
+Latin America,Ecuador,Guayaquil,25 de Julio - Río Daule,,,
+Latin America,Ecuador,Quito,Ecovía (North Eastern Corridor),149780,2013,www.trolebus.gob.ec
+Latin America,Ecuador,Quito,TroleBús,233375,2013,www.trolebus.gob.ec
+Latin America,Ecuador,Quito,Central Norte,150000,2013,www.trolebus.gob.ec
+Latin America,Ecuador,Quito,Sur Oriental,79940,2013,www.trolebus.gob.ec
+Latin America,Ecuador,Quito,Sur Occidental,220000,2013,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,El Salvador,Gran San Salvador,Corredor SITRAMSS,27000,2015,www.vmt.gob.sv
+Latin America,Guatemala,Guatemala,Ramal Central,30000,,www.muniguate.com
+Latin America,Guatemala,Guatemala,Ramal Sur,180000,,www.un.org
+Latin America,Mexico,Chihuahua,ViveBús,50000,2014,www.juareznoticias.com
+Latin America,Mexico,Ecatepec,Linea I: Ciudad Azteca - Ojo de Agua,140000,2012,www.transmasivo.com.mx
+Latin America,Mexico,Guadalajara,Línea 1,127000,2010,embarq.org
+Latin America,Mexico,Guadalupe,Guadalupe,15000,,EMBARQ Mexico
+Latin America,Mexico,León de los Aldama,Sistema Integrado de Transporte Optibus,220500,,Dirección General de Movilidad
+Latin America,Mexico,Mexico City,"Línea 1, Indios Verdes - Caminero",470000,2014,METROBÚS
+Latin America,Mexico,Mexico City,"Línea 2, Tacubaya - Tepalcates",175000,2014,METROBÚS
+Latin America,Mexico,Mexico City,"Línea 3, Tenayuca - Etiopia II",140000,2014,METROBÚS
+Latin America,Mexico,Mexico City,"Línea 4, Buenavista - San Lázaro - Aeropuerto",55000,2014,METROBÚS
+Latin America,Mexico,Mexico City,"Línea 5, Río de los Remedios - San Lázaro",60000,2014,METROBÚS
+Latin America,Mexico,Juárez,ViveBús,50000,2015,larednoticias.com.mx
+Latin America,Mexico,Monterrey,Ecovía,,,
+Latin America,Mexico,Nezahualcoyotl,Linea III: Chimalhuacán - Pantitlán,130000,2013,www.sdpnoticias.com
+Latin America,Mexico,Puebla,Línea 1,71704,,www.st.puebla.gob.mx
+Latin America,Mexico,Puebla,Línea 2,180000,2015,www.periodicodigital.mx
+Latin America,Panama,Panama,Cinta Costera,,,
+Latin America,Peru,Lima,COSAC I,350000,,Instituto Metropolitano PROTRANSPORTE de Lima 
+Latin America,Trinidad and Tobago,Port of Spain - Arima,Priority Bus Route,,,
+Latin America,Uruguay,Montevideo,Corredor Garzón,25000,2013,www.montevideo.gub.uy
+Latin America,Venezuela,Caracas,Línea 7,30000,2013,www.minci.gob.ve
+Latin America,Venezuela,Merida,Trolebús de Mérida - Línea 1,30000,2013,entrerayas.com
+Latin America,Venezuela,Barquisimeto,Ruta 1,61632,2014,www.noticiasbarquisimeto.com &es.wikipedia.org
+Latin America,Venezuela,Barquisimeto,Ruta 2,71198,2014,www.noticiasbarquisimeto.com &es.wikipedia.org
+Northern America,Canada,Brampton,Queen East,15307,2015,Brampton Transit
+Northern America,Canada,Brampton,Main,11045,2015,Brampton Transit
+Northern America,Canada,Brampton,Steeles East,9119,2015,Brampton Transit
+Northern America,Canada,Brampton,Bovaird Drive,1886,2015,Brampton Transit
+Northern America,Canada,Gatineau,Rapibus,,,
+Northern America,Canada,Halifax,,7266,2008,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,Canada,Ottawa,Transitway,220000,2013,www.octranspo1.com
+Northern America,Canada,Vancouver,Broadway Corridor,100000,,vancouver.ca
+Northern America,Canada,Waterloo,200 iXpress,11000,2013,Grand River Transit
+Northern America,Canada,Waterloo,201 iXpress,3000,2013,Grand River Transit
+Northern America,Canada,Winnipeg,RT,166000,2012,Informed by winnipeg transit
+Northern America,Canada,York Regional Municipality,Line2,35300,2008,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,United States,Albuquerque,The Red Line (766),5167,2015,www.cabq.gov
+Northern America,United States,Boston,Silver Line Waterfront,14507,2014,www.mbta.com
+Northern America,United States,Boston,Silver Line Washington Street,18879,2014,www.mbta.com
+Northern America,United States,Chicago,Jeffery Jump,12500,2013,articles.redeyechicago.com
+Northern America,United States,Cleveland,HealthLine,15800,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Eugene,Green Line,10000,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Eugene,Gateway Line,,,
+Northern America,United States,Everett,,4200,2011,www.apta.com
+Northern America,United States,Kansas City,Main Street,5400,2012,www.nbrti.org
+Northern America,United States,Kansas City,Troost Avenue,8500,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Las Vegas,MAX (Metropolitan Area Express),7400,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Las Vegas,SDX (Strip & Downtown Express),16789,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Las Vegas,SX (Sahara Express),10000,2012,news.oregonmetro.gov
+Northern America,United States,Los Angeles,Orange Line,33000,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Miami,South Miami-Dade Busway,23000,2008,www.gobrt.org
+Northern America,United States,New York,Bx12 SBS (Fordham Road - Pelham Pkwy),47037,2012,wagner.nyu.edu
+Northern America,United States,New York,M15 SBS (1st/2nd Ave),57557,2012,wagner.nyu.edu
+Northern America,United States,New York,M34/M34A SBS (34th Street),22000,2015,web.mta.info
+Northern America,United States,New York,S79 SBS (Hylan Boulevard),9972,2013,web.mta.info
+Northern America,United States,New York,B44 SBS (Nostrand Avenue),41000,2015,web.mta.info
+Northern America,United States,New York,Bx41 SBS (Webster Avenue),22000,2014,www.nyc.gov
+Northern America,United States,Oakland,San Pablo Rapid,13000,2009,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,United States,Orlando,LYNX Lymmo,4475,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Phoenix,,2372,2009,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,United States,Pittsburgh,MLK East Busway,24000,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Pittsburgh,South Busway,9262,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Pittsburgh,West Busway,8419,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,San Bernardino,sbX,,,
+Northern America,United States,San Diego,UTC Transit Center – UCSD,,,
+Northern America,United States,San Diego,UTC East Loop,,,
+Northern America,United States,Snohomish County,,4878,2010,www.commtrans.org
+Northern America,United States,Stockton,Route #40 - Pacific Corridor,3236,2012,San Joaquin Regional Transit District (RTD)
+Northern America,United States,Stockton,Route #43 - Hammer Corridor,1120,2012,San Joaquin Regional Transit District (RTD)
+Northern America,United States,Stockton,Route #44 - Airport Corridor,966,2012,San Joaquin Regional Transit District (RTD)
+Oceania,Australia,Adelaide,North East Busway,32000,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,South East Busway,160200,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,Northern Busway,108300,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,Eastern Busway,88300,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,Blacktown to Rouse Hill (North-West T-way),,,
+Oceania,Australia,Sydney - Liverpool - Parramatta,Liverpool-Parramatta T-Way,10681,2010,STA Annual Report 2009-10
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,Parramatta to Rouse Hill (North-West T-way),7660,,CDC e-mail
+Oceania,New Zealand,Auckland,Northern Busway,22900,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"

@@ -1,0 +1,75 @@
+"indicator","category","obs","nas","no_nas","availability","value_mean","value_sd","value_cv","timeliness_mean","timeliness_sd","timeliness_cv","n_sources","homogeneity"
+"Annual demand (passengers per year)","system info",206,26,180,87.4,55616676.5,128141312.6,2.3,4.2,2.5,0.6,17,10.6
+"Annual fare revenue (US$ millions)","system info",206,38,168,81.6,35.5,93,2.6,5.6,3.7,0.7,5,33.6
+"Annual operational cost (US$ million)","system cost",206,204,2,1,195279,265135.3,1.4,4,0,0,2,1
+"Average age, articulated buses","system fleet",206,178,28,13.6,3.3,3.1,0.9,3,1.8,0.6,27,1
+"Average age, bi-articulated buses","system fleet",206,200,6,2.9,2,1.8,0.9,3,1.2,0.4,6,1
+"Average age, double-decker buses","system fleet",206,204,2,1,3.4,2,0.6,2.6,1.1,0.4,2,1
+"Average age, standard buses","system fleet",206,185,21,10.2,3.9,4.2,1.1,3.3,1.8,0.6,21,1
+"Brand and logo","system image",206,61,145,70.4,NA,NA,NA,2.5,1.7,0.7,92,1.6
+"Capital cost per kilometer (US$ million per km)","system cost",206,188,18,8.7,13.7,17.3,1.3,7.7,7.5,1,11,1.6
+"Capital productivity (boardings per bus per day)","system info",206,168,38,18.4,1089.1,745.6,0.7,5,2.5,0.5,29,1.3
+"City's diesel sulfur content (ppm)","system fleet",206,161,45,21.8,NA,NA,NA,3.2,2.4,0.7,16,2.8
+"Citywide annual injuries","system road safety",206,202,4,1.9,2653.8,3089,1.2,3.8,2.1,0.5,4,1
+"Citywide annual road fatalities","system road safety",206,164,42,20.4,261.9,325,1.2,3,0.6,0.2,8,5.2
+"Citywide fare integration (other modes)","system info",206,127,79,38.3,NA,NA,NA,2.3,1,0.4,74,1.1
+"Corridors","system info",206,0,206,100,2.1,2.4,1.2,3.8,2.8,0.7,98,2.1
+"Daily demand (passengers per day)","system info",206,28,178,86.4,189306.1,437202,2.3,4.1,2.3,0.6,109,1.6
+"Depots","system info",206,159,47,22.8,3.1,5.4,1.7,4.6,3.1,0.7,30,1.6
+"Equipment cost (US$ million)","system cost",206,178,28,13.6,20367.7,47683.1,2.3,6.6,6.9,1,22,1.3
+"Fare integration within the system","system info",206,72,134,65,NA,NA,NA,2.1,1.1,0.5,126,1.1
+"Feeder routes","system info",206,125,81,39.3,9,18.5,2,2.6,1.4,0.5,47,1.7
+"Fleet, articulated buses","system fleet",206,115,91,44.2,76.3,173.9,2.3,3.1,1.8,0.6,65,1.4
+"Fleet, bi-articulated buses","system fleet",206,83,123,59.7,5,26.1,5.2,2.8,1.3,0.4,38,3.2
+"Fleet, double-decker buses","system fleet",206,73,133,64.6,0.6,6.5,11.4,2.9,1.3,0.5,32,4.2
+"Fleet, standard buses","system fleet",206,124,82,39.8,128.4,380.8,3,3.1,2.1,0.7,57,1.4
+"Fuel economy, articulated buses","system fleet",206,191,15,7.3,1259.2,394.5,0.3,4,1.5,0.4,12,1.2
+"Fuel economy, bi-articulated buses","system fleet",206,202,4,1.9,1412.5,222.3,0.2,2.8,1.3,0.5,3,1.3
+"Fuel economy, double-decker buses","system fleet",206,205,1,0.5,3.5,NA,NA,2.9,1.4,0.5,1,1
+"Fuel economy, standard buses","system fleet",206,195,11,5.3,1439.5,973.5,0.7,4.2,1.4,0.3,9,1.2
+"Fuel type, articulated buses","system fleet",206,130,76,36.9,NA,NA,NA,3.4,1.6,0.5,42,1.8
+"Fuel type, bi-articulated buses","system fleet",206,87,119,57.8,NA,NA,NA,2.9,1.3,0.4,8,14.9
+"Fuel type, double-decker buses","system fleet",206,74,132,64.1,NA,NA,NA,2.4,1.2,0.5,3,44
+"Fuel type, standard buses","system fleet",206,136,70,34,NA,NA,NA,3.3,1.6,0.5,35,2
+"GDP per capita (US$)","general info",206,0,206,100,27373.8,20437.8,0.7,2.1,0.3,0.2,2,103
+"Infrastructure cost per kilometer (US$ million per km)","system cost",206,139,67,32.5,8635.2,11555.9,1.3,5.8,4.4,0.8,48,1.4
+"Integration terminals","system info",206,86,120,58.3,2.6,3.3,1.3,3.3,2.7,0.8,83,1.4
+"Lane material at stations","additional information",206,47,159,77.2,NA,NA,NA,3.7,2.8,0.8,52,3.1
+"Lane material on running ways","additional information",206,48,158,76.7,NA,NA,NA,3.6,2.8,0.8,57,2.8
+"Modal split % non motorized","general info",206,49,157,76.2,23.8,16.1,0.7,8,3.5,0.4,84,1.9
+"Modal split % private transport","general info",206,48,158,76.7,47.8,23.2,0.5,7.9,3.5,0.4,84,1.9
+"Modal split % public transport","general info",206,47,159,77.2,28,18.5,0.7,7.9,3.5,0.4,86,1.8
+"Operating speed","additional information",206,77,129,62.6,23.6,8.8,0.4,4.3,2.7,0.6,60,2.1
+"Operational productivity (IPK)","system info",206,171,35,17,3.8,3,0.8,4.1,1.7,0.4,20,1.8
+"Operations control center","system info",206,89,117,56.8,NA,NA,NA,3.2,2.3,0.7,79,1.5
+"Overtaking lanes","additional information",206,66,140,68,NA,NA,NA,2.7,1.5,0.6,48,2.9
+"Peak frequency (buses per hour)","additional information",206,58,148,71.8,60.2,94.2,1.6,3.7,2.2,0.6,97,1.5
+"Peak load (passengers per hour per direction)","system info",206,132,74,35.9,9597.6,11344.1,1.2,3.9,2.1,0.5,48,1.5
+"Planning cost (US$ million)","system cost",206,189,17,8.3,34353.9,74308,2.2,6.2,6.9,1.1,16,1.1
+"Population density, metropolitan area","general info",206,30,176,85.4,298.2,295.7,1,4.7,2.1,0.5,61,2.9
+"Population, city","general info",206,0,206,100,2008100.7,3180431,1.6,3.8,1.9,0.5,77,2.7
+"Population, metro area","general info",206,3,203,98.5,3906578.7,5158210.7,1.3,4.5,2,0.4,80,2.5
+"Position of bus doors","additional information",206,21,185,89.8,NA,NA,NA,3.5,2.2,0.6,73,2.5
+"Position of counterflow lanes","additional information",206,57,149,72.3,NA,NA,NA,3.2,1.5,0.5,39,3.8
+"Position of with-flow lanes","additional information",206,38,168,81.6,NA,NA,NA,3.5,2.3,0.7,74,2.3
+"Pre-board fare collection","additional information",206,48,158,76.7,NA,NA,NA,2.4,1.4,0.6,83,1.9
+"Propulsion, articulated buses","system fleet",206,143,63,30.6,NA,NA,NA,3.5,1.5,0.4,34,1.9
+"Propulsion, bi-articulated buses","system fleet",206,87,119,57.8,NA,NA,NA,2.9,1.2,0.4,9,13.2
+"Propulsion, double-decker buses","system fleet",206,75,131,63.6,NA,NA,NA,2.4,1.2,0.5,3,43.7
+"Propulsion, standard buses","system fleet",206,152,54,26.2,NA,NA,NA,3.2,1.6,0.5,28,1.9
+"Real time information","additional information",206,64,142,68.9,NA,NA,NA,2.9,1.6,0.5,72,2
+"Standard fare (US$)","system info",206,17,189,91.7,1.4,1.1,0.8,0.8,0.9,1.1,155,1.2
+"Station boarding level","additional information",206,56,150,72.8,NA,NA,NA,2.8,1.6,0.6,68,2.2
+"Station spacing (m)","additional information",206,33,173,84,766.4,513.3,0.7,3.1,2.5,0.8,28,6.2
+"Stations","additional information",206,12,194,94.2,37.3,39.8,1.1,3.5,2.4,0.7,112,1.7
+"System length (km)","additional information",206,1,205,99.5,26.1,29,1.1,3.7,2.6,0.7,108,1.9
+"System name","system info",206,25,181,87.9,NA,NA,NA,1.6,1.5,0.9,25,7.2
+"Total cost per kilometer (US$ million per km)","system cost",206,154,52,25.2,12447,13824,1.1,5.2,4.5,0.9,42,1.2
+"Total fleet","system fleet",206,71,135,65.5,219.3,514.1,2.3,4.3,2.7,0.6,93,1.5
+"Transfer stations","system info",206,117,89,43.2,3.2,5.2,1.6,2.3,1.3,0.6,59,1.5
+"Transit agency","system info",206,50,156,75.7,NA,NA,NA,2.3,1.3,0.6,133,1.2
+"Trunk lines","system info",206,57,149,72.3,6.2,13.9,2.2,2.5,1.7,0.7,83,1.8
+"Typical fuel type","system fleet",206,68,138,67,NA,NA,NA,4.1,2.5,0.6,73,1.9
+"Unique bus livery","system image",206,71,135,65.5,NA,NA,NA,2.6,1.6,0.6,87,1.6
+"User rating","system image",206,146,60,29.1,NA,NA,NA,4.2,2,0.5,32,1.9
+"Year system commenced","system info",206,0,206,100,2004.9,10,0,NA,NA,NA,103,2

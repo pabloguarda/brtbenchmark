@@ -1,0 +1,75 @@
+name,value,data,link,category
+GDP per capita (US$),gdp per capita us,Indicator (System),http://brtdata.org/indicators/systems/gdp_per_capita_us,general info
+"Population, city",population city,Indicator (System),http://brtdata.org/indicators/systems/population_city,general info
+"Population, metro area",population metro area,Indicator (System),http://brtdata.org/indicators/systems/population_metro_area,general info
+"Population density, metropolitan area",population density metropolitan area,Indicator (System),http://brtdata.org/indicators/systems/population_density_metropolitan_area,general info
+Modal split % public transport,modal split public transport,Indicator (System),http://brtdata.org/indicators/systems/modal_split__public_transport,general info
+Modal split % private transport,modal split private transport,Indicator (System),http://brtdata.org/indicators/systems/modal_split__private_transport,general info
+Modal split % non motorized,modal split non motorized,Indicator (System),http://brtdata.org/indicators/systems/modal_split__non_motorized,general info
+Standard fare (US$),standard fare us,Indicator (System),http://brtdata.org/indicators/systems/standard_fare_us,system info
+Annual fare revenue (US$ millions),annual fare revenue us millions,Indicator (System),http://brtdata.org/indicators/systems/annual_fare_revenue_us_millions,system info
+Citywide fare integration (other modes),citywide fare integration other modes,Indicator (System),http://brtdata.org/indicators/systems/citywide_fare_integration_other_modes,system info
+Peak load (passengers per hour per direction),peak load passengers per hour per direction,Indicator (System),http://brtdata.org/indicators/systems/peak_load_passengers_per_hour_per_direction,system info
+Daily demand (passengers per day),daily demand passengers per day,Indicator (System),http://brtdata.org/indicators/systems/daily_demand_passengers_per_day,system info
+Annual demand (passengers per year),annual demand passengers per year,Indicator (System),http://brtdata.org/indicators/systems/annual_demand_passengers_per_year,system info
+Capital productivity (boardings per bus per day),capital productivity boardings per bus per day,Indicator (System),http://brtdata.org/indicators/systems/capital_productivity_boardings_per_bus_per_day,system info
+Operational productivity (IPK),operational productivity ipk,Indicator (System),http://brtdata.org/indicators/systems/operational_productivity_ipk,system info
+System name,system name,Indicator (System),http://brtdata.org/indicators/systems/system_name,system info
+Corridors,corridors,Indicator (System),http://brtdata.org/indicators/systems/corridors,system info
+Year system commenced,year system commenced,Indicator (System),http://brtdata.org/indicators/systems/year_system_commenced,system info
+Transit agency,transit agency,Indicator (System),http://brtdata.org/indicators/systems/transit_agency,system info
+Fare integration within the system,fare integration within the system,Indicator (System),http://brtdata.org/indicators/systems/fare_integration_within_the_system,system info
+Integration terminals,integration terminals,Indicator (System),http://brtdata.org/indicators/systems/integration_terminals,system info
+Transfer stations,transfer stations,Indicator (System),http://brtdata.org/indicators/systems/transfer_stations,system info
+Operations control center,operations control center,Indicator (System),http://brtdata.org/indicators/systems/operations_control_center,system info
+Trunk lines,trunk lines,Indicator (System),http://brtdata.org/indicators/systems/trunk_lines,system info
+Feeder routes,feeder routes,Indicator (System),http://brtdata.org/indicators/systems/feeder_routes,system info
+Depots,depots,Indicator (System),http://brtdata.org/indicators/systems/depots,system info
+System length (km),system length km,Indicator (System),http://brtdata.org/indicators/systems/system_length_km,additional information
+Station spacing (m),station spacing m,Indicator (System),http://brtdata.org/indicators/systems/station_spacing_m,additional information
+Peak frequency (buses per hour),peak frequency buses per hour,Indicator (System),http://brtdata.org/indicators/systems/peak_frequency_buses_per_hour,additional information
+Position of with-flow lanes,position of with flow lanes,Indicator (System),http://brtdata.org/indicators/systems/position_of_with-flow_lanes,additional information
+Position of counterflow lanes,position of counterflow lanes,Indicator (System),http://brtdata.org/indicators/systems/position_of_counterflow_lanes,additional information
+Position of bus doors,position of bus doors,Indicator (System),http://brtdata.org/indicators/systems/position_of_bus_doors,additional information
+Lane material on running ways,lane material on running ways,Indicator (System),http://brtdata.org/indicators/systems/lane_material_on_running_ways,additional information
+Lane material at stations,lane material at stations,Indicator (System),http://brtdata.org/indicators/systems/lane_material_at_stations,additional information
+Stations,stations,Indicator (System),http://brtdata.org/indicators/systems/stations,additional information
+Pre-board fare collection,pre board fare collection,Indicator (System),http://brtdata.org/indicators/systems/pre-board_fare_collection,additional information
+Overtaking lanes,overtaking lanes,Indicator (System),http://brtdata.org/indicators/systems/overtaking_lanes,additional information
+Station boarding level,station boarding level,Indicator (System),http://brtdata.org/indicators/systems/station_boarding_level,additional information
+Real time information,real time information,Indicator (System),http://brtdata.org/indicators/systems/real_time_information,additional information
+Operating speed,operating speed,Indicator (System),http://brtdata.org/indicators/systems/operating_speed,additional information
+City's diesel sulfur content (ppm),ity s diesel sulfur content ppm,Indicator (System),http://brtdata.org/indicators/systems/citys_diesel_sulfur_content_ppm,system fleet
+Total fleet,total fleet,Indicator (System),http://brtdata.org/indicators/systems/total_fleet,system fleet
+"Fleet, standard buses",fleet standard buses,Indicator (System),http://brtdata.org/indicators/systems/fleet_standard_buses,system fleet
+"Average age, standard buses",average age standard buses,Indicator (System),http://brtdata.org/indicators/systems/average_age_standard_buses,system fleet
+"Propulsion, standard buses",propulsion standard buses,Indicator (System),http://brtdata.org/indicators/systems/propulsion_standard_buses,system fleet
+"Fuel type, standard buses",fuel type standard buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_type_standard_buses,system fleet
+"Fuel economy, standard buses",fuel economy standard buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_economy_standard_buses,system fleet
+"Fleet, articulated buses",fleet articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fleet_articulated_buses,system fleet
+"Average age, articulated buses",average age articulated buses,Indicator (System),http://brtdata.org/indicators/systems/average_age_articulated_buses,system fleet
+"Propulsion, articulated buses",propulsion articulated buses,Indicator (System),http://brtdata.org/indicators/systems/propulsion_articulated_buses,system fleet
+"Fuel type, articulated buses",fuel type articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_type_articulated_buses,system fleet
+"Fuel economy, articulated buses",fuel economy articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_economy_articulated_buses,system fleet
+"Fleet, bi-articulated buses",fleet bi articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fleet_bi-articulated_buses,system fleet
+"Average age, bi-articulated buses",average age bi articulated buses,Indicator (System),http://brtdata.org/indicators/systems/average_age_bi-articulated_buses,system fleet
+"Propulsion, bi-articulated buses",propulsion bi articulated buses,Indicator (System),http://brtdata.org/indicators/systems/propulsion_bi-articulated_buses,system fleet
+"Fuel type, bi-articulated buses",fuel type bi articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_type_bi-articulated_buses,system fleet
+"Fuel economy, bi-articulated buses",fuel economy bi articulated buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_economy_bi-articulated_buses,system fleet
+"Fleet, double-decker buses",fleet double decker buses,Indicator (System),http://brtdata.org/indicators/systems/fleet_double-decker_buses,system fleet
+"Average age, double-decker buses",average age double decker buses,Indicator (System),http://brtdata.org/indicators/systems/average_age_double-decker_buses,system fleet
+"Propulsion, double-decker buses",propulsion double decker buses,Indicator (System),http://brtdata.org/indicators/systems/propulsion_double-decker_buses,system fleet
+"Fuel type, double-decker buses",fuel type double decker buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_type_double-decker_buses,system fleet
+"Fuel economy, double-decker buses",fuel economy double decker buses,Indicator (System),http://brtdata.org/indicators/systems/fuel_economy_double-decker_buses,system fleet
+Typical fuel type,typical fuel type,Indicator (System),http://brtdata.org/indicators/systems/typical_fuel_type,system fleet
+Total cost per kilometer (US$ million per km),total cost per kilometer us million per km,Indicator (System),http://brtdata.org/indicators/systems/total_cost_per_kilometer_us_million_per_km,system cost
+Planning cost (US$ million),planning cost us million,Indicator (System),http://brtdata.org/indicators/systems/planning_cost_us_million,system cost
+Capital cost per kilometer (US$ million per km),capital cost per kilometer us million per km,Indicator (System),http://brtdata.org/indicators/systems/capital_cost_per_kilometer_us_million_per_km,system cost
+Infrastructure cost per kilometer (US$ million per km),infrastructure cost per kilometer us million per km,Indicator (System),http://brtdata.org/indicators/systems/infrastructure_cost_per_kilometer_us_million_per_km,system cost
+Equipment cost (US$ million),equipment cost us million,Indicator (System),http://brtdata.org/indicators/systems/equipment_cost_us_million,system cost
+Annual operational cost (US$ million),annual operational cost us million,Indicator (System),http://brtdata.org/indicators/systems/annual_operational_cost_us_million,system cost
+User rating,user rating,Indicator (System),http://brtdata.org/indicators/systems/user_rating,system image
+Brand and logo,brand and logo,Indicator (System),http://brtdata.org/indicators/systems/brand_and_logo,system image
+Unique bus livery,unique bus livery,Indicator (System),http://brtdata.org/indicators/systems/unique_bus_livery,system image
+Citywide annual road fatalities,citywide annual road fatalities,Indicator (System),http://brtdata.org/indicators/systems/citywide_annual_road_fatalities,system road safety
+Citywide annual injuries,citywide annual injuries,Indicator (System),http://brtdata.org/indicators/systems/citywide_annual_injuries,system road safety

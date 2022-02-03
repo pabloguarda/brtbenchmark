@@ -1,0 +1,204 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,,,
+Africa,South Africa,Cape Town,,,
+Africa,South Africa,Johannesburg,5760,2013,www.embarq.org
+Asia,China,Beijing,8000,2011,Jane's Urban Transport Systems
+Asia,China,Changde,800,2013,www.chinabrt.org
+Asia,China,Changzhou,,,
+Asia,China,Chengdu,6650,2013,www.worldbrt.net
+Asia,China,Chongqing,,,
+Asia,China,Dalian,6430,2014,www.chinabrt.org
+Asia,China,Guangzhou,29000,2013,www.embarq.org
+Asia,China,Hangzhou,3700,2015,www.worldbrt.net
+Asia,China,Hefei,3600,2011,www.chinabrt.org
+Asia,China,Jinan,2050,2014,www.chinabrt.org
+Asia,China,Kunming,6300,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,China,Lanzhou,6550,2013,www.chinabrt.org
+Asia,China,Lianyungang,1650,2013,www.chinabrt.org
+Asia,China,Urumqi,6950,2013,www.chinabrt.org
+Asia,China,Xiamen,8360,2012,www.chinabrt.org
+Asia,China,Yancheng,1300,2011,www.chinabrt.org
+Asia,China,Yichang,5400,2015,www.chinabrt.org
+Asia,China,Yinchuan,3600,2012,www.chinabrt.org
+Asia,China,Zaozhuang,700,2011,www.chinabrt.org
+Asia,China,Zhengzhou,5600,2013,www.chinabrt.org
+Asia,India,Ahmedabad,1780,2013,www.embarq.org
+Asia,India,Bhopal,,,
+Asia,India,Indore,,,
+Asia,India,Jaipur,1046,2011,"Primary Survey, EMBARQ"
+Asia,India,Pune - Primpi-Chinchwad,3600,2015,webcache.googleusercontent.com
+Asia,India,Rajkot,,,
+Asia,India,Surat,,,
+Asia,Indonesia,Jakarta,3600,2013,www.embarq.org
+Asia,Iran,Isfahan,,,
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,,,
+Asia,Israel,Haifa,,,
+Asia,Japan,Kesennuma - Tome,,,
+Asia,Japan,Nagoya,750,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Malaysia,Subang Jaya,,,
+Asia,Pakistan,Islamabad - Rawalpindi,2100,2015,www.worldbrt.net
+Asia,Pakistan,Lahore,10000,2015,en.wikipedia.org
+Asia,Republic of Korea,Seoul,8400,2011,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Taiwan,Chiayi,,,
+Asia,Taiwan,Taichung,,,
+Asia,Taiwan,Taipei,9500,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,1200,2011,www.chinabrt.org
+Europe,Belgium,Liège,,,
+Europe,Czech Republic,Prague,,,
+Europe,Finland,Helsinki,,,
+Europe,France,Belfort,,,
+Europe,France,Caen,,,
+Europe,France,Cannes,,,
+Europe,France,Châlon-sur-Saône,,,
+Europe,France,Douai,,,
+Europe,France,Evry,,,
+Europe,France,La Rochelle,,,
+Europe,France,Lille,,,
+Europe,France,Lorient,,,
+Europe,France,Lyon,,,
+Europe,France,Maubeuge,,,
+Europe,France,Metz,,,
+Europe,France,Nancy,,,
+Europe,France,Nantes,2000,2011,COST - European Cooperation in Science and Technology
+Europe,France,Nice,,,
+Europe,France,Nîmes,,,
+Europe,France,Paris,3000,2011,
+Europe,France,Rouen,,,
+Europe,France,Saint-Nazaire,,,
+Europe,France,Strasbourg,,,
+Europe,France,Toulouse,,,
+Europe,Germany,Essen,,,
+Europe,Germany,Hamburg,,,
+Europe,Germany,Oberhausen,,,
+Europe,Ireland,Dublin,6400,2009,"Heddebaut O. et. al ""The European Bus with a High Level of Service (BHLS): Concept and Practice"", Built Environment Vol 36, No. 3, 2010"
+Europe,Italy,Brescia,,,
+Europe,Italy,Prato,,,
+Europe,Netherlands,Almere,,,
+Europe,Netherlands,Amsterdam,960,2011,ITDP
+Europe,Netherlands,Eindhoven,,,
+Europe,Netherlands,Enschede,,,
+Europe,Netherlands,Utrecht,,,
+Europe,Portugal,Lisbon,12000,2011,European Cooperation in Science and Technology. 2011. Buses with High Level Service – Fundamental characteristics and recommendations for decision-making and research.
+Europe,Spain,Barcelona,1220,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Castellon,,,
+Europe,Spain,Madrid,7500,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,,,
+Europe,Sweden,Gothenburg,,,
+Europe,Sweden,Jonkoping,,,
+Europe,Sweden,Stockholm,,,
+Europe,Switzerland,Zurich,1300,2011,COST - European Cooperation in Science and Technology
+Europe,Turkey,Istanbul,30000,2013,Levinson H. et. al - A Bus Rapid Transit Line Case Study: Istanbul’s Metrobüs System
+Europe,United Kingdom,Bradford,,,
+Europe,United Kingdom,Cambridge,,,
+Europe,United Kingdom,Crawley,,,
+Europe,United Kingdom,Edinburgh,,,
+Europe,United Kingdom,Fareham - Gosport,,,
+Europe,United Kingdom,Kent,,,
+Europe,United Kingdom,Leeds,,,
+Europe,United Kingdom,London,,,
+Europe,United Kingdom,Luton,,,
+Europe,United Kingdom,Manchester,,,
+Europe,United Kingdom,Runcorn,,,
+Europe,United Kingdom,Swansea,,,
+Europe,United Kingdom,York,,,
+Latin America,Argentina,Buenos Aires,3500,2013,movilidad.buenosaires.gob.ar
+Latin America,Argentina,Córdoba,,,
+Latin America,Argentina,Rosario,,,
+Latin America,Brazil,Belém,,,
+Latin America,Brazil,Belo Horizonte,35000,2012,BHTrans
+Latin America,Brazil,Blumenau,,,
+Latin America,Brazil,Brasília,,,
+Latin America,Brazil,Campinas,,,
+Latin America,Brazil,Campo Grande,,,
+Latin America,Brazil,Caxias do Sul,,,
+Latin America,Brazil,Criciúma,,,
+Latin America,Brazil,Curitiba,12500,2013,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,São Paulo - Metropolitan area,,,
+Latin America,Brazil,Feira de Santana,,,
+Latin America,Brazil,Fortaleza,10000,,ETUFOR
+Latin America,Brazil,Goiânia,20000,,RMTC
+Latin America,Brazil,Guarulhos,,,
+Latin America,Brazil,Jaboatão dos Guararapes,,,
+Latin America,Brazil,João Pessoa,37070,2012,Semob-JP
+Latin America,Brazil,Joinville,,,
+Latin America,Brazil,Juiz de Fora,,,
+Latin America,Brazil,Londrina,,,
+Latin America,Brazil,Maceió,,,
+Latin America,Brazil,Natal,,,
+Latin America,Brazil,Niterói,,,
+Latin America,Brazil,Olinda,,,
+Latin America,Brazil,Porto Alegre,16800,2012,EPTC
+Latin America,Brazil,Recife,,,
+Latin America,Brazil,Rio de Janeiro,65400,"2012, corridor BRS Presidente Vargas",NTU
+Latin America,Brazil,Salvador,,,
+Latin America,Brazil,Santos,,,
+Latin America,Brazil,São Paulo,28024,,SPTrans
+Latin America,Brazil,Sorocaba,,,
+Latin America,Brazil,Sumaré,,,
+Latin America,Brazil,Teresina,,,
+Latin America,Brazil,Uberaba,,,
+Latin America,Brazil,Uberlândia,3583,2013,www.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,13500,2013,SUBUS
+Latin America,Colombia,Barranquilla,,,
+Latin America,Colombia,Bogotá,48000,2013,TransMilenio
+Latin America,Colombia,Bucaramanga,4525,2011,Metrolínea
+Latin America,Colombia,Cali,13000,2013,Metro Cali S.A.
+Latin America,Colombia,Medellín,2450,2013,Metroplús
+Latin America,Colombia,Pereira,6900,2009,pdf.wri.org
+Latin America,Ecuador,Guayaquil,15000,2013,www.eluniverso.com
+Latin America,Ecuador,Quito,11700,2011,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,El Salvador,Gran San Salvador,3000,2015,www.vmt.gob.sv
+Latin America,Guatemala,Guatemala,12500,,www.un.org
+Latin America,Mexico,Chihuahua,,,
+Latin America,Mexico,Ecatepec,9000,2012,www.transmasivo.com.mx
+Latin America,Mexico,Guadalajara,9000,2010,Macrobus
+Latin America,Mexico,Guadalupe,,,
+Latin America,Mexico,León de los Aldama,7000,,Dirección General de Movilidad
+Latin America,Mexico,Mexico City,12000,2014,METROBÚS
+Latin America,Mexico,Juárez,,,
+Latin America,Mexico,Monterrey,,,
+Latin America,Mexico,Nezahualcoyotl,,,
+Latin America,Mexico,Pachuca,,,
+Latin America,Mexico,Puebla,,,
+Latin America,Panama,Panama,9500,,i-rooms.net
+Latin America,Peru,Lima,22800,,Instituto Metropolitano PROTRANSPORTE de Lima 
+Latin America,Trinidad and Tobago,Port of Spain - Arima,,,
+Latin America,Uruguay,Montevideo,,,
+Latin America,Venezuela,Caracas,,,
+Latin America,Venezuela,Merida,9000,,"María Alejandra Guilarte Castro, Former president of Trolmerida"
+Latin America,Venezuela,Barquisimeto,,,
+Northern America,Canada,Brampton,1343,2015,Brampton Transit
+Northern America,Canada,Gatineau,3500,2013,www.sto.ca
+Northern America,Canada,Halifax,,,
+Northern America,Canada,Ottawa,10500,2013,www.octranspo1.com
+Northern America,Canada,Vancouver,,,
+Northern America,Canada,Waterloo,,,
+Northern America,Canada,Winnipeg,,,
+Northern America,Canada,York Regional Municipality,,,
+Northern America,United States,Alexandria - Arlington,,,
+Northern America,United States,Albuquerque,,,
+Northern America,United States,Boston,,,
+Northern America,United States,Chicago,,,
+Northern America,United States,Cleveland,,,
+Northern America,United States,Eugene,500,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Everett,,,
+Northern America,United States,Kansas City,,,
+Northern America,United States,Las Vegas,,,
+Northern America,United States,Los Angeles,,,
+Northern America,United States,Miami,,,
+Northern America,United States,New York,,,
+Northern America,United States,Oakland,,,
+Northern America,United States,Orlando,,,
+Northern America,United States,Phoenix,,,
+Northern America,United States,Pittsburgh,5000,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,San Bernardino,,,
+Northern America,United States,San Diego,,,
+Northern America,United States,Snohomish County,,,
+Northern America,United States,Stockton,,,
+Oceania,Australia,Adelaide,6700,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,19900,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,,,
+Oceania,Australia,Sydney - Liverpool - Parramatta,3069,2011,STA - Business Information System Report. Average daily figures.
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,,,
+Oceania,New Zealand,Auckland,2200,2012,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"

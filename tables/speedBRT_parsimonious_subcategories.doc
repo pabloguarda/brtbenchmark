@@ -1,0 +1,28 @@
+
+<table style="text-align:center"><caption><strong>Regression coefficients</strong></caption>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="4"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="4" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td><em>OLS</em></td><td><em>ordered</em></td><td><em>ordered</em></td><td><em>logistic</em></td></tr>
+<tr><td style="text-align:left"></td><td><em></em></td><td><em>logistic</em></td><td><em>logistic</em></td><td><em></em></td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">highAffluence</td><td>-2.111 (-2.400)</td><td>-5.896<sup>**</sup> (-3.000)</td><td>-5.100<sup>**</sup> (-2.400)</td><td>-6.230<sup>***</sup> (-2.200)</td></tr>
+<tr><td style="text-align:left">largeStopSpacing</td><td>-1.796 (-2.400)</td><td>-4.514 (-3.000)</td><td>-4.147 (-2.600)</td><td>-5.137<sup>**</sup> (-2.400)</td></tr>
+<tr><td style="text-align:left">dedicatedRightOfWay</td><td>-0.039 (-0.100)</td><td>0.702 (1.700)</td><td>0.631 (1.600)</td><td>1.392 (2.100)</td></tr>
+<tr><td style="text-align:left">intersectionTreatments</td><td>0.750 (4.900)</td><td>1.896 (3.900)</td><td>1.693 (3.200)</td><td>1.898 (3.000)</td></tr>
+<tr><td style="text-align:left">allDoorBoarding</td><td>1.254 (4.700)</td><td>1.957 (3.400)</td><td>1.917 (3.300)</td><td>1.847 (2.900)</td></tr>
+<tr><td style="text-align:left">1| 2</td><td></td><td>2.404<sup>***</sup> (0.700)</td><td>6.697<sup>***</sup> (2.100)</td><td></td></tr>
+<tr><td style="text-align:left">2| 3</td><td></td><td>7.343<sup>***</sup> (2.300)</td><td>8.196<sup>***</sup> (2.500)</td><td></td></tr>
+<tr><td style="text-align:left">3| 4</td><td></td><td>8.223<sup>***</sup> (2.500)</td><td></td><td></td></tr>
+<tr><td style="text-align:left">4| 5</td><td></td><td>8.750<sup>***</sup> (2.600)</td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>-4.668<sup>**</sup> (-2.200)</td><td></td><td></td><td>-12.877<sup>***</sup> (-2.500)</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">206.79</td><td></td><td>67.42</td><td>54.72</td><td>35.16</td></tr>
+<tr><td style="text-align:left">Log-likelihood</td><td>-96.4</td><td>-24.71</td><td>-20.36</td><td>-11.58</td></tr>
+<tr><td style="text-align:left">Observations</td><td>47</td><td>47</td><td>47</td><td>47</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.501</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.440</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Log Likelihood</td><td></td><td></td><td></td><td>-11.581</td></tr>
+<tr><td style="text-align:left">Akaike Inf. Crit.</td><td></td><td></td><td></td><td>35.162</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>2.014 (df = 41)</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>8.229<sup>***</sup> (df = 5; 41)</td><td></td><td></td><td></td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td colspan="5" style="text-align:left"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

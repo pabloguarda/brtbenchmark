@@ -1,0 +1,203 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,15,2010,staging.wider.unu.edu
+Africa,South Africa,Cape Town,47,2014,www.statssa.gov.za
+Africa,South Africa,Johannesburg,37,2002,www.joburg.org.za
+Asia,China,Beijing,23,2005,ltaacademy.gov.sg
+Asia,China,Changde,,,
+Asia,China,Changzhou,,,
+Asia,China,Chengdu,11,2002,www.kas.de
+Asia,China,Chongqing,,,
+Asia,China,Dalian,,,
+Asia,China,Guangzhou,21,2007,www.cities-for-mobility.net
+Asia,China,Hangzhou,,,
+Asia,China,Hefei,,,
+Asia,China,Jinan,,,
+Asia,China,Kunming,,,
+Asia,China,Lanzhou,,,
+Asia,China,Lianyungang,,,
+Asia,China,Urumqi,,,
+Asia,China,Xiamen,,,
+Asia,China,Yancheng,,,
+Asia,China,Yichang,,,
+Asia,China,Yinchuan,,,
+Asia,China,Zaozhuang,,,
+Asia,China,Zhengzhou,,,
+Asia,India,Ahmedabad,42,2011,www.lta.gov.sg
+Asia,India,Bhopal,19,2005,cleanairinitiative.org
+Asia,India,Indore,37,2005,cleanairinitiative.org
+Asia,India,Jaipur,39,2010,cseindia.org
+Asia,India,Pune,55,2005,cleanairinitiative.org
+Asia,India,Rajkot,38,2005,cleanairinitiative.org
+Asia,India,Surat,31,2005,cleanairinitiative.org
+Asia,Indonesia,Jakarta,41,2009,www.ide.titech.ac.jp
+Asia,Iran,Isfahan,,,
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,,,
+Asia,Israel,Haifa,57,2007,www.eltis.org
+Asia,Japan,Kesennuma - Tome,,,
+Asia,Japan,Nagoya,,,
+Asia,Malaysia,Subang Jaya,81,2012,eps.mbpj.gov.my
+Asia,Pakistan,Islamabad - Rawalpindi,,,
+Asia,Pakistan,Lahore,24,1992,www.nctr.usf.edu
+Asia,Republic of Korea,Seoul,,,
+Asia,Taiwan,Chiayi,,,
+Asia,Taiwan,Taichung,84,2013,easts.info
+Asia,Taiwan,Taipei,47,2009,ltaacademy.gov.sg
+Asia,Thailand,Bangkok,60,2009,www.ide.titech.ac.jp
+Europe,Belgium,Liège,76,2008,www.epomm.eu
+Europe,Czech Republic,Prague,33,2009,ltaacademy.gov.sg
+Europe,Finland,Helsinki,23,2013,www.epomm.eu
+Europe,France,Belfort,,,
+Europe,France,Caen,,,
+Europe,France,Cannes,,,
+Europe,France,Châlon-sur-Saône,,,
+Europe,France,Douai,,,
+Europe,France,Evry,,,
+Europe,France,La Rochelle,,,
+Europe,France,Lille,58,2006,www.epomm.eu
+Europe,France,Lorient,66,2004,www.epomm.eu
+Europe,France,Lyon,51,2006,www.epomm.eu
+Europe,France,Maubeuge,70,2004,www.epomm.eu
+Europe,France,Metz,54,2006,Metz Mètropole
+Europe,France,Nancy,50,2013,www.epomm.eu
+Europe,France,Nantes,52,2012,www.epomm.eu
+Europe,France,Nice,48,2009,www.epomm.eu
+Europe,France,Nîmes,57,2004,www.nimes-metropole.fr
+Europe,France,Paris,16,2008,www.epomm.eu
+Europe,France,Rouen,58,2007,www.epomm.eu
+Europe,France,Saint-Nazaire,,,
+Europe,France,Strasbourg,47,2009,www.epomm.eu
+Europe,France,Toulouse,75,2004,www.epomm.eu
+Europe,Germany,Essen,54,2001,www.epomm.eu
+Europe,Germany,Hamburg,42,2008,www.epomm.eu
+Europe,Germany,Oberhausen,56,2002,www.epomm.eu
+Europe,Ireland,Dublin,58,2011,www.cso.ie
+Europe,Italy,Brescia,68,2001,www.epomm.eu
+Europe,Italy,Prato,84,2001,www.nationaler-radverkehrsplan.de
+Europe,Netherlands,Almere,51,2008,www.epomm.eu
+Europe,Netherlands,Amsterdam,38,2008,www.epomm.eu
+Europe,Netherlands,Eindhoven,56,2008,www.epomm.eu
+Europe,Netherlands,Enschede,55,2008,www.epomm.eu
+Europe,Netherlands,Utrecht,47,2008,www.epomm.eu
+Europe,Portugal,Lisbon,48,2001,www.epomm.eu
+Europe,Spain,Barcelona,37,2007,"EMIT 2007, TMB"
+Europe,Spain,Castellon,,,
+Europe,Spain,Madrid,29,2012,www.epomm.eu
+Europe,Spain,Granada,,,
+Europe,Sweden,Gothenburg,50,2006,www.epomm.eu
+Europe,Sweden,Jonkoping,,,
+Europe,Sweden,Stockholm,47,2006,www.epomm.eu
+Europe,Switzerland,Zurich,30,2005,www.epomm.eu
+Europe,Turkey,Istanbul,15,2011,Istanbul Transportation Master Plan by the Greater City Municipality
+Europe,United Kingdom,Bradford,72,2010,www.wymetro.com
+Europe,United Kingdom,Cambridge,70,2010,Office for National Statistics
+Europe,United Kingdom,Crawley,,,
+Europe,United Kingdom,Edinburgh,45,2008,www.epomm.eu
+Europe,United Kingdom,Fareham - Gosport,70,"2012, South Hampshire modal split",www3.hants.gov.uk
+Europe,United Kingdom,Kent,,,
+Europe,United Kingdom,Leeds,57,2010,www.epomm.eu
+Europe,United Kingdom,London,40,2011,ltaacademy.gov.sg
+Europe,United Kingdom,Luton,,,
+Europe,United Kingdom,Manchester,71,2011,www.epomm.eu
+Europe,United Kingdom,Runcorn,75,2009,www3.halton.gov.uk
+Europe,United Kingdom,Swansea,,,
+Europe,United Kingdom,York,57,2011,www.epomm.eu
+Latin America,Argentina,Buenos Aires,46.3,2010,omu.caf.com
+Latin America,Argentina,Córdoba,29.8,2009,www2.cordoba.gov.ar
+Latin America,Argentina,Rosario,36,2008,www.ptuba.gov.ar
+Latin America,Brazil,Belém,25.7,"2011, North region",www.ipea.gov.br
+Latin America,Brazil,Belo Horizonte,36.7,2012,www.bhtrans.pbh.gov.br
+Latin America,Brazil,Blumenau,44.1,"2011, South region",www.ipea.gov.br
+Latin America,Brazil,Brasília,40.8,2009,editais.st.df.gov.br & editais.st.df.gov.br
+Latin America,Brazil,Campinas,43.8,2011,www.stm.sp.gov.br
+Latin America,Brazil,Campo Grande,43,"2011, Midwest region",www.ipea.gov.br
+Latin America,Brazil,Caxias do Sul,44.1,"2011, South region",www.ipea.gov.br
+Latin America,Brazil,Criciúma,44.1,"2011, South region",www.ipea.gov.br
+Latin America,Brazil,Curitiba,26,,URBS - Unidade de Gestão de Informação
+Latin America,Brazil,São Paulo - Metropolitan area,31.1,"2012, metropolitan area",www.metro.sp.gov.br
+Latin America,Brazil,Feira de Santana,32.4,"2011, Northeast region",www.ipea.gov.br
+Latin America,Brazil,Fortaleza,32.4,"2011, Northeast region",www.ipea.gov.br
+Latin America,Brazil,Goiânia,44,2012,indicadores.cidadessustentaveis.org.br
+Latin America,Brazil,Guarulhos,29.5,2007,www.metro.sp.gov.br
+Latin America,Brazil,Jaboatão dos Guararapes,32.4,"2011, Northeast region",www.ipea.gov.br
+Latin America,Brazil,João Pessoa,32.4,"2011, Northeast region",www.ipea.gov.br
+Latin America,Brazil,Joinville,29,2010,ippuj.joinville.sc.gov.br
+Latin America,Brazil,Juiz de Fora,37.2,"2011, Southeast region",www.ipea.gov.br
+Latin America,Brazil,Londrina,34,2004,IPPUL
+Latin America,Brazil,Maceió,32.4,"2011, Northeast region",www.ipea.gov.br
+Latin America,Brazil,Natal,25,,www.entrebairros.com.br
+Latin America,Brazil,Niterói,16.5,,Plano Diretor de Transporte Urbano da RMRJ - Resultado da pesquisa origem/destino
+Latin America,Brazil,Olinda,,,
+Latin America,Brazil,Porto Alegre,28,2003,lproweb.procempa.com.br
+Latin America,Brazil,Recife,31.3,2012,indicadores.cidadessustentaveis.org.br
+Latin America,Brazil,Rio de Janeiro,19.5,"2012, metropolitan area",www.seaerj.org.br
+Latin America,Brazil,Salvador,22.4,2012,www.seinfra.ba.gov.br
+Latin America,Brazil,Santos,37.2,"2011, Southeast region",www.ipea.gov.br
+Latin America,Brazil,São Paulo,31.1,"2012, metropolitan area",www.metro.sp.gov.br
+Latin America,Brazil,Sorocaba,42,2013,www.urbes.com.br
+Latin America,Brazil,Sumaré,39,,www.stm.sp.gov.br
+Latin America,Brazil,Teresina,31.2,2008,www.teresina.pi.gov.br
+Latin America,Brazil,Uberaba,,,
+Latin America,Brazil,Uberlândia,26,2012,www.ppgec.feciv.ufu.br
+Latin America,Chile,Santiago,23,2006,www.sectra.gob.cl
+Latin America,Colombia,Barranquilla,18.6,2015,"Article: Towards multi-modal integrated mobility systems: Views from Panama City and Barranquilla. Adriana Ortegon S, Nick Tyler"
+Latin America,Colombia,Bogotá,26,2010,"OBSERVATORIO DE MOVILIDAD: Reporte Anual de Movilidad, 2009."
+Latin America,Colombia,Bucaramanga,34,,Metrolinea
+Latin America,Colombia,Cali,17,2005,Plan maestro de ciclo-rutas
+Latin America,Colombia,Medellín,19,,issuu.com
+Latin America,Colombia,Pereira,22,,AMCO
+Latin America,Ecuador,Guayaquil,16,2004,www.metrovia-gye.com & Metrovía
+Latin America,Ecuador,Quito,35,2009,Plan Maestro de Movilidad del Distrito Metropolitano de Quito 2012
+Latin America,El Salvador,Gran San Salvador,,,
+Latin America,Guatemala,Guatemala,76,,Transmetro
+Latin America,Mexico,Chihuahua,63.4,,www.implanchihuahua.gob.mx
+Latin America,Mexico,Ecatepec,20.7,2010,www.transparencialinea3.df.gob.mx
+Latin America,Mexico,Guadalajara,27,2007,CEIT
+Latin America,Mexico,Guadalupe,41.2,"2005, for all metropolitan area of Metrorrey",www.cleanairinstitute.org
+Latin America,Mexico,León de los Aldama,27,2007,omu.caf.com
+Latin America,Mexico,Mexico City,20.7,2007,www.oecd.org
+Latin America,Mexico,Juárez,59,2004,www.planjuarez.org
+Latin America,Mexico,Monterrey,41.2,"2005, for all metropolitan area of Metrorrey",www.cleanairinstitute.org
+Latin America,Mexico,Nezahualcoyotl,20.7,2010,www.transparencialinea3.df.gob.mx
+Latin America,Mexico,Puebla,45,2008,siteresources.worldbank.org
+Latin America,Panama,Panama,6.3,,www.presidencia.gob.pa
+Latin America,Peru,Lima,12,2004,Urban Transport Master Plan For Limas's Metropolitan Area and Callao (2004)
+Latin America,Trinidad and Tobago,Port of Spain - Arima,,,
+Latin America,Uruguay,Montevideo,43,2009,cefir.org.uy
+Latin America,Venezuela,Caracas,24.7,2009,CAF
+Latin America,Venezuela,Merida,44,,
+Latin America,Venezuela,Barquisimeto,,,
+Northern America,Canada,Brampton,91,2009,www.brampton.ca
+Northern America,Canada,Gatineau,74,2011,conf.tac-atc.ca
+Northern America,Canada,Halifax,,,
+Northern America,Canada,Ottawa,72,2006,www.epomm.eu
+Northern America,Canada,Vancouver,58,,
+Northern America,Canada,Waterloo,88,2006,www.regionofwaterloo.ca
+Northern America,Canada,Winnipeg,79,2006,www.epomm.eu
+Northern America,Canada,York Regional Municipality,,,
+Northern America,United States,Alexandria - Arlington,64,"2013, only Arlington",transportation.arlingtonva.us
+Northern America,United States,Albuquerque,95,2013,infogr.am
+Northern America,United States,Boston,45,2009,en.wikipedia.org
+Northern America,United States,Chicago,63,2011,ltaacademy.gov.sg
+Northern America,United States,Cleveland,89,2004,www.epomm.eu
+Northern America,United States,Eugene,9,2009,Estimated from: www.toddata.cnt.org
+Northern America,United States,Everett,86,"2012, only modal split of Everett",www.everettwa.org
+Northern America,United States,Kansas City,97,2009,www.thetransportpolitic.com
+Northern America,United States,Las Vegas,93,2009,www.thetransportpolitic.com
+Northern America,United States,Los Angeles,44,2003,www.visionlosangeles.org
+Northern America,United States,Miami,94,2009,www.thetransportpolitic.com
+Northern America,United States,New York,44,2009,ltaacademy.gov.sg
+Northern America,United States,Oakland,78,"2009, the data refers to San Francisco Metropolitan Area",www.thetransportpolitic.com
+Northern America,United States,Orlando,97,2009,www.thetransportpolitic.com
+Northern America,United States,Phoenix,94,2009,www.thetransportpolitic.com
+Northern America,United States,Pittsburgh,90,2009,www.thetransportpolitic.com
+Northern America,United States,San Bernardino,90,"2009, the data refers to Los Angeles Metropolitan Area",www.thetransportpolitic.com
+Northern America,United States,San Diego,90,2008,www.sandiego.gov
+Northern America,United States,Snohomish County,86,"2009, the data refers to Seattle Metropolitan Area",www.thetransportpolitic.com
+Northern America,United States,Stockton,96,2006,www.stancog.org
+Oceania,Australia,Adelaide,84,2011,mams.rmit.edu.au
+Oceania,Australia,Brisbane,79,2011,mams.rmit.edu.au
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,70,2011,mams.rmit.edu.au
+Oceania,Australia,Sydney - Liverpool - Parramatta,70,2011,mams.rmit.edu.au
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,70,2011,mams.rmit.edu.au
+Oceania,New Zealand,Auckland,81,2011,New Zealand Household Travel Survey 2003 - 2011

@@ -1,0 +1,54 @@
+Year,Country,City,System,Corridor,Corridor Length (km),BRT Basics - Minimum score of 18 points needed,Busway alignment,Dedicated right-of-way,Off-board fare collection,Intersection treatments,Platform-level boarding,Service Planning,Multiple routes,Peak frequency,Off-peak frequency,"Express, limited, and local services",Control center,Located In top ten corridors,Demand Profile,Hours of operations,Multi-corridor network,Infrastructure,Passing lanes at stations,Minimizing bus emissions,Stations set back from intersections,Center stations,Pavement quality,Station Design and Station-bus Interface,Distances between stations,Safe and comfortable stations,Number of doors on bus,Docking bays and sub-stops,Sliding doors in BRT stations,Quality of Service & Passenger Information Systems,Branding,Passenger information,Integration and Access,Universal access,Integration with other public transport,Pedestrian access,Secure bicycle parking,Bicycle lanes,Bicycle-sharing integration,TOTAL 100,BRT BASICS (MINIMUM NEEDED 18),Point Deductions,Commercial Speeds,"Peak passengers per hour per direction (pphpd) below 1,000",Lack of enforcement of right-of-way,Significant gap between bus floor and station platform,Overcrowding,"Poorly-maintained Busway, Buses, Stations and Technology Systems",Total Score,Classification
+2013,Argentina,Buenos Aires,Metrobus,Juan B Justo,12.5,23,7,7,0,5,4,18,4,3,2,0,0,2,3,2,2,4,0,0,3,0,1,9,2,3,3,1,0,2,1,1,6,2,1,3,0,0,0,62,23,-1,0,0,-1,0,0,0,61,Bronze
+2013,Australia,Brisbane,(no BRT system name),South East Busway,16.5,23,7,7,0,6,3,21,4,1,1,3,3,2,3,2,2,13,4,2,3,2,2,6,0,3,3,0,0,5,3,2,12,3,3,3,2,1,0,80,23,-3,0,0,0,-2,0,-1,77,Silver
+2013,Brazil,Curitiba,Rede Integrada de Transporte (RIT),Green Line,9.5,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,12,4,2,3,1,2,10,2,3,3,1,1,4,3,1,9,2,3,3,0,1,0,92,33,0,0,0,0,0,0,0,92,Gold
+2013,Brazil,Curitiba,Rede Integrada de Transporte (RIT),(All RIT corridors),74,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,5,0,1,3,0,1,8,2,2,3,0,1,4,3,1,8,2,3,2,0,1,0,82,33,0,0,0,0,0,0,0,82,Silver
+2013,Brazil,Rio de Janeiro,(no BRT system name),TransOeste,54.7,33,7,7,7,6,6,23,4,3,2,3,2,2,3,2,2,12,4,2,3,2,1,10,2,3,3,1,1,4,3,1,8,3,1,2,1,1,0,90,33,-2,0,0,0,-1,0,-1,88,Gold
+2013,Brazil,São Paulo,(no BRT system Name),Expresso Tiradentes,8,33,7,7,7,6,6,21,4,3,2,0,3,2,3,2,2,8,0,2,3,1,2,7,0,3,3,1,0,5,3,2,6,2,1,3,0,0,0,80,33,0,0,0,0,0,0,0,80,Silver
+2013,Brazil,São Paulo,(no BRT system Name),Abd. Jabaquara,5,20,7,7,1,5,0,20,4,3,1,0,3,2,3,2,2,7,0,2,3,0,2,6,2,1,3,0,0,2,2,0,5,1,1,3,0,0,0,60,20,0,0,0,0,0,0,0,60,Bronze
+2013,Canada,"Ottawa, ON",Transitway,(All corridors),30,20,7,7,0,6,0,17,4,2,1,2,2,2,0,2,2,11,4,3,3,0,1,7,0,3,3,1,0,4,3,1,5,1,1,3,0,0,0,64,20,0,0,0,0,0,0,0,64,Bronze
+2013,China,Beijing,Beijing BRT,Entire Network,59,20,4,4,6,0,6,19,4,3,2,0,3,2,3,2,0,5,0,0,2,2,1,7,2,2,3,0,0,5,3,2,1,0,0,0,0,1,0,57,20,0,0,0,0,0,0,0,57,Bronze
+2013,China,Changzhou,Changzhou BRT,Entire Network,51.9,27,7,7,7,0,6,21,4,3,2,0,3,2,3,2,2,4,0,1,1,0,2,9,2,2,3,1,1,5,3,2,2,0,0,1,0,1,0,68,27,0,0,0,0,0,0,0,68,Bronze
+2013,China,Guangzhou,Guangzhou BRT,Zhongshan Avenue,22.5,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,9,4,0,3,0,2,10,2,3,3,1,1,4,2,2,11,1,3,2,2,2,1,91,33,0,0,0,0,0,0,0,91,Gold
+2013,China,Jinan,Jinan BRT,Beiyuan dajie,15,25,7,7,7,0,4,21,4,3,2,0,3,2,3,2,2,7,0,1,1,3,2,8,2,2,3,0,1,5,3,2,1,0,0,0,0,1,0,67,25,0,0,0,0,0,0,0,67,Bronze
+2013,China,Jinan,Jinan BRT,Lishan Lu,4.8,25,7,7,7,0,4,21,4,3,2,0,3,2,3,2,2,7,0,1,1,3,2,8,2,2,3,0,1,5,3,2,1,0,0,0,0,1,0,67,25,0,0,0,0,0,0,0,67,Bronze
+2013,China,Jinan,Jinan BRT,Erhuandonglu,8,25,7,7,7,0,4,21,4,3,2,0,3,2,3,2,2,7,0,1,1,3,2,8,2,2,3,0,1,5,3,2,1,0,0,0,0,1,0,67,25,0,0,0,0,0,0,0,67,Bronze
+2013,China,Jinan,Jinan BRT,Gongyebeilu-Aotizonglu Line 6,6.6,25,7,7,7,0,4,21,4,3,2,0,3,2,3,2,2,7,0,1,1,3,2,8,2,2,3,0,1,5,3,2,1,0,0,0,0,1,0,67,25,0,0,0,0,0,0,0,67,Bronze
+2013,China,Lanzhou,Lanzhou BRT,Anning Lu,8.6,32,7,7,7,5,6,18,4,3,2,0,3,2,0,2,2,11,4,1,3,1,2,10,2,3,3,1,1,5,3,2,8,0,2,2,2,2,0,84,32,0,0,0,0,0,0,0,84,Silver
+2013,Colombia,Barranquilla,Transmetro,(no name),13.2,32,7,7,7,5,6,19,0,3,2,2,3,2,3,2,2,11,3,1,3,2,2,10,2,3,3,1,1,5,3,2,5,3,0,2,0,0,0,82,32,-5,0,0,-3,0,-1,-1,77,Silver
+2013,Colombia,Bogota,TransMilenio,Autonorte,11.6,32,7,7,7,5,6,24,4,3,2,3,3,2,3,2,2,9,4,0,3,2,0,10,2,3,3,1,1,5,3,2,6,3,0,3,0,,0,86,32,-3,0,0,0,0,-3,0,83,Silver
+2013,Colombia,Bogota,TransMilenio,Suba,9.6,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,11,4,0,3,2,2,10,2,3,3,1,1,5,3,2,9,3,0,3,1,2,0,92,33,-3,0,0,0,0,-3,0,89,Gold
+2013,Colombia,Bogota,TransMilenio,Caracas,7.3,32,7,7,7,5,6,24,4,3,2,3,3,2,3,2,2,9,4,0,3,2,0,10,2,3,3,1,1,5,3,2,6,3,0,3,0,0,0,86,32,-3,0,0,0,0,-3,0,83,Silver
+2013,Colombia,Bogota,TransMilenio,Calle 80,7.5,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,9,4,0,3,2,0,10,2,3,3,1,1,5,3,2,8,3,0,3,0,2,0,89,33,-3,0,0,0,0,-3,0,86,Gold
+2013,Colombia,Bogota,TransMilenio,Americas,12.7,32,7,7,7,5,6,24,4,3,2,3,3,2,3,2,2,11,4,0,3,2,2,10,2,3,3,1,1,5,3,2,9,3,0,3,1,2,0,91,32,-3,0,0,0,0,-3,0,88,Gold
+2013,Colombia,Bogota,TransMilenio,NQS,8.6,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,11,4,0,3,2,2,10,2,3,3,1,1,5,3,2,9,3,0,3,1,2,0,92,33,-3,0,0,0,0,-3,0,89,Gold
+2013,Colombia,Bogota,TransMilenio,El Dorado,10.8,33,7,7,7,6,6,21,2,3,2,2,3,2,3,2,2,11,4,0,3,2,2,10,2,3,3,1,1,5,3,2,9,3,0,3,1,2,0,89,33,-3,0,0,0,0,-3,0,86,Gold
+2013,Colombia,Cali,MIO,1st phase (all corridors),39,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,10,3,0,3,2,2,10,2,3,3,1,1,4,3,1,5,3,0,2,0,0,0,86,33,-4,0,0,-1,0,-3,0,82,Silver
+2013,Colombia,Medellin,Metroplús,(no corridor name),12.5,32,7,7,7,5,6,17,0,3,2,0,3,2,3,2,2,13,3,3,3,2,2,10,2,3,3,1,1,5,3,2,8,3,3,2,0,0,0,85,32,0,0,0,0,0,0,0,85,Gold
+2013,Colombia,Perira,Megabús,(no corridor name),19.15,33,7,7,7,6,6,19,4,3,2,0,2,2,3,2,1,7,0,0,3,2,2,9,2,3,3,0,1,4,3,1,5,3,0,2,0,0,0,77,33,0,0,0,0,0,0,0,77,Silver
+2013,Ecuador,Guayaquil,Metrovia,Troncal 3: Bastion-Centro,16.5,32,7,6,7,6,6,19,4,3,2,0,2,2,3,2,1,5,0,0,3,0,2,9,2,3,3,0,1,4,3,1,5,3,0,2,0,0,0,74,32,-7,0,0,-3,0,-3,-1,67,Bronze
+2013,Ecuador,Guayaquil,Metrovia,Troncal 1: Guasmo-Río Daule,13.9,32,7,6,7,6,6,20,4,3,2,0,2,2,3,2,2,5,0,0,3,0,2,9,2,3,3,0,1,4,3,1,5,3,0,2,0,0,0,75,32,-7,0,0,-3,0,-3,-1,68,Bronze
+2013,Ecuador,Quito,Metrobus-Q,"Trolebus, Central-Norte and Ecovia",40.9,29,4,7,7,5,6,24,4,3,2,3,3,2,3,2,2,7,0,3,3,1,0,9,2,3,3,0,1,3,2,1,6,3,1,2,0,0,0,78,29,-4,0,0,-1,0,-3,0,74,Silver
+2013,France,Nantes,Nantes Busway,Line 4,7,28,7,7,6,4,4,15,0,3,2,0,3,2,3,2,0,3,0,2,1,0,0,7,2,2,3,0,0,5,3,2,11,3,3,3,1,0,1,69,28,0,0,0,0,0,0,0,69,Bronze
+2013,France,Rouen,TEOR (Transport Est-Ouest Rouennais),(All Corridors),13,32,7,7,6,6,6,17,4,3,2,0,3,2,3,?,0,2,0,0,2,0,0,8,2,2,3,1,0,4,2,2,11,3,3,3,1,1,0,74,32,-1,0,0,-1,0,0,0,73,Silver
+2013,India,Ahmedabad,Janmarg,RTO-Maninagar,21.5,31,7,7,7,4,6,19,4,3,2,0,2,2,3,1,2,6,0,1,3,2,0,9,2,3,2,1,1,5,3,2,4,2,1,1,0,0,0,74,31,-6,0,0,0,-1,-3,-2,68,Bronze
+2013,India,Ahmedabad,Janmarg,Narol-Naroda,13.2,31,7,7,7,4,6,19,4,3,2,0,2,2,3,1,2,10,4,1,3,2,0,9,2,3,2,1,1,5,3,2,4,2,1,1,0,0,0,78,31,-6,0,0,0,-1,-3,-2,72,Silver
+2013,India,Delhi,Delhi BRTS,Moolchand-Ambedkar Nagar,5.8,18,7,7,0,0,4,14,4,1,0,0,1,2,3,1,2,0,0,0,0,0,0,5,2,0,2,1,0,1,0,1,4,1,0,2,0,1,0,42,18,-12,0,0,-3,-5,-3,-1,30,Basic BRT
+2013,Indonesia,Jakarta,TransJakarta,Corridor 1,12.9,30,7,7,7,3,6,19,4,3,2,0,1,2,3,2,2,5,0,0,3,2,0,8,2,2,3,0,1,4,3,1,5,2,1,2,0,0,0,71,30,-10,0,0,-3,-3,-3,-1,61,Bronze
+2013,Mexico,Mexico City,Metrobus,Line 1,28.1,32,7,7,7,5,6,20,4,3,2,0,2,2,3,2,2,7,0,0,3,2,2,8,2,3,3,0,0,4,3,1,5,2,1,2,0,0,0,76,32,-3,0,0,0,0,-3,0,73,Silver
+2013,Mexico,Mexico City,Metrobus,Line 2,20,29,5,7,7,4,6,20,4,3,2,0,2,2,3,2,2,8,0,1,3,2,2,8,2,3,3,0,0,4,3,1,6,2,2,2,0,0,0,75,29,0,0,0,0,0,0,0,75,Silver
+2013,Mexico,Mexico City,Metrobus,Line 3,17,31,7,7,7,4,6,20,4,3,2,0,2,2,3,2,2,9,0,2,3,2,2,8,2,3,3,0,0,4,3,1,6,2,2,2,0,0,0,78,31,0,0,0,0,0,0,0,78,Silver
+2013,Mexico,Mexico City,Metrobus,Line 4,28,20,5,6,0,3,6,15,4,3,2,0,2,0,0,2,2,7,0,3,2,0,2,6,2,1,3,0,0,4,3,1,9,3,1,3,1,0,1,61,20,-6,-6,0,0,0,0,0,55,Bronze
+2013,Mexico,Mexico City,Mexibus,Line 1,16,33,7,7,7,6,6,21,4,3,2,3,1,2,3,2,1,12,4,2,3,2,1,10,2,3,3,2,0,4,3,1,3,1,1,1,0,0,0,83,33,0,0,0,0,0,0,0,83,Silver
+2013,Mexico,Guadalajara,Macrobus,(only 1 line),16,33,7,7,7,6,6,24,4,3,2,3,3,2,3,2,2,14,4,3,3,2,2,11,2,3,3,2,1,4,3,1,7,2,2,3,0,0,0,93,33,0,0,0,0,0,0,0,93,Gold
+2013,Peru,Lima,El Metropolitano,(only 1 line),16.8,32,7,7,7,5,6,23,4,3,2,3,3,2,3,2,1,14,4,3,3,2,2,10,2,3,3,1,1,4,3,1,6,3,0,2,1,0,0,89,32,-1,0,0,-1,0,0,0,88,Gold
+2013,South Africa,Cape Town,MyCiTi,Phase 1A,17,26.5,6.5,7,7,0,6,7,0,0,0,0,3,2,0,1,1,8,4,1,0,2,1,8,0,3,3,1,1,4,3,1,9,3,0,3,1,2,0,62.5,26.5,0,0,0,0,0,0,0,62.5,Bronze
+2013,South Africa,Johannesburg,Rea Vaya,Phase IA,25.5,31.5,6.5,7,7,5,6,21,4,2,2,2,3,2,3,1,2,10,4,1,3,2,0,10,2,3,3,1,1,5,3,2,4,2,0,2,0,0,0,81.5,31.5,-6,0,0,-3,-3,0,0,75.5,Silver
+2013,UK,Cambridge,Cambridgeshire Busway,Route A,26,22,5,5,0,6,6,19,4,3,2,0,3,2,3,2,0,5,0,0,3,0,2,3,0,3,0,0,0,5,3,2,12,3,2,3,2,2,0,66,22,0,0,0,0,0,0,0,66,Bronze
+2013,USA,"Cleveland, OH",(no BRT system name),Healthline,15,29,7,7,6,3,6,16,4,1,0,0,3,2,3,2,1,8,2,2,1,1,2,9,2,3,3,1,0,5,3,2,9,3,1,3,1,1,0,76,29,0,0,0,0,0,0,0,76,Silver
+2013,USA,"Eugene, OR",Emerald Express (EmX),Green Line,12.5,20,4,4,6,0,6,11,0,0,2,0,3,2,3,1,0,5,0,2,1,0,2,7,2,2,3,0,0,5,3,2,10,3,3,2,1,1,0,58,20,-3,-3,0,0,0,0,0,55,Bronze
+2013,USA,"Pittsburgh, PA",(no BRT system name),Martin Luther King Jr. East Busway,14.6,20,7,7,0,6,0,13,4,2,0,2,0,2,0,2,1,11,4,2,3,0,2,5,0,1,3,1,0,0,0,0,7,2,2,2,1,0,0,56,20,0,0,0,0,0,0,0,56,Bronze
+2013,USA,"Pittsburgh, PA",(no BRT system name),West Busway,8.2,20,7,7,0,6,0,12,4,1,0,2,0,2,0,2,1,10,4,1,3,0,2,7,2,1,3,1,0,0,0,0,2,1,0,1,0,0,0,51,20,0,0,0,0,0,0,0,51,Basic BRT
+2013,USA,"Pittsburgh, PA",(no BRT system name),South Busway,6.9,20,7,7,0,6,0,11,4,0,0,2,0,2,0,2,1,10,4,1,3,0,2,7,2,1,3,1,0,0,0,0,2,1,0,1,0,0,0,50,20,0,0,0,0,0,0,0,50,Basic BRT
+2013,USA,"Las Vegas, NV",(no BRT system name),Strip & Downtown Express (SDX),2,23,6,6,3,3,5,12,4,0,0,0,2,2,0,2,2,5,0,3,1,0,1,6,2,1,3,0,0,4,3,1,7,3,1,2,0,1,0,57,23,-3,0,0,0,-3,0,0,54,Basic BRT
+2013,USA,"Los Angeles, CA",(no BRT system name),Orange line,23,25,7,7,6,5,0,13,0,3,2,0,3,0,3,2,0,9,4,3,0,0,2,5,0,1,3,1,0,5,3,2,8,3,0,1,2,2,0,65,25,0,0,0,0,0,0,0,65,Bronze

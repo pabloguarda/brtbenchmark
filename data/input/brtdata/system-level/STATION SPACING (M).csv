@@ -1,0 +1,204 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,800,2015,Calculated using system length and stations
+Africa,South Africa,Cape Town,485.7,,Calculated using system length and stations
+Africa,South Africa,Johannesburg,1384,2013,Calculated using system length and stations
+Asia,China,Beijing,967.5,2013,
+Asia,China,Changde,787.5,2013,
+Asia,China,Changzhou,875.4,2013,
+Asia,China,Chengdu,1028.6,2014,Calculated using system length and stations
+Asia,China,Chongqing,1440,2011,www.chinabrt.org
+Asia,China,Dalian,1245.5,2013,www.chinabrt.org
+Asia,China,Guangzhou,865.4,2013,Calculated using system length and stations
+Asia,China,Hangzhou,1103,2013,
+Asia,China,Hefei,800,2013,
+Asia,China,Jinan,829.7,2015,Calculated using system length and stations
+Asia,China,Kunming,,,
+Asia,China,Lanzhou,606.7,2013,www.chinabrt.org
+Asia,China,Lianyungang,1172.4,2013,www.chinabrt.org
+Asia,China,Urumqi,650,2013,www.chinabrt.org
+Asia,China,Xiamen,1516,2013,Viva (www.chinabrt.org
+Asia,China,Yancheng,666.7,2013,www.chinabrt.org
+Asia,China,Yichang,590.9,2015,Calculated using system length and stations
+Asia,China,Yinchuan,772.7,2013,www.chinabrt.org
+Asia,China,Zaozhuang,1375,2013,www.chinabrt.org
+Asia,China,Zhengzhou,802.6,2013,www.chinabrt.org
+Asia,India,Ahmedabad,645.7,2013,Calculated using system length and stations
+Asia,India,Bhopal,585.4,2013,Calculated using system length and stations
+Asia,India,Indore,550,2013,EMBARQ India
+Asia,India,Jaipur,710,2011,"Primary Survey, EMBARQ"
+Asia,India,Pune - Primpi-Chinchwad,730,2016,Calculated using system length and stations
+Asia,India,Rajkot,600,2013,EMBARQ India
+Asia,India,Surat,526.3,2014,Calculated using system length and stations
+Asia,Indonesia,Jakarta,971,2014,Calculated using system length and stations
+Asia,Iran,Isfahan,531.3,2015,Calculated using system length and stations
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,915,2014,Calculated using system length and stations
+Asia,Israel,Haifa,519,2013,Calculated using system length and stations
+Asia,Japan,Kesennuma - Tome,1276,2014,Calculated using system length and stations
+Asia,Japan,Nagoya,720,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Malaysia,Subang Jaya,771,2015,Calculated using system length and stations
+Asia,Pakistan,Islamabad - Rawalpindi,937.5,2015,Calculated using system length and stations
+Asia,Pakistan,Lahore,1000,2015,Calculated using system length and stations
+Asia,Republic of Korea,Seoul,,,
+Asia,Taiwan,Chiayi,1647,2014,Calculated using system length and stations
+Asia,Taiwan,Taichung,820,2014,easts.info
+Asia,Taiwan,Taipei,380,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,1400,2010,Viva 2010 ( www.uncrd.or.jp ); www.bangkokpost.comwww.chinabrt.org
+Europe,Belgium,Liège,375,2009,Calculated using system length and stations
+Europe,Czech Republic,Prague,,,
+Europe,Finland,Helsinki,750,2011,COST - European Cooperation in Science and Technology
+Europe,France,Belfort,300,2014,Calculated using system length and stations
+Europe,France,Caen,500,2010,ITDP (2007) Bus Rapid Transit Planning Guide ; CERTU 2010
+Europe,France,Cannes,440,2014,Calculated using system length and stations
+Europe,France,Châlon-sur-Saône,426,2014,Calculated using system length and stations
+Europe,France,Douai,400,2010,Viva 2010 ( www.uncrd.or.jp ); connectedcities.eu ; lw2.easy-site.nl
+Europe,France,Evry,580.6,2014,Calculated using system length and stations
+Europe,France,La Rochelle,,,
+Europe,France,Lille,,,
+Europe,France,Lorient,,,
+Europe,France,Lyon,,,
+Europe,France,Maubeuge,,,
+Europe,France,Metz,484,2013,Calculated using system length and stations
+Europe,France,Nancy,370,2010,CERTU 2010
+Europe,France,Nantes,460,2013,Calculated using system length and stations
+Europe,France,Nice,,,
+Europe,France,Nîmes,460,2015,Calculated using system length and stations
+Europe,France,Paris,758,2013,Calculated using system length and stations
+Europe,France,Rouen,586.8,2015,Calculated using system length and stations
+Europe,France,Saint-Nazaire,474,2013,Calculated using system length and stations
+Europe,France,Strasbourg,472,2014,Calculated using system length and stations
+Europe,France,Toulouse,600,2010,Viva 2010 ( www.uncrd.or.jp ); CERTU 2010
+Europe,Germany,Essen,,,
+Europe,Germany,Hamburg,503.3,2013,Calculated using system length and stations
+Europe,Germany,Oberhausen,1133.3,2011,Calculated using system length and stations
+Europe,Ireland,Dublin,,,
+Europe,Italy,Brescia,,,
+Europe,Italy,Prato,262.4,2015,Calculated using system length and stations
+Europe,Netherlands,Almere,,,
+Europe,Netherlands,Amsterdam,1718.2,2013,Calculated using system length and stations
+Europe,Netherlands,Eindhoven,,,
+Europe,Netherlands,Enschede,600,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Utrecht,680,2010,Viva 2010 ( www.uncrd.or.jp ); www.ashford.gov.uk ;www.chinabrt.org
+Europe,Portugal,Lisbon,,,
+Europe,Spain,Barcelona,589,2015,Calculated using system length and stations
+Europe,Spain,Castellon,,,
+Europe,Spain,Madrid,860,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,381.8,,Calculated using system length and stations
+Europe,Sweden,Gothenburg,688,2013,Calculated using system length and stations
+Europe,Sweden,Jonkoping,,,
+Europe,Sweden,Stockholm,450,2011,COST - European Cooperation in Science and Technology
+Europe,Switzerland,Zurich,407,2013,Calculated using system length and stations
+Europe,Turkey,Istanbul,1181.8,2015,Calculated using system length and stations
+Europe,United Kingdom,Bradford,342.5,2014,Calculated using system length and stations
+Europe,United Kingdom,Cambridge,3125,2015,Calculated using Busway system length and Busway stations
+Europe,United Kingdom,Crawley,400,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,United Kingdom,Edinburgh,,,
+Europe,United Kingdom,Fareham - Gosport,486,2013,Calculated using system length and stations
+Europe,United Kingdom,Kent,,,
+Europe,United Kingdom,Leeds,525,2005,Calculated using system length and stations
+Europe,United Kingdom,London,,,
+Europe,United Kingdom,Luton,,,
+Europe,United Kingdom,Manchester,,,
+Europe,United Kingdom,Runcorn,507.9,,
+Europe,United Kingdom,Swansea,,,
+Europe,United Kingdom,York,,,
+Latin America,Argentina,Buenos Aires,663.8,,Calculated using system length and stations
+Latin America,Argentina,Córdoba,588.9,2014,Calculated using system length and stations
+Latin America,Argentina,Rosario,320,,Calculated using system length and stations
+Latin America,Brazil,Belém,,,
+Latin America,Brazil,Belo Horizonte,473.5,,Calculated using system length and stations
+Latin America,Brazil,Blumenau,524.9,,
+Latin America,Brazil,Brasília,949,,Calculated using system length and stations
+Latin America,Brazil,Campinas,557.3,,
+Latin America,Brazil,Campo Grande,,,
+Latin America,Brazil,Caxias do Sul,266.7,,Calculated using system length and stations
+Latin America,Brazil,Criciúma,500,,Calculated using system length and stations
+Latin America,Brazil,Curitiba,682.1,,Calculated using system length and stations
+Latin America,Brazil,São Paulo - Metropolitan area,625,2015,Calculated using system length and stations
+Latin America,Brazil,Feira de Santana,300,,Calculated using system length and stations
+Latin America,Brazil,Fortaleza,293.1,,Calculated using system length and stations
+Latin America,Brazil,Goiânia,602.3,,Calculated using system length and stations
+Latin America,Brazil,Guarulhos,925,2013,Calculated using system length and stations
+Latin America,Brazil,Jaboatão dos Guararapes,500,2012,
+Latin America,Brazil,João Pessoa,560,,Calculated using system length and stations
+Latin America,Brazil,Joinville,400,,
+Latin America,Brazil,Juiz de Fora,387.5,,Calculated using system length and stations
+Latin America,Brazil,Londrina,308.3,,
+Latin America,Brazil,Maceió,750,,Calculated using system length and stations
+Latin America,Brazil,Natal,437.5,,
+Latin America,Brazil,Niterói,600,,
+Latin America,Brazil,Olinda,,,
+Latin America,Brazil,Porto Alegre,570.6,,Calculated using system length and stations
+Latin America,Brazil,Recife,1494.1,,Calculated using system length and stations
+Latin America,Brazil,Rio de Janeiro,651.2,,Calculated using system length and stations
+Latin America,Brazil,Salvador,341.7,,Calculated using system length and stations
+Latin America,Brazil,Santos,300,,
+Latin America,Brazil,São Paulo,355.3,,
+Latin America,Brazil,Sorocaba,,,
+Latin America,Brazil,Sumaré,1090,,
+Latin America,Brazil,Teresina,750,,Calculated using system length and stations
+Latin America,Brazil,Uberaba,500,2015,pt.wikipedia.org
+Latin America,Brazil,Uberlândia,500,2014,www.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,416.1,,
+Latin America,Colombia,Barranquilla,933.3,,
+Latin America,Colombia,Bogotá,836.3,2014,Calculated using system length and stations
+Latin America,Colombia,Bucaramanga,530,,
+Latin America,Colombia,Cali,736.1,2014,Calculated using system length and stations
+Latin America,Colombia,Medellín,640,,
+Latin America,Colombia,Pereira,553.6,,Calculated using system length and stations
+Latin America,Ecuador,Guayaquil,400,,
+Latin America,Ecuador,Quito,561,,
+Latin America,El Salvador,Gran San Salvador,711.1,,Calculated using system length and stations
+Latin America,Guatemala,Guatemala,1200,,
+Latin America,Mexico,Chihuahua,622.2,2013,Calculated using system length and stations
+Latin America,Mexico,Ecatepec,750,2013,Calculated using system length and stations
+Latin America,Mexico,Guadalajara,590,,
+Latin America,Mexico,Guadalupe,447.1,2014,Calculated using system length and stations
+Latin America,Mexico,León de los Aldama,400,,
+Latin America,Mexico,Mexico City,706.2,2016,Calculated using system length and stations
+Latin America,Mexico,Juárez,757.6,,Calculated using system length and stations
+Latin America,Mexico,Monterrey,771.8,,Calculated using system length and stations
+Latin America,Mexico,Nezahualcoyotl,625.9,2013,Calculated using system length and stations
+Latin America,Mexico,Pachuca,634.6,,Calculated using system length and stations
+Latin America,Mexico,Puebla,489.4,2015,Calculated using system length and stations
+Latin America,Panama,Panama,294.1,2015,Calculated using system length and stations
+Latin America,Peru,Lima,700,,
+Latin America,Trinidad and Tobago,Port of Spain - Arima,,,
+Latin America,Uruguay,Montevideo,370,,
+Latin America,Venezuela,Caracas,470,,
+Latin America,Venezuela,Merida,625,,
+Latin America,Venezuela,Barquisimeto,582.9,,Calculated using system length and stations
+Northern America,Canada,Brampton,1157.5,2015,Calculated using system length and stations
+Northern America,Canada,Gatineau,1200,2013,Calculated using system length and stations
+Northern America,Canada,Halifax,,,
+Northern America,Canada,Ottawa,621.1,,Calculated using system length and stations
+Northern America,Canada,Vancouver,1900,,
+Northern America,Canada,Waterloo,1486,2015,Calculated using system length and stations
+Northern America,Canada,Winnipeg,,,
+Northern America,Canada,York Regional Municipality,,,
+Northern America,United States,Alexandria - Arlington,581.8,2014,Calculated using corridor length and stations
+Northern America,United States,Albuquerque,1106.3,2015,data.cabq.gov
+Northern America,United States,Boston,322,2005,www.nbrti.org
+Northern America,United States,Chicago,805,2012,www.redeyechicago.com
+Northern America,United States,Cleveland,317,2013,Calculated using system length and stations
+Northern America,United States,Eugene,787,2013,Calculated using system length and stations
+Northern America,United States,Everett,1921.4,2013,Calculated using system length and stations
+Northern America,United States,Kansas City,800,2013,Calculated using system length and stations
+Northern America,United States,Las Vegas,0.7,2014,Calculated using system length and stations
+Northern America,United States,Los Angeles,1635.7,,Calculated using system length and stations
+Northern America,United States,Miami,607.1,,Calculated using system length and stations
+Northern America,United States,New York,805,2015,web.mta.info
+Northern America,United States,Oakland,901,2004,Federal Transit Administration
+Northern America,United States,Orlando,300,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Phoenix,402,2004,Federal Transit Administration
+Northern America,United States,Pittsburgh,,,
+Northern America,United States,San Bernardino,1606.3,,Calculated using system length and stations
+Northern America,United States,San Diego,777.8,,Calculated using system length and stations
+Northern America,United States,Snohomish County,,,
+Northern America,United States,Stockton,874,2015,www.sanjoaquinrtd.com
+Oceania,Australia,Adelaide,5000,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,1153,2014,Calculated using system length and stations
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,711,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Liverpool - Parramatta,920,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,861,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,New Zealand,Auckland,1240,2014,Calculated using system length and stations

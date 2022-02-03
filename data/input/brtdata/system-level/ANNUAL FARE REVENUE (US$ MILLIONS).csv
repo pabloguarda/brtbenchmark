@@ -1,0 +1,204 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,47,2010,Viva 2010 ( www.uncrd.or.jp ); Trans-Africa Consortium 2010 ;www.itdp.org
+Africa,South Africa,Cape Town,7,,Calculated using annual demand and fare
+Africa,South Africa,Johannesburg,8,,Calculated using annual demand and fare
+Asia,China,Beijing,20,,Calculated using annual demand and fare
+Asia,China,Changde,,,
+Asia,China,Changzhou,12,,Calculated using annual demand and fare
+Asia,China,Chengdu,,,
+Asia,China,Chongqing,0,2011,www.chinabrt.org
+Asia,China,Dalian,3,,Calculated using annual demand and fare
+Asia,China,Guangzhou,57,,Calculated using annual demand and fare
+Asia,China,Hangzhou,35,,Calculated using annual demand and fare
+Asia,China,Hefei,4,,Calculated using annual demand and fare
+Asia,China,Jinan,15,,Calculated using annual demand and fare
+Asia,China,Kunming,11,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,China,Lanzhou,10,,Calculated using annual demand and fare
+Asia,China,Lianyungang,1,,Calculated using annual demand and fare
+Asia,China,Urumqi,13,,Calculated using annual demand and fare
+Asia,China,Xiamen,57,,Calculated using annual demand and fare
+Asia,China,Yancheng,1,,Calculated using annual demand and fare
+Asia,China,Yichang,16,,Calculated using annual demand and fare
+Asia,China,Yinchuan,3,,Calculated using annual demand and fare
+Asia,China,Zaozhuang,2,,Calculated using annual demand and fare
+Asia,China,Zhengzhou,22,,Calculated using annual demand and fare
+Asia,India,Ahmedabad,10,,Calculated using annual demand and fare
+Asia,India,Bhopal,6,,Calculated using annual demand and fare
+Asia,India,Indore,,,
+Asia,India,Jaipur,0,,Calculated using annual demand and fare
+Asia,India,Pune - Primpi-Chinchwad,,,
+Asia,India,Rajkot,,,
+Asia,India,Surat,1,,Calculated using annual demand and fare
+Asia,Indonesia,Jakarta,21,,Calculated using annual demand and fare
+Asia,Iran,Isfahan,,,
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,28,,Calculated using annual demand and fare
+Asia,Israel,Haifa,33,,Calculated using annual demand and fare
+Asia,Japan,Kesennuma - Tome,,,
+Asia,Japan,Nagoya,5,,Calculated using annual demand and fare
+Asia,Malaysia,Subang Jaya,,,
+Asia,Pakistan,Islamabad - Rawalpindi,5,2015,Calculated using annual demand and fare
+Asia,Pakistan,Lahore,7,,Calculated using annual demand and fare
+Asia,Republic of Korea,Seoul,,,
+Asia,Taiwan,Chiayi,,,
+Asia,Taiwan,Taichung,15,,Calculated using annual demand and fare
+Asia,Taiwan,Taipei,197,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,2,,Calculated using annual demand and fare
+Europe,Belgium,Liège,,,
+Europe,Czech Republic,Prague,4,,Calculated using annual demand and fare
+Europe,Finland,Helsinki,21,,Calculated using annual demand and fare
+Europe,France,Belfort,7,,Calculated using annual demand and fare
+Europe,France,Caen,16,,Calculated using annual demand and fare
+Europe,France,Cannes,,,
+Europe,France,Châlon-sur-Saône,1,,Calculated using annual demand and fare
+Europe,France,Douai,1,,Calculated using annual demand and fare
+Europe,France,Evry,,,
+Europe,France,La Rochelle,2,,Calculated using annual demand and fare
+Europe,France,Lille,,,
+Europe,France,Lorient,,,
+Europe,France,Lyon,2,,Calculated using annual demand and fare
+Europe,France,Maubeuge,2,,Calculated using annual demand and fare
+Europe,France,Metz,9,,Calculated using annual demand and fare
+Europe,France,Nancy,,,
+Europe,France,Nantes,12,,Calculated using annual demand and fare
+Europe,France,Nice,20,,Calculated using annual demand and fare
+Europe,France,Nîmes,2,,Calculated using annual demand and fare
+Europe,France,Paris,37,,Calculated using annual demand and fare
+Europe,France,Rouen,16,,Calculated using annual demand and fare
+Europe,France,Saint-Nazaire,3,,Calculated using annual demand and fare
+Europe,France,Strasbourg,4,,Calculated using annual demand and fare
+Europe,France,Toulouse,,,
+Europe,Germany,Essen,6,,Calculated using annual demand and fare
+Europe,Germany,Hamburg,43,,Calculated using annual demand and fare
+Europe,Germany,Oberhausen,,,
+Europe,Ireland,Dublin,,,
+Europe,Italy,Brescia,,,
+Europe,Italy,Prato,6,,Calculated using annual demand and fare
+Europe,Netherlands,Almere,,,
+Europe,Netherlands,Amsterdam,27,,Calculated using annual demand and fare
+Europe,Netherlands,Eindhoven,10,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,Netherlands,Enschede,1,,Calculated using annual demand and fare
+Europe,Netherlands,Utrecht,25,,Calculated using annual demand and fare
+Europe,Portugal,Lisbon,11,,Calculated using annual demand and fare
+Europe,Spain,Barcelona,8,,Calculated using annual demand and fare
+Europe,Spain,Castellón,,,Calculated using annual demand and fare
+Europe,Spain,Madrid,39,,Calculated using annual demand and fare
+Europe,Spain,Granada,8,,Calculated using annual demand and fare
+Europe,Sweden,Gothenburg,16,,Calculated using annual demand and fare
+Europe,Sweden,Jonkoping,,,
+Europe,Sweden,Stockholm,51,,Calculated using annual demand and fare
+Europe,Switzerland,Zurich,8,,Calculated using annual demand and fare
+Europe,Turkey,Istanbul,159,,Calculated using annual demand and fare
+Europe,United Kingdom,Bradford,2,,Calculated using annual demand and fare
+Europe,United Kingdom,Cambridge,10,,Calculated using annual demand and fare
+Europe,United Kingdom,Crawley,4,,Calculated using annual demand and fare
+Europe,United Kingdom,Edinburgh,,,
+Europe,United Kingdom,Fareham - Gosport,,,
+Europe,United Kingdom,Kent,,,
+Europe,United Kingdom,Leeds,,,
+Europe,United Kingdom,London,,,
+Europe,United Kingdom,Luton,,,
+Europe,United Kingdom,Manchester,21,,Calculated using annual demand and fare
+Europe,United Kingdom,Runcorn,15,,Calculated using annual demand and fare
+Europe,United Kingdom,Swansea,,,
+Europe,United Kingdom,York,7,,Calculated using annual demand and fare
+Latin America,Argentina,Buenos Aires,122.22,,Calculated using annual demand and fare
+Latin America,Argentina,Córdoba,9.14,,Calculated using annual demand and fare
+Latin America,Argentina,Rosario,25.2,,Calculated using annual demand and fare
+Latin America,Brazil,Belém,14.7,,Calculated using annual demand and fare
+Latin America,Brazil,Belo Horizonte,211.15,,Calculated using annual demand and fare
+Latin America,Brazil,Blumenau,14.73,,Calculated using annual demand and fare
+Latin America,Brazil,Brasília,11.59,,Calculated using annual demand and fare
+Latin America,Brazil,Campinas,38.1,,Calculated using annual demand and fare
+Latin America,Brazil,Campo Grande,11.92,,Calculated using annual demand and fare
+Latin America,Brazil,Caxias do Sul,,,
+Latin America,Brazil,Criciúma,1.99,,Calculated using annual demand and fare
+Latin America,Brazil,Curitiba,100.77,,Calculated using annual demand and fare
+Latin America,Brazil,São Paulo - Metropolitan area,72.5,,Calculated using annual demand and fare
+Latin America,Brazil,Feira de Santana,,,
+Latin America,Brazil,Fortaleza,37.46,,Calculated using annual demand and fare
+Latin America,Brazil,Goiânia,67.95,,Calculated using annual demand and fare
+Latin America,Brazil,Guarulhos,5.72,,Calculated using annual demand and fare
+Latin America,Brazil,Jaboatão dos Guararapes,,,
+Latin America,Brazil,João Pessoa,40.6,,Calculated using annual demand and fare
+Latin America,Brazil,Joinville,,,
+Latin America,Brazil,Juiz de Fora,,,
+Latin America,Brazil,Londrina,6.55,,Calculated using annual demand and fare
+Latin America,Brazil,Maceió,,,
+Latin America,Brazil,Natal,,,Calculated using annual demand and fare
+Latin America,Brazil,Niterói,44.9,,Calculated using annual demand and fare
+Latin America,Brazil,Olinda,59.7,,Calculated using annual demand and fare
+Latin America,Brazil,Porto Alegre,86.96,,Calculated using annual demand and fare
+Latin America,Brazil,Recife,93.51,,Calculated using annual demand and fare
+Latin America,Brazil,Rio de Janeiro,644.69,,Calculated using annual demand and fare
+Latin America,Brazil,Salvador,,,
+Latin America,Brazil,Santos,0.3,,Calculated using annual demand and fare
+Latin America,Brazil,São Paulo,657.33,,Calculated using annual demand and fare
+Latin America,Brazil,Sorocaba,,,
+Latin America,Brazil,Sumaré,35.92,,Calculated using annual demand and fare
+Latin America,Brazil,Teresina,,,
+Latin America,Brazil,Uberaba,13.9,2015,Calculated using annual demand and fare
+Latin America,Brazil,Uberlândia,3.71,,Calculated using annual demand and fare
+Latin America,Chile,Santiago,66.3,,Calculated using annual demand and fare
+Latin America,Colombia,Barranquilla,15,,Calculated using annual demand and fare
+Latin America,Colombia,Bogotá,272.94,,Calculated using annual demand and fare
+Latin America,Colombia,Bucaramanga,9.65,,Calculated using annual demand and fare
+Latin America,Colombia,Cali,58.07,,Calculated using annual demand and fare
+Latin America,Colombia,Medellín,7.87,,Calculated using annual demand and fare
+Latin America,Colombia,Pereira,12.5,,Calculated using annual demand and fare
+Latin America,Ecuador,Guayaquil,13.91,,Calculated using annual demand and fare
+Latin America,Ecuador,Quito,43.74,,Calculated using annual demand and fare
+Latin America,El Salvador,Gran San Salvador,1.87,,Calculated using annual demand and fare
+Latin America,Guatemala,Guatemala,5.75,,Calculated using annual demand and fare
+Latin America,Mexico,Chihuahua,3.81,,Calculated using annual demand and fare
+Latin America,Mexico,Ecatepec,14.22,,Calculated using annual demand and fare
+Latin America,Mexico,Guadalajara,11.29,,Calculated using annual demand and fare
+Latin America,Mexico,Guadalupe,,,
+Latin America,Mexico,León de los Aldama,22.4,,Calculated using annual demand and fare
+Latin America,Mexico,Mexico City,81.15,,Calculated using annual demand and fare
+Latin America,Mexico,Juárez,3.81,,Calculated using annual demand and fare
+Latin America,Mexico,Monterrey,,,
+Latin America,Mexico,Nezahualcoyotl,13.21,,Calculated using annual demand and fare
+Latin America,Mexico,Pachuca,11.49,,Calculated using annual demand and fare
+Latin America,Mexico,Puebla,23.97,,Calculated using annual demand and fare
+Latin America,Panama,Panama,,,
+Latin America,Peru,Lima,55.95,,Calculated using annual demand and fare
+Latin America,Trinidad and Tobago,Port of Spain - Arima,,,
+Latin America,Uruguay,Montevideo,4.64,,Calculated using annual demand and fare
+Latin America,Venezuela,Caracas,4.01,,Calculated using annual demand and fare
+Latin America,Venezuela,Merida,4.01,,Calculated using annual demand and fare
+Latin America,Venezuela,Barquisimeto,26.63,,Calculated using annual demand and fare
+Northern America,Canada,Brampton,22,2015,Calculated using annual demand and fare
+Northern America,Canada,Gatineau,,,
+Northern America,Canada,Halifax,,,
+Northern America,Canada,Ottawa,125,,Calculated using annual demand and fare
+Northern America,Canada,Vancouver,44,,Calculated using annual demand and fare
+Northern America,Canada,Waterloo,7,,Calculated using annual demand and fare
+Northern America,Canada,Winnipeg,69,,Calculated using annual demand and fare
+Northern America,Canada,York Regional Municipality,6,,Calculated using annual demand and fare
+Northern America,United States,Alexandria - Arlington,0,,Calculated using annual demand and fare
+Northern America,United States,Albuquerque,2,,Calculated using annual demand and fare
+Northern America,United States,Boston,15,,Calculated using annual demand and fare
+Northern America,United States,Chicago,6,,Calculated using annual demand and fare
+Northern America,United States,Cleveland,8,,Calculated using annual demand and fare
+Northern America,United States,Eugene,4,,Calculated using annual demand and fare
+Northern America,United States,Everett,2,,Calculated using annual demand and fare
+Northern America,United States,Kansas City,4,,Calculated using annual demand and fare
+Northern America,United States,Las Vegas,43,,Calculated using annual demand and fare
+Northern America,United States,Los Angeles,12,,Calculated using annual demand and fare
+Northern America,United States,Miami,11,,Calculated using annual demand and fare
+Northern America,United States,New York,115,,Calculated using annual demand and fare
+Northern America,United States,Oakland,,,
+Northern America,United States,Orlando,2,,Calculated using annual demand and fare
+Northern America,United States,Phoenix,,,
+Northern America,United States,Pittsburgh,29,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,San Bernardino,,,
+Northern America,United States,San Diego,,,
+Northern America,United States,Snohomish County,,,
+Northern America,United States,Stockton,2,,Calculated using annual demand and fare
+Oceania,Australia,Adelaide,15,,Calculated using annual demand and fare
+Oceania,Australia,Brisbane,293,,Calculated using annual demand and fare
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,1,,Calculated using annual demand and fare
+Oceania,Australia,Sydney - Liverpool - Parramatta,3,,Calculated using annual demand and fare
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,4,,Calculated using annual demand and fare
+Oceania,New Zealand,Auckland,14,,Calculated using annual demand and fare

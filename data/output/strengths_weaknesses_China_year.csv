@@ -1,0 +1,55 @@
+"type","id_variable","variable","Difference","Mean.x","Mean.y","x_difference","p.value"
+"strengths","c2","Minimizing bus emissions",23.129,55.307,32.178,71.9,0.002
+"strengths","a4","",22.237,79.539,57.302,38.8,0.003
+"strengths","c3","Stations set back from intersections",16.617,87.88,71.262,23.3,0.024
+"strengths","c","Infrastructure",8.407,60.866,52.459,16,0.049
+"strengths","c","Infrastructure",8.407,60.866,52.459,16,0.049
+"strengths","g5","Overcrowding",18.521,-11.364,-29.884,-62,0.02
+"strengths","g2","Peak passengers per hour per direction (pphpd) below 1,000",12.069,0,-12.069,-100,0.017
+"weaknesses","d5","Sliding doors in BRT stations",-41.693,27.273,68.966,-60.5,0
+"weaknesses","g7","Off-peak frequency",-21.63,31.818,53.448,-40.5,0.036
+"weaknesses","c4","Center stations",-26.097,45.455,71.552,-36.5,0.006
+"weaknesses","a3","",-32.288,58.198,90.486,-35.7,0
+"weaknesses","e1","Branding",-27.184,64.773,91.957,-29.6,0
+"weaknesses","a5","",-22.914,65.964,88.878,-25.8,0.002
+"weaknesses","e","Communications and Marketing",-21.951,64.773,86.724,-25.3,0
+"weaknesses","e","Communications and Marketing",-21.951,64.773,86.724,-25.3,0
+"weaknesses","d2","Safe and comfortable stations",-21.871,67.793,89.664,-24.4,0
+"weaknesses","b3","Control center",-18.409,68.95,87.359,-21.1,0.001
+"weaknesses","e2","Passenger information",-14.107,64.773,78.879,-17.9,0.024
+"weaknesses","d3","Number of doors on bus",-16.198,75.759,91.957,-17.6,0.015
+"weaknesses","d","Station Design and Station-bus Interface",-11.219,71.023,82.241,-13.6,0.004
+"weaknesses","d","Station Design and Station-bus Interface",-11.219,71.023,82.241,-13.6,0.004
+"weaknesses","a","BRT Basics",-6.974,79.402,86.376,-8.1,0.026
+"weaknesses","a","BRT Basics",-6.974,79.402,86.376,-8.1,0.026
+"no_difference","f6","Bicycle-sharing integration",2.821,4.545,1.724,163.6,0.409
+"no_difference","g1","Commercial speeds",-7.1,-12.273,-5.172,137.3,0.085
+"no_difference","f4","Secure bicycle parking",4.976,17.045,12.069,41.2,0.37
+"no_difference","g4","Significant gap between bus floor and station platform",-2.429,-8.636,-6.207,39.1,0.512
+"no_difference","f2","Integration with other public transport",11.954,60.23,48.276,24.8,0.138
+"no_difference","d4","Docking bays and sub-stops",15.752,79.545,63.793,24.7,0.115
+"no_difference","c1","Passing lanes at stations",7.857,41.477,33.621,23.4,0.406
+"no_difference","d1","Distances between stations",13.95,86.364,72.414,19.3,0.091
+"no_difference","b2","Express, limited, and local services",4.598,33.336,28.738,16,0.603
+"no_difference","c5","Pavement quality",9.679,82.955,73.276,13.2,0.208
+"no_difference","b5","Demand Profile",7.706,79.545,71.84,10.7,0.375
+"no_difference","b6","Hours of operations",6.856,96.512,89.655,7.6,0.076
+"no_difference","b1","Multiple routes",5.212,84.091,78.879,6.6,0.504
+"no_difference","f","Integration and Access",2.427,46.025,43.598,5.6,0.489
+"no_difference","f","Integration and Access",2.427,46.025,43.598,5.6,0.489
+"no_difference","b4","Located In top ten corridors",4.075,95.455,91.379,4.5,0.425
+"no_difference","f3","Pedestrian access",2.653,69.325,66.672,4,0.665
+"no_difference","a2","",1.311,96.832,95.521,1.4,0.54
+"no_difference","a1","Dedicated right-of-way",-1.437,94.682,96.119,-1.5,0.54
+"no_difference","f1","Universal access",-0.856,57.198,58.053,-1.5,0.916
+"no_difference","b","Service Planning",-1.183,73.541,74.724,-1.6,0.758
+"no_difference","b","Service Planning",-1.183,73.541,74.724,-1.6,0.758
+"no_difference","total_score","",-2.719,66.557,69.276,-3.9,0.292
+"no_difference","score","",-3.652,69.261,72.914,-5,0.128
+"no_difference","g6","Peak frequency",-6.349,35.605,41.953,-15.1,0.602
+"no_difference","b7","Multi-corridor network",-13.401,65.909,79.31,-16.9,0.101
+"no_difference","g","Point Deductions",2.566,-6.4,-8.966,-28.6,0.11
+"no_difference","g","Point Deductions",2.566,-6.4,-8.966,-28.6,0.11
+"no_difference","f5","Bicycle lanes",-10.606,22.727,33.333,-31.8,0.146
+"no_difference","g3","Lack of enforcement of right-of-way",3.401,-5.909,-9.31,-36.5,0.366
+"no_difference","g8","Poorly-maintained Busway, Buses, Stations and Technology Systems",2.98,-1.761,-4.741,-62.9,0.109

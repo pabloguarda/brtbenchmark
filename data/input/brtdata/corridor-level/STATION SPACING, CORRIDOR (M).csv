@@ -1,0 +1,410 @@
+Region,Country,City,Corridor,Value,Year,Source
+Africa,Nigeria,Lagos,Lagos BRT,800,2015,Calculated using system length and stations
+Africa,South Africa,Cape Town,1A,485.7,,Calculated using corridor length and stations
+Africa,South Africa,Johannesburg,1A,772,2013,Calculated using corridor length and stations
+Africa,South Africa,Johannesburg,1B,1384,2013,Calculated using corridor length and stations
+Asia,China,Beijing,BRT 1,950,2013,Calculated using corridor length and stations
+Asia,China,Beijing,BRT 2,750,2013,Calculated using corridor length and stations
+Asia,China,Beijing,BRT 3,1000,2013,Calculated using corridor length and stations
+Asia,China,Beijing,BRT 4,1300,2013,Calculated using corridor length and stations
+Asia,China,Changde,Line 1,780,2013,Calculated using corridor length and stations
+Asia,China,Changzhou,Line 1,925,2013,Calculated using corridor length and stations
+Asia,China,Changzhou,Line 2,810,2013,Calculated using corridor length and stations
+Asia,China,Chengdu,2nd Ring Elevated Road,1028.6,2014,Calculated using corridor length and stations
+Asia,China,Chongqing,Chongqing BRT,,,
+Asia,China,Dalian,Dalian BRT,1250,2013,Calculated using corridor length and stations
+Asia,China,Guangzhou,Zhongshan Avenue,860,2013,Calculated using corridor length and stations
+Asia,China,Hangzhou,Line 1,1500,2013,Calculated using corridor length and stations
+Asia,China,Hangzhou,Line 2,780,2013,Calculated using corridor length and stations
+Asia,China,Hangzhou,Line 3,1030,2013,Calculated using corridor length and stations
+Asia,China,Hefei,Changjiang Lu,800,2013,Calculated using corridor length and stations
+Asia,China,Jinan,BRT-1,,,
+Asia,China,Jinan,BRT-2,,,
+Asia,China,Jinan,BRT-3,,,
+Asia,China,Jinan,BRT-4,,,
+Asia,China,Jinan,BRT-5,,,
+Asia,China,Jinan,BRT-6,,,
+Asia,China,Jinan,BRT-7,,,
+Asia,China,Kunming,,,,
+Asia,China,Lanzhou,Line 1,650,2013,Calculated using corridor length and stations
+Asia,China,Lianyungang,Line 1,1170,2013,Calculated using corridor length and stations
+Asia,China,Urumqi,Line 1,,,
+Asia,China,Urumqi,Line 2,,,
+Asia,China,Urumqi,Line 3,,,
+Asia,China,Urumqi,Line 4,,,
+Asia,China,Xiamen,Line 1,1340,2013,Calculated using corridor length and stations
+Asia,China,Xiamen,Line 2,2500,2013,Calculated using corridor length and stations
+Asia,China,Xiamen,Line 3,710,2013,Calculated using corridor length and stations
+Asia,China,Yancheng,Line 1,650,2013,Calculated using corridor length and stations
+Asia,China,Yichang,Phase 1,590.9,2015,Calculated using system length and stations
+Asia,China,Yinchuan,Line 1,770,2013,Calculated using corridor length and stations
+Asia,China,Zaozhuang,Line 1,1375,2013,Calculated using corridor length and stations
+Asia,China,Zhengzhou,Line 1,800,2013,www.chinabrt.org
+Asia,India,Ahmedabad,,,,
+Asia,India,Bhopal,,585.4,2013,Calculated using corridor length and stations
+Asia,India,Indore,,550,2013,EMBARQ India
+Asia,India,Jaipur,,710,2011,"Primary Survey,EMBARQ"
+Asia,India,Pune,,586,2011,"Primary Survey, EMBARQ"
+Asia,India,Rajkot,,600,2013,EMBARQ India
+Asia,India,Surat,Udhna Darwaza to Sachin GIDC,526.3,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 1,645,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 2,583,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 3,1187,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 4,697,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 5,750,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 6,665,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 7,914,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 8,1181,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 9,1066,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 10,881,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 11,712,2014,Calculated using corridor length and stations
+Asia,Indonesia,Jakarta,Koridor 12,991,2014,Calculated using corridor length and stations
+Asia,Iran,Tabriz,,,,
+Asia,Iran,Tehran,Line 1,779,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 2,693,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 3,841,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 4,1075,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 5,1375,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 7,686,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 8,885,2014,Calculated using corridor length and stations
+Asia,Iran,Tehran,Line 10,588,2014,Calculated using corridor length and stations
+Asia,Israel,Haifa,The Red Line,595.2,2015,Calculated using corridor length and stations
+Asia,Israel,Haifa,The Blue Line,666.7,2015,Calculated using corridor length and stations
+Asia,Israel,Haifa,The Green Line,571.4,2015,Calculated using corridor length and stations
+Asia,Japan,Kesennuma - Tome,Kesennuma Line,1276,2014,Calculated using corridor length and stations
+Asia,Japan,Nagoya,Yutorito Line,,,
+Asia,Malaysia,Subang Jaya,BRT Sunway Line,771,2015,Calculated using system length and stations
+Asia,Pakistan,Islamabad - Rawalpindi,Rawalpindi - Islmabad,937.5,2015,Calculated using corridor length and stations
+Asia,Pakistan,Lahore,,1000,2015,Calculated using system length and stations
+Asia,Republic of Korea,Seoul,,,,
+Asia,Taiwan,Chiayi,Chiayi BRT,1647,2014,Calculated using corridor length and stations
+Asia,Taiwan,Taichung,Blue Line,820,2014,easts.info
+Asia,Taiwan,Taipei,,380,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,Bangkok BRT,,,
+Europe,Belgium,Liège,d’Avroy - Sauvenière,314.3,2009,Calculated using corridor length and stations
+Europe,Belgium,Liège,Cadran - Fontainebleau,600,2009,Calculated using corridor length and stations
+Europe,Belgium,Liège,Quai Saint-Léonard,371.4,2009,Calculated using corridor length and stations
+Europe,Czech Republic,Prague,Line 213,600,2011,COST - European Cooperation in Science and Technology
+Europe,Finland,Helsinki,Runkolinja 550,750,2011,COST - European Cooperation in Science and Technology
+Europe,France,Belfort,Optymo BHNS,300,2014,Calculated using corridor length and stations
+Europe,France,Caen,Twisto TVR,,,
+Europe,France,Cannes,Ligne 1,440,2014,Calculated using corridor length and stations
+Europe,France,Châlon-sur-Saône,Flash,426,2014,Calculated using corridor length and stations
+Europe,France,Douai,,,,
+Europe,France,Evry,Tice,580.6,2014,Calculated using corridor length and stations
+Europe,France,La Rochelle,,,,
+Europe,France,Lille,,,,
+Europe,France,Lorient,The Triskell,275,2011,COST - European Cooperation in Science and Technology .
+Europe,France,Lyon,C-Lines,,,
+Europe,France,Maubeuge,BHLS - Viavil,,,
+Europe,France,Metz,Ligne A,480,2013,Calculated using corridor length and stations
+Europe,France,Metz,Ligne B,523,2013,Calculated using corridor length and stations
+Europe,France,Nancy,TVR (GLT),,,
+Europe,France,Nantes,BusWay,460,2013,Calculated using corridor length and stations
+Europe,France,Nice,,,,
+Europe,France,Nîmes,Tango+ T1,460,2015,Calculated using system length and stations
+Europe,France,Paris,T Zen 1,1000,2013,Calculated using corridor length and stations
+Europe,France,Paris,"Ligne 393, RATP",650,2013,Calculated using corridor length and stations
+Europe,France,Paris,TVM,625,2013,Calculated using corridor length and stations
+Europe,France,Rouen,T1,652.9,2015,Calculated using corridor length and stations
+Europe,France,Rouen,T2,493.3,2015,Calculated using corridor length and stations
+Europe,France,Rouen,T3,590,2015,Calculated using corridor length and stations
+Europe,France,Saint-Nazaire,Hélyce,474,2013,Calculated using corridor length and stations
+Europe,France,Strasbourg,Ligne G,472,2014,Calculated using corridor length and stations
+Europe,France,Toulouse,,,,
+Europe,Germany,Essen,The Spurbus,,,
+Europe,Germany,Hamburg,Line 5,503.3,2013,Calculated using system length and stations
+Europe,Germany,Oberhausen,ÖPNV-Trasse,1133.3,2011,Calculated using system length and stations
+Europe,Ireland,Dublin,,,,
+Europe,Italy,Brescia,LAM1,270,2011,COST - European Cooperation in Science and Technology
+Europe,Italy,Brescia,LAM2,188,2011,COST - European Cooperation in Science and Technology
+Europe,Italy,Prato,Blu,266.9,2015,Calculated using corridor length and stations
+Europe,Italy,Prato,Arancio,332.2,2015,Calculated using corridor length and stations
+Europe,Italy,Prato,Rossa,501.8,2015,Calculated using corridor length and stations
+Europe,Netherlands,Almere,Line 1,600,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Amsterdam,Zuidtangent,1718.2,,Calculated using corridor length and stations
+Europe,Netherlands,Eindhoven,Phileas,,,
+Europe,Netherlands,Enschede,Line 2,600,2011,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Enschede,Line3,600,2011,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Utrecht,,,,
+Europe,Portugal,Lisbon,24 de Julho Corridor (mixed traffic with 10 tramways),400,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Barcelona,Línia 64: Barceloneta - Pedralbes,589,2015,Calculated using corridor length and stations
+Europe,Spain,Castellon,Line 1,509,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Madrid,Bus VAO,860,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,LAC,381.8,,Calculated using system length and stations
+Europe,Sweden,Gothenburg,Stombuss,687,2013,Calculated using corridor length and stations
+Europe,Sweden,Jonkoping,Line1,440,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line2,440,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line3,440,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Stockholm,,,,
+Europe,Switzerland,Zurich,Line 31,407,2013,Calculated using corridor length and stations
+Europe,Turkey,Istanbul,TUYAP - Sogutlucesme Metrobus Corridor,1181.8,2015,Calculated using corridor length and stations
+Europe,United Kingdom,Bradford,Manchester Road,1370,2014,Calculated using corridor length and stations
+Europe,United Kingdom,Cambridge,The Busway,3125,2015,Calculated using Busway system length and Busway stations
+Europe,United Kingdom,Crawley,,,,
+Europe,United Kingdom,Edinburgh,,,,
+Europe,United Kingdom,Fareham - Gosport,Eclipse,486,2013,Calculated using corridor length and stations
+Europe,United Kingdom,Kent,Fastrack,,,
+Europe,United Kingdom,Leeds,,,,
+Europe,United Kingdom,London,,,,
+Europe,United Kingdom,Luton,,,,
+Europe,United Kingdom,Manchester,A6 Corridor,310,2011,COST - European Cooperation in Science and Technology
+Europe,United Kingdom,Runcorn,,,,
+Europe,United Kingdom,Swansea,,,,
+Europe,United Kingdom,York,FTR,,,
+Latin America,Argentina,Buenos Aires,Sur - Ramal Coronel Roca,664.3,2013,Calculated using corridor length and stations
+Latin America,Argentina,Buenos Aires,Sur - Ramal Fernandéz de la Cruz,761.1,2013,Calculated using corridor length and stations
+Latin America,Argentina,Buenos Aires,9 de Julio,600,2013,Calculated using corridor length and stations
+Latin America,Argentina,Buenos Aires,Juan B. Justo,590,2011,
+Latin America,Argentina,Córdoba,Sabattini,588.9,2014,Calculated using corridor length and stations
+Latin America,Argentina,Rosario,Santa Fé - Maipú,293.8,2013,Calculated using corridor length and stations
+Latin America,Argentina,Rosario,San Lorenzo - Laprida,400,2013,Calculated using corridor length and stations
+Latin America,Argentina,Rosario,Córdoba,283.3,2013,Calculated using corridor length and stations
+Latin America,Brazil,Belém,Almirante Barroso,,,
+Latin America,Brazil,Belo Horizonte,MOVE - Antônio Carlos,565.4,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,MOVE - Cristiano Machado,788.9,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,Nossa Senhora do Carmo,225,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,Boulevard Arrudas,175,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,MOVE - Área Central,260,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,Amazonas,343.5,2014,Calculated using corridor length and stations
+Latin America,Brazil,Belo Horizonte,Pedro II,750,2014,Calculated using corridor length and stations
+Latin America,Brazil,Blumenau,Rua 7 de Setembro,900,,
+Latin America,Brazil,Blumenau,Av. Martin Luther,300,,
+Latin America,Brazil,Blumenau, Av. Presidente Castelo Branco (Beira-Rio),750,,
+Latin America,Brazil,Blumenau,Rua 2 de Setembro,633,,
+Latin America,Brazil,Blumenau,Rua São Paulo - Iguaçu (Henrique Classen),333,,
+Latin America,Brazil,Blumenau,Rua São Paulo - Antônio da Veiga (Castelo Branco),433,,
+Latin America,Brazil,Blumenau,Rua Eng Paul Werner,550,,
+Latin America,Brazil,Blumenau,Rua das Palmeiras,300,,
+Latin America,Brazil,Brasília,Expresso DF Sul,4525,2014,Calculated using corridor length and stations
+Latin America,Brazil,Brasília,Estrada Parque Núcleo Bandeirante,450,2012,DFTrans
+Latin America,Brazil,Brasília,W3 Norte,350,2012,DFTrans
+Latin America,Brazil,Brasília,W3 Sul,350,2012,DFTrans
+Latin America,Brazil,Brasília,Setor Policial,430,2013,DFTrans
+Latin America,Brazil,Brasília,Estrada Parque Taguatinga-Guará,675,,
+Latin America,Brazil,Campinas,Av. Amoreiras,683.3,,Calculated using corridor length and stations
+Latin America,Brazil,Campinas,Av. João Jorge,650,,
+Latin America,Brazil,Campinas,Corredor Central,338.5,,Calculated using corridor length and stations
+Latin America,Brazil,Campo Grande,Duque de Caxias,,,
+Latin America,Brazil,Campo Grande,Rui Barbosa,,,
+Latin America,Brazil,Campo Grande,Av. Calógeras,,,
+Latin America,Brazil,Campo Grande,Rua 26 de Agosto,,,
+Latin America,Brazil,Caxias do Sul,Pinheiro Machado,271.4,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,Marechal Floriano,233.3,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,Moreira Cesar - Centro Bairro,175,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,Pio 12 - Moreira,316.7,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,18 do Forte,333.3,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,Sinimbu,300,,Calculated using corridor length and stations
+Latin America,Brazil,Caxias do Sul,Bento,175,,Calculated using corridor length and stations
+Latin America,Brazil,Criciúma,Av. Centenário,500,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Linha Verde,1700,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Boqueirão,666.7,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Leste,694.7,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Oeste,511.1,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Norte,628.6,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Sul,688.9,,Calculated using corridor length and stations
+Latin America,Brazil,Curitiba,Rua XV de Novembro,250,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo - Metropolitan area,Corredor Metropolitano ABD,625,2015,Calculated using corridor length and stations
+Latin America,Brazil,Feira de Santana,Av. Senhor dos Passos,300,,Calculated using corridor length and stations
+Latin America,Brazil,Fortaleza,Av. João Pessoa,337.5,,Calculated using corridor length and stations
+Latin America,Brazil,Fortaleza,Av. Bezerra de Menezes,276.2,,Calculated using corridor length and stations
+Latin America,Brazil,Goiânia,Leste Oeste (Eixo Anhanguera),710.5,,Calculated using corridor length and stations
+Latin America,Brazil,Goiânia,80-90 Goiás,450,,RMTC
+Latin America,Brazil,Goiânia,Universitário,357.1,,Calculated using corridor length and stations
+Latin America,Brazil,Guarulhos,Guarulhos,925,2013,Calculated using corridor length and stations
+Latin America,Brazil,Jaboatão dos Guararapes,Av. Ayrton Senna,500,2012,
+Latin America,Brazil,João Pessoa,Av. Epitácio Pessoa - Av. Miguel Couto - Av. Sanhauá - Rua Guedes Pereira,560,2012,Calculated using corridor length and stations
+Latin America,Brazil,Joinville,Avenida JK,400,,IPPUJ
+Latin America,Brazil,Joinville,João Colim,400,,IPPUJ
+Latin America,Brazil,Joinville,Blumenau,400,,IPPUJ
+Latin America,Brazil,Joinville,Santa Catarina,400,,IPPUJ
+Latin America,Brazil,Joinville,São Paulo,400,,IPPUJ
+Latin America,Brazil,Juiz de Fora,Av. Barão do Rio Branco,387.5,,Calculated using corridor length and stations
+Latin America,Brazil,Londrina,Rua João Cândido,430,,
+Latin America,Brazil,Londrina,Rua Duque de Caxias,300,,
+Latin America,Brazil,Londrina,Winston Churchill,195,,CMTU
+Latin America,Brazil,Maceió,Av. Fernandes Lima,750,,Calculated using corridor length and stations
+Latin America,Brazil,Natal,Av. Bernardo Vieira,437.5,,Calculated using corridor length and stations
+Latin America,Brazil,Niterói,Corredor Metropolitano Alameda São Boaventura,600,,
+Latin America,Brazil,Olinda,Av. Pan Nordestina - PE 15,,,
+Latin America,Brazil,Porto Alegre,Av. Farrapos,670,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Assis Brasil,500,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Sertório,950,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Baltazar Garcia,570,,EPTC
+Latin America,Brazil,Porto Alegre,III Perimetral,450,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Aureliano de Figueiredo Pinto - Av. Érico Veríssimo (Cascatinha),300,,EPTC
+Latin America,Brazil,Porto Alegre,Av. João Pessoa,540,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Azenha - Av. Bento,600,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Bento Gonçalves,950,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Osvaldo Aranha - Av. Protásio Alves,850,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Cristovão Colombo,267,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Independência,200,,EPTC
+Latin America,Brazil,Porto Alegre,Av. Teresópolis - Av. Nonoai - Av. Cavalhada,264.7,,Calculated using corridor length and stations
+Latin America,Brazil,Porto Alegre,Av. Brasil,N/A,,
+Latin America,Brazil,Recife,Via Livre Leste-Oeste,1428.6,,Calculated using corridor length and stations
+Latin America,Brazil,Recife,Via Livre Norte-Sul,5000,2014,Calculated using corridor length and stations
+Latin America,Brazil,Recife,Av. Conde do Boa Vista,825,,Calculated using corridor length and stations
+Latin America,Brazil,Recife,Av. Sul,925,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,TransOeste,1096.2,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,TransCarioca,886.4,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Av. Nossa Senhora de Copacabana,571.4,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Rua Barata Ribeiro,437.5,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Visconde de Pirajá (Rua Ataulfo de Paiva),666.7,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Prudente de Morais (General San Martin),557.1,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Antônio Carlos,433.3,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Rio Branco,433.3,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Presidente Vargas,600,,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Estácio,457.1,2013,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Tijuca,375,2013,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS 24 de maio,337.5,2013,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Carioca,372.7,2013,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Marechal Rondon,280,2014,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - Voluntários,235.7,2014,Calculated using corridor length and stations
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - São Clemente,205.9,2014,Calculated using corridor length and stations
+Latin America,Brazil,Salvador,Av. Tancredo Neves - Av. Luis Viana Filho (Paralela),177.8,,Calculated using corridor length and stations
+Latin America,Brazil,Salvador,Av. Vasco da Gama,1500,,Calculated using corridor length and stations
+Latin America,Brazil,Salvador,Av. Mario Leal Ferreira (Bonoco),500,,Calculated using corridor length and stations
+Latin America,Brazil,Santos,Ana Costa,300,2012,CET Santos
+Latin America,Brazil,São Paulo,Campo Limpo - Rebouças - Centro,905.3,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Expresso Tiradentes (Eixo Sudeste),1714.3,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Inajar - Rio Branco - Centro,680,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Itapecerica - João Dias - Santo Amaro,563.6,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Paes de Barros,650,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Parelheiros - Rio Bonito - Santo Amaro,484.1,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Pirituba - Lapa - Centro,460.6,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Santo Amaro - Nove de Julho - Centro,592,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Ver. José Diniz - Ibirapuera - Santa Cruz,445,,Calculated using corridor length and stations
+Latin America,Brazil,São Paulo,Jd. Ângela - Guarapiranga - Santo Amaro,576.9,,Calculated using corridor length and stations
+Latin America,Brazil,Sorocaba,Hermelino Matarazzo,,,
+Latin America,Brazil,Sorocaba,Comendador Oeterer,,,
+Latin America,Brazil,Sumaré,Corredor Metropolitano Noroeste,1090,,Calculated using corridor length and stations
+Latin America,Brazil,Teresina,Av. Frei Serafim,750,,Calculated using corridor length and stations
+Latin America,Brazil,Uberaba,Leste/Oeste,500,2015,pt.wikipedia.org
+Latin America,Brazil,Uberlândia,Estrutural Sudeste,500,2013,www3.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,Avenida Grecia,500,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Pajaritos Norte,228.6,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Santa Rosa Norte,417.3,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Blanco Encalada - Arica,,,
+Latin America,Chile,Santiago,Santa Rosa Sur,,,
+Latin America,Chile,Santiago,Vicuña Mackenna Norte,,,
+Latin America,Chile,Santiago,Anillo Intermedio Norte,,,
+Latin America,Chile,Santiago,Las Industrias,,,
+Latin America,Chile,Santiago,Departamental Poniente,,,
+Latin America,Chile,Santiago,Dorsal,,,
+Latin America,Chile,Santiago,Pedro Aguirre Cerda,1336.4,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Suiza - Las Rejas,580,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Vicuña Mackenna Sur,395.8,,Calculated using corridor length and stations
+Latin America,Chile,Santiago,Pajaritos Sur,300,,Calculated using corridor length and stations
+Latin America,Colombia,Barranquilla,Troncal Murillo,700,,
+Latin America,Colombia,Barranquilla,Troncal Olaya,700,,
+Latin America,Colombia,Bogotá,Calle 80,841.7,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Caracas,578.6,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Caracas Sur,850,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Eje Ambiental,633.3,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Norte,686.7,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Américas,812.5,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,NQS Central,1127.3,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,NQS Sur,846.7,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Suba,1000,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Calle 26,938.5,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bogotá,Carrera 10,811.1,2014,Calculated using corridor length and stations
+Latin America,Colombia,Bucaramanga,Metrolínea,530,,Metrolínea
+Latin America,Colombia,Cali,Avenida 3,540,2014,Calculated using corridor length and stations
+Latin America,Colombia,Cali,Centro (Calle 13/Calle 15),350,2014,Calculated using corridor length and stations
+Latin America,Colombia,Cali,Carrera 1,1166.7,2014,Calculated using corridor length and stations
+Latin America,Colombia,Cali,Calle 5,746.2,2014,Calculated using corridor length and stations
+Latin America,Colombia,Cali,Carrera 15,985.7,2014,Calculated using corridor length and stations
+Latin America,Colombia,Cali,Aguablanca,818.6,2014,Calculated using corridor length and stations
+Latin America,Colombia,Medellín,Línea 1,595,,Calculated using corridor length and stations
+Latin America,Colombia,Medellín,Línea 2,685,,Calculated using corridor length and stations
+Latin America,Colombia,Pereira,Ruta 1,568.4,,Calculated using system length and stations
+Latin America,Colombia,Pereira,Ruta 2,568.4,,Calculated using system length and stations
+Latin America,Colombia,Pereira,Ruta 3,542.9,,Calculated using system length and stations
+Latin America,Ecuador,Guayaquil,Guasmo - Río Daule,400,,www.metrovia-gye.com
+Latin America,Ecuador,Guayaquil,Bastión Popular - Centro,400,,www.metrovia-gye.com
+Latin America,Ecuador,Guayaquil,25 de Julio - Río Daule,400,2013,
+Latin America,Ecuador,Quito,Ecovía (North Eastern Corridor),650,,
+Latin America,Ecuador,Quito,TroleBús,400,,nestlac.org
+Latin America,Ecuador,Quito,Central Norte,700,,
+Latin America,Ecuador,Quito,Sur Oriental,355,,
+Latin America,Ecuador,Quito,Sur Occidental,700,2012,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,El Salvador,Gran San Salvador,Corredor SITRAMSS,711,,Calculated using corridor length and stations
+Latin America,Guatemala,Guatemala,Ramal Central,800,,www.muniguate.com
+Latin America,Guatemala,Guatemala,Ramal Sur,1600,,
+Latin America,Mexico,Chihuahua,ViveBús,622.2,2013,Calculated using corridor length and stations
+Latin America,Mexico,Ecatepec,Linea I: Ciudad Azteca - Ojo de Agua,750,,Calculated using corridor length and stations
+Latin America,Mexico,Guadalajara,Línea 1,590,,
+Latin America,Mexico,Guadalupe,Guadalupe,447.1,,Calculated using corridor length and stations
+Latin America,Mexico,León de los Aldama,Sistema Integrado de Transporte Optibus,400,,
+Latin America,Mexico,Mexico City,"Línea 1, Indios Verdes - Caminero",769.2,2015,Calculated using corridor length and stations
+Latin America,Mexico,Mexico City,"Línea 2, Tacubaya - Tepalcates",645.2,2015,Calculated using corridor length and stations
+Latin America,Mexico,Mexico City,"Línea 3, Tenayuca - Etiopia II",629.6,2015,Calculated using corridor length and stations
+Latin America,Mexico,Mexico City,"Línea 4, Buenavista - San Lázaro - Aeropuerto",965.5,2015,Calculated using corridor length and stations
+Latin America,Mexico,Mexico City,"Línea 5, Río de los Remedios - San Lázaro",625,2015,Calculated using corridor length and stations
+Latin America,Mexico,Juárez,ViveBús,757.6,,Calculated using corridor length and stations
+Latin America,Mexico,Monterrey,Ecovía,771.8,,Calculated using corridor length and stations
+Latin America,Mexico,Nezahualcoyotl,Linea III: Chimalhuacán - Pantitlán,625.9,,Calculated using corridor length and stations
+Latin America,Mexico,Puebla,Línea 1,513.9,2015,Calculated using corridor length and stations
+Latin America,Mexico,Puebla,Línea 2,460,2015,Calculated using corridor length and stations
+Latin America,Panama,Panama,Cinta Costera,,,
+Latin America,Peru,Lima,COSAC I,700,,"Architectural design specification of center and North stations. Lima, January 2009.  Document available onwww.protransporte.gob.pe and Protransporte Planing and Information System Office"
+Latin America,Trinidad and Tobago,Port of Spain - Arima,Priority Bus Route,,,
+Latin America,Uruguay,Montevideo,Corredor Garzón,370,2013,
+Latin America,Venezuela,Caracas,Línea 7,470,2013,
+Latin America,Venezuela,Merida,Trolebús de Mérida - Línea 1,625,2013,www.tromerca.gob.ve
+Latin America,Venezuela,Barquisimeto,Ruta 1,669.6,,Calculated using corridor length and stations
+Latin America,Venezuela,Barquisimeto,Ruta 2,472.2,,Calculated using corridor length and stations
+Northern America,Canada,Brampton,Queen East,1475,2015,Calculated using corridor length and stations
+Northern America,Canada,Brampton,Main,1050,2015,Calculated using corridor length and stations
+Northern America,Canada,Brampton,Steeles East,800,2015,Calculated using corridor length and stations
+Northern America,Canada,Brampton,Bovaird Drive,1384.6,2015,Calculated using corridor length and stations
+Northern America,Canada,Gatineau,Rapibus,1200,2013,Calculated using corridor length and stations
+Northern America,Canada,Halifax,,,,
+Northern America,Canada,Ottawa,Transitway,621.1,,Calculated using corridor length and stations
+Northern America,Canada,Vancouver,Broadway Corridor,1900,,onlinepubs.trb.org
+Northern America,Canada,Waterloo,200 iXpress,2640,2015,Grand River Transit
+Northern America,Canada,Waterloo,201 iXpress,714,2015,Grand River Transit
+Northern America,Canada,Winnipeg,RT,,,
+Northern America,Canada,York Regional Municipality,Line2,,,
+Northern America,United States,Albuquerque,The Red Line (766),1106.3,2015,data.cabq.gov
+Northern America,United States,Boston,Silver Line Waterfront,379,2014,Including stations on both branches; www.mbta.com
+Northern America,United States,Boston,Silver Line Washington Street,322,2014,www.mbta.com
+Northern America,United States,Chicago,Jeffery Jump,805,2012,www.redeyechicago.com
+Northern America,United States,Cleveland,HealthLine,317,2013,Calculated using corridor length and stations
+Northern America,United States,Eugene,Green Line,640,2013,Calculated using corridor length and stations
+Northern America,United States,Eugene,Gateway Line,891,2013,Calculated using corridor length and stations
+Northern America,United States,Everett,,1921.4,2013,Calculated using corridor length and stations
+Northern America,United States,Kansas City,Main Street,654,2013,Calculated using corridor length and stations
+Northern America,United States,Kansas City,Troost Avenue,945,2013,Calculated using corridor length and stations
+Northern America,United States,Las Vegas,MAX (Metropolitan Area Express),862.1,2014,Calculated using corridor length and stations
+Northern America,United States,Las Vegas,SDX (Strip & Downtown Express),851.8,2014,Calculated using corridor length and stations
+Northern America,United States,Las Vegas,SX (Sahara Express),618.6,2014,Calculated using corridor length and stations
+Northern America,United States,Los Angeles,Orange Line,1635.7,,Calculated using corridor length and stations
+Northern America,United States,Miami,South Miami-Dade Busway,607.1,,Calculated using corridor length and stations
+Northern America,United States,New York,Bx12 SBS (Fordham Road - Pelham Pkwy),805,2015,web.mta.info
+Northern America,United States,New York,M15 SBS (1st/2nd Ave),805,2011,web.mta.info
+Northern America,United States,New York,M34/M34A SBS (34th Street),327,2015,Measured using Qgis 2.6 and Google Maps
+Northern America,United States,New York,S79 SBS (Hylan Boulevard),805,2015,web.mta.info
+Northern America,United States,New York,B44 SBS (Nostrand Avenue),805,2015,web.mta.info
+Northern America,United States,New York,Bx41 SBS (Webster Avenue),775,2015,web.mta.info
+Northern America,United States,Oakland,San Pablo Rapid,,,
+Northern America,United States,Orlando,LYNX Lymmo,,,
+Northern America,United States,Phoenix,,,,
+Northern America,United States,Pittsburgh,MLK East Busway,1633,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Pittsburgh,South Busway,627,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Pittsburgh,West Busway,1350,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,San Bernardino,sbX,1606.3,,Calculated using corridor length and stations
+Northern America,United States,San Diego,UTC Transit Center – UCSD,833.3,,Calculated using corridor length and stations
+Northern America,United States,San Diego,UTC East Loop,666.7,,Calculated using corridor length and stations
+Northern America,United States,Snohomish County,,,,
+Northern America,United States,Stockton,Route #40 - Pacific Corridor,1.1,2015,www.sanjoaquinrtd.com
+Northern America,United States,Stockton,Route #43 - Hammer Corridor,0.6,2015,www.sanjoaquinrtd.com
+Northern America,United States,Stockton,Route #44 - Airport Corridor,1.1,2015,www.sanjoaquinrtd.com
+Oceania,Australia,Adelaide,North East Busway,5000,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,South East Busway,1650,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,Northern Busway,1134,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,Eastern Busway,667,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,Blacktown to Rouse Hill (North-West T-way),711,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Liverpool - Parramatta,Liverpool-Parramatta T-Way,920,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,Parramatta to Rouse Hill (North-West T-way),861,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,New Zealand,Auckland,Northern Busway,1240,2014,Calculated using corridor length and stations

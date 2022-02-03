@@ -1,0 +1,410 @@
+Region,Country,City,Corridor,Value,Year,Source
+Africa,Nigeria,Lagos,Lagos BRT,2008,,Viva 2010 ( www.uncrd.or.jp ); Trans-Africa Consortium 2010 ; www.itdp.org
+Africa,South Africa,Cape Town,1A,2011,,www.capetown.gov.za
+Africa,South Africa,Johannesburg,1A,2009,,www.reavaya.org.za
+Africa,South Africa,Johannesburg,1B,2013,,www.itdp.org
+Asia,China,Beijing,BRT 1,2004,,CUSTReC CATS
+Asia,China,Beijing,BRT 2,2008,,CUSTReC CATS
+Asia,China,Beijing,BRT 3,2008,,CUSTReC CATS
+Asia,China,Beijing,BRT 4,2012,,CUSTReC CATS
+Asia,China,Changde,Line 1,2012,,www.chinabrt.org
+Asia,China,Changzhou,Line 1,2008,,www.chinabrt.org
+Asia,China,Changzhou,Line 2,2009,,www.chinabrt.org
+Asia,China,Chengdu,2nd Ring Elevated Road,2013,,www.worldbrt.net
+Asia,China,Chongqing,Chongqing BRT,2008,,www.chinabrt.org
+Asia,China,Dalian,Dalian BRT,2008,,www.chinabrt.org
+Asia,China,Guangzhou,Zhongshan Avenue,2010,,www.chinabrt.org
+Asia,China,Hangzhou,Line 1,2006,,www.chinabrt.org
+Asia,China,Hangzhou,Line 2,2008,,www.chinabrt.org
+Asia,China,Hangzhou,Line 3,2010,,www.chinabrt.org
+Asia,China,Hefei,Changjiang Lu,2010,,www.chinabrt.org
+Asia,China,Jinan,BRT-1,2008,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-2,2008,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-3,2009,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-4,2009,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-5,2009,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-6,2009,,Jinan Urban Transport Research Center
+Asia,China,Jinan,BRT-7,2014,,Jinan Urban Transport Research Center
+Asia,China,Kunming,,1999,,
+Asia,China,Lanzhou,Line 1,2013,,www.chinabrt.org
+Asia,China,Lianyungang,Line 1,2012,,www.chinabrt.org
+Asia,China,Urumqi,Line 1,2011,,www.chinabrt.org
+Asia,China,Urumqi,Line 2,2012,,www.chinabrt.org
+Asia,China,Urumqi,Line 3,2013,,www.chinabrt.org
+Asia,China,Urumqi,Line 4,2014,,www.chinabrt.org
+Asia,China,Xiamen,Line 1,2008,,www.chinabrt.org
+Asia,China,Xiamen,Line 2,2010,,www.chinabrt.org
+Asia,China,Xiamen,Line 3,,,
+Asia,China,Yancheng,Line 1,2010,,www.chinabrt.org
+Asia,China,Yichang,Phase 1,2015,,news.3xgd.com
+Asia,China,Yinchuan,Line 1,2012,,www.chinabrt.org
+Asia,China,Zaozhuang,Line 1,2010,,www.chinabrt.org
+Asia,China,Zhengzhou,Line 1,2009,,www.chinabrt.org
+Asia,India,Ahmedabad,,2009,,www.worldbrt.net
+Asia,India,Bhopal,,2013,,Embarq India
+Asia,India,Indore,,2013,,EMBARQ India
+Asia,India,Jaipur,,2010,,Interview with JCTSL officials
+Asia,India,Pune,,2006,,Interview with PMPML Officials
+Asia,India,Rajkot,,2012,,EMBARQ India
+Asia,India,Surat,Udhna Darwaza to Sachin GIDC,2014,,cept.ac.in
+Asia,Indonesia,Jakarta,Koridor 1,2004,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 2,2006,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 3,2006,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 4,2007,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 5,2007,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 6,2007,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 7,2007,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 8,2009,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 9,2011,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 10,2011,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 11,2012,,Transjakarta
+Asia,Indonesia,Jakarta,Koridor 12,2013,,Transjakarta
+Asia,Iran,Tabriz,,2009,,Global Mass Transit Report:www.globalmasstransit.net
+Asia,Iran,Tehran,Line 1,2008,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 2,2009,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 3,2009,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 4,2011,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 5,2013,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 7,2011,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 8,2013,,trafficorg.tehran.ir
+Asia,Iran,Tehran,Line 10,2011,,trafficorg.tehran.ir
+Asia,Israel,Haifa,The Red Line,2013,,www.dannorth.co.il
+Asia,Israel,Haifa,The Blue Line,2013,,www.dannorth.co.il
+Asia,Israel,Haifa,The Green Line,2013,,www.dannorth.co.il
+Asia,Japan,Kesennuma - Tome,Kesennuma Line,2012,,en.wikipedia.org
+Asia,Japan,Nagoya,Yutorito Line,2001,,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Malaysia,Subang Jaya,BRT Sunway Line,2015,,www.chatpropertymalaysia.com
+Asia,Pakistan,Islamabad - Rawalpindi,Rawalpindi - Islmabad,2015,,www.pakistantimes.com
+Asia,Pakistan,Lahore,,2013,,Lahore Metrobus System
+Asia,Republic of Korea,Seoul,,2004,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Taiwan,Chiayi,Chiayi BRT,2008,,e-bus.chiayi.gov.tw
+Asia,Taiwan,Taichung,Blue Line,2014,,www.chinapost.com.tw
+Asia,Taiwan,Taipei,,1998,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,Bangkok BRT,2010,,www.chinabrt.org
+Europe,Belgium,Liège,d’Avroy - Sauvenière,,,
+Europe,Belgium,Liège,Cadran - Fontainebleau,,,
+Europe,Belgium,Liège,Quai Saint-Léonard,,,
+Europe,Czech Republic,Prague,Line 213,1994,,
+Europe,Finland,Helsinki,Runkolinja 550,2003,,"COST - European Cooperation in Science and Technology, 2006 change the brand"
+Europe,France,Belfort,Optymo BHNS,2013,,info.optymo.fr
+Europe,France,Caen,Twisto TVR,2002,,www.nbrti.org
+Europe,France,Cannes,Ligne 1,2013,,www.silteplait.info
+Europe,France,Châlon-sur-Saône,Flash,2012,,www.ville-rail-transports.com
+Europe,France,Douai,,2006,,Viva 2010 ( www.uncrd.or.jp );connectedcities.eu ; lw2.easy-site.nl
+Europe,France,Evry,Tice,1975,,snotice.fr
+Europe,France,La Rochelle,,2009,,www.ville-larochelle.fr
+Europe,France,Lille,,2008,,www.nbrti.org bhns.fr
+Europe,France,Lorient,The Triskell,2007,,COST - European Cooperation in Science and Technology .
+Europe,France,Lyon,C-Lines,2006,,www.nbrti.org
+Europe,France,Maubeuge,BHLS - Viavil,2008,,www.nbrti.org
+Europe,France,Metz,Ligne A,2013,,mettis.metzmetropole.fr
+Europe,France,Metz,Ligne B,2013,,mettis.metzmetropole.fr
+Europe,France,Nancy,TVR (GLT),2001,,www.nbrti.org
+Europe,France,Nantes,BusWay,2006,,COST - European Cooperation in Science and Technology
+Europe,France,Nice,,2010,,bhns.fr
+Europe,France,Nîmes,Tango+ T1,2012,,trambus.nimes-metropole.fr
+Europe,France,Paris,T Zen 1,2011,,www.tzen.com
+Europe,France,Paris,"Ligne 393, RATP",2011,,fr.wikipedia.org
+Europe,France,Paris,TVM,1993,,COST - European Cooperation in Science and Technology
+Europe,France,Rouen,T1,2002,,www.la-crea.fr
+Europe,France,Rouen,T2,2001,,www.la-crea.fr
+Europe,France,Rouen,T3,2001,,www.la-crea.fr
+Europe,France,Saint-Nazaire,Hélyce,2012,,www.mobilicites.com
+Europe,France,Strasbourg,Ligne G,2013,,www.cts-strasbourg.eu
+Europe,France,Toulouse,,2008,,Viva 2010 ( www.uncrd.or.jp ); CERTU 2010
+Europe,Germany,Essen,The Spurbus,1980,,COST - European Cooperation in Science and Technology
+Europe,Germany,Hamburg,Line 5,2005,,
+Europe,Germany,Oberhausen,ÖPNV-Trasse,1996,,COST - European Cooperation in Science and Technology
+Europe,Ireland,Dublin,,1997,,"Heddebaut O. et. al ""The European Bus with a High Level of Service (BHLS): Concept and Practice"", Built Environment Vol 36, No. 3, 2010"
+Europe,Italy,Brescia,LAM1,,,
+Europe,Italy,Brescia,LAM2,,,
+Europe,Italy,Prato,Blu,2003,,www.uitp.org
+Europe,Italy,Prato,Arancio,2014,,www.capautolinee.it
+Europe,Italy,Prato,Rossa,2003,,www.uitp.org
+Europe,Netherlands,Almere,Line 1,2004,,
+Europe,Netherlands,Amsterdam,Zuidtangent,2002,,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Eindhoven,Phileas,2003,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,Netherlands,Enschede,Line 2,2000,,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Enschede,Line3,2006,,COST - European Cooperation in Science and Technology P158
+Europe,Netherlands,Utrecht,,2001,,Viva 2010 ( www.uncrd.or.jp );www.ashford.gov.uk ; www.chinabrt.org
+Europe,Portugal,Lisbon,24 de Julho Corridor (mixed traffic with 10 tramways),1990,,COST - European Cooperation in Science and Technology
+Europe,Spain,Barcelona,Línia 64: Barceloneta - Pedralbes,2007,,COST - European Cooperation in Science and Technology
+Europe,Spain,Castellon,Line 1,2009,,
+Europe,Spain,Madrid,Bus VAO,1995,,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,LAC,2014,,www.granadadirect.com
+Europe,Sweden,Gothenburg,Stombuss,2003,,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line1,1996,,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line2,1996,,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,Line3,2001,,COST - European Cooperation in Science and Technology
+Europe,Sweden,Stockholm,,1998,,
+Europe,Switzerland,Zurich,Line 31,2007,,COST - European Cooperation in Science and Technology
+Europe,Turkey,Istanbul,TUYAP - Sogutlucesme Metrobus Corridor,2007,,IETT
+Europe,United Kingdom,Bradford,Manchester Road,2002,,webarchive.nationalarchives.gov.uk
+Europe,United Kingdom,Cambridge,The Busway,2011,,www.thebusway.info
+Europe,United Kingdom,Crawley,,2003,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,United Kingdom,Edinburgh,,2004,,www.ashford.gov.uk
+Europe,United Kingdom,Fareham - Gosport,Eclipse,2012,,www3.hants.gov.uk
+Europe,United Kingdom,Kent,Fastrack,2006,,www.ashford.gov.uk
+Europe,United Kingdom,Leeds,,1995,,www.ashford.gov.uk
+Europe,United Kingdom,London,,2010,,www.tfl.gov.uk
+Europe,United Kingdom,Luton,,2006,,en.wikipedia.org
+Europe,United Kingdom,Manchester,A6 Corridor,1996,,en.wikipedia.org
+Europe,United Kingdom,Runcorn,,1971,,omnibuses.blogspot.com.br
+Europe,United Kingdom,Swansea,,2009,,en.wikipedia.org
+Europe,United Kingdom,York,FTR,2006,,2010 Viva
+Latin America,Argentina,Buenos Aires,Sur - Ramal Coronel Roca,2013,,movilidad.buenosaires.gob.ar
+Latin America,Argentina,Buenos Aires,Sur - Ramal Fernandéz de la Cruz,2013,,movilidad.buenosaires.gob.ar
+Latin America,Argentina,Buenos Aires,9 de Julio,2013,,m24digital.com
+Latin America,Argentina,Buenos Aires,Juan B. Justo,2011,,movilidad.buenosaires.gob.ar
+Latin America,Argentina,Córdoba,Sabattini,2014,,infodecordoba.com.ar
+Latin America,Argentina,Rosario,Santa Fé - Maipú,2012,,www.rosario.gov.ar
+Latin America,Argentina,Rosario,San Lorenzo - Laprida,2012,,www.rosario.gov.ar
+Latin America,Argentina,Rosario,Córdoba,2012,,www.rosario.gov.ar
+Latin America,Brazil,Belém,Almirante Barroso,2014,,ww3.belem.pa.gov.br
+Latin America,Brazil,Belo Horizonte,MOVE - Antônio Carlos,2007,"In 2014, the corridor received improvements and became to operate as a BRT",Busway | BRT
+Latin America,Brazil,Belo Horizonte,MOVE - Cristiano Machado,1975,"In 2014, the corridor received improvements and became to operate as a BRT",Busway | BRT
+Latin America,Brazil,Belo Horizonte,Nossa Senhora do Carmo,2009,,www.skyscrapercity.com
+Latin America,Brazil,Belo Horizonte,Boulevard Arrudas,2007,,BHTrans
+Latin America,Brazil,Belo Horizonte,MOVE - Área Central,2014,,BHTrans
+Latin America,Brazil,Belo Horizonte,Amazonas,1982,,BHTrans
+Latin America,Brazil,Belo Horizonte,Pedro II,2014,,www.em.com.br
+Latin America,Brazil,Blumenau,Rua 7 de Setembro,2011,,www.dihitt.com.br
+Latin America,Brazil,Blumenau,Av. Martin Luther,2011,,www.dihitt.com.br
+Latin America,Brazil,Blumenau, Av. Presidente Castelo Branco (Beira-Rio),2011,,www.dihitt.com.br
+Latin America,Brazil,Blumenau,Rua 2 de Setembro,2012,,
+Latin America,Brazil,Blumenau,Rua São Paulo - Iguaçu (Henrique Classen),2012,,www.blumenau.sc.gov.br
+Latin America,Brazil,Blumenau,Rua São Paulo - Antônio da Veiga (Castelo Branco),2012,,www.blumenau.sc.gov.br
+Latin America,Brazil,Blumenau,Rua Eng Paul Werner,2011,,www.blumenaunoticias.com.br
+Latin America,Brazil,Blumenau,Rua das Palmeiras,2012,,www.blumenau.sc.gov.br
+Latin America,Brazil,Brasília,Expresso DF Sul,2014,,www.dftrans.df.gov.br
+Latin America,Brazil,Brasília,Estrada Parque Núcleo Bandeirante,2011,,
+Latin America,Brazil,Brasília,W3 Norte,2012,,
+Latin America,Brazil,Brasília,W3 Sul,2012,,
+Latin America,Brazil,Brasília,Setor Policial,2012,,
+Latin America,Brazil,Brasília,Estrada Parque Taguatinga-Guará,2012,,
+Latin America,Brazil,Campinas,Av. Amoreiras,1986,,www.portalinterbuss.com.br
+Latin America,Brazil,Campinas,Av. João Jorge,1986,,www.portalinterbuss.com.br
+Latin America,Brazil,Campinas,Corredor Central,2010,,www.campinas.sp.gov.br
+Latin America,Brazil,Campo Grande,Duque de Caxias,2011,,www.pmcg.ms.gov.br
+Latin America,Brazil,Campo Grande,Rui Barbosa,1988,,AGETRAN
+Latin America,Brazil,Campo Grande,Av. Calógeras,1987,,AGETRAN
+Latin America,Brazil,Campo Grande,Rua 26 de Agosto,1989,,AGETRAN
+Latin America,Brazil,Caxias do Sul,Pinheiro Machado,,,
+Latin America,Brazil,Caxias do Sul,Marechal Floriano,,,
+Latin America,Brazil,Caxias do Sul,Moreira Cesar - Centro Bairro,,,
+Latin America,Brazil,Caxias do Sul,Pio 12 - Moreira,,,
+Latin America,Brazil,Caxias do Sul,18 do Forte,,,
+Latin America,Brazil,Caxias do Sul,Sinimbu,,,
+Latin America,Brazil,Caxias do Sul,Bento,,,
+Latin America,Brazil,Criciúma,Av. Centenário,1996,,www.astc.sc.gov.br
+Latin America,Brazil,Curitiba,Linha Verde,2009,,www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Boqueirão,1977,"In 1991, the corridor received improvements and became to operate as a BRT",www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Leste,1980,"In 1991, the corridor received improvements and became to operate as a BRT",www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Oeste,1980,"In 1991, the corridor received improvements and became to operate as a BRT",www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Norte,1974,"In 1991, the corridor received improvements and became to operate as a BRT",www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Sul,1974,"In 1991, the corridor received improvements and became to operate as a BRT",www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,Curitiba,Rua XV de Novembro,2014,,www.urbs.curitiba.pr.gov.br
+Latin America,Brazil,São Paulo - Metropolitan area,Corredor Metropolitano ABD,1988,,www.emtu.sp.gov.br
+Latin America,Brazil,Feira de Santana,Av. Senhor dos Passos,2005,,
+Latin America,Brazil,Fortaleza,Av. João Pessoa,1980,The corridor was commenced during the 80’s,ETUFOR
+Latin America,Brazil,Fortaleza,Av. Bezerra de Menezes,2012,,www.jangadeiroonline.com.br
+Latin America,Brazil,Goiânia,Leste Oeste (Eixo Anhanguera),1976,,meutransporte.blogspot.com
+Latin America,Brazil,Goiânia,80-90 Goiás,1980,,RMTC
+Latin America,Brazil,Goiânia,Universitário,2013,,novoportal.ntu.org.br
+Latin America,Brazil,Guarulhos,Guarulhos,2013,,www.emtu.sp.gov.br
+Latin America,Brazil,Jaboatão dos Guararapes,Av. Ayrton Senna,2012,,www.jaboatao.pe.gov.br
+Latin America,Brazil,João Pessoa,Av. Epitácio Pessoa - Av. Miguel Couto - Av. Sanhauá - Rua Guedes Pereira,2010,,www.agenciat1.com.br
+Latin America,Brazil,Joinville,Avenida JK,1999,,www.gidion.com.br
+Latin America,Brazil,Joinville,João Colim,2008,,www.gidion.com.br
+Latin America,Brazil,Joinville,Blumenau,2008,,www.gidion.com.br
+Latin America,Brazil,Joinville,Santa Catarina,2008,,www.gidion.com.br
+Latin America,Brazil,Joinville,São Paulo,2008,,www.gidion.com.br
+Latin America,Brazil,Juiz de Fora,Av. Barão do Rio Branco,1982,,www.sengemg.com.br
+Latin America,Brazil,Londrina,Rua João Cândido,2010,,
+Latin America,Brazil,Londrina,Rua Duque de Caxias,2010,,
+Latin America,Brazil,Londrina,Winston Churchill,2011,,
+Latin America,Brazil,Maceió,Av. Fernandes Lima,2010,,gazetaweb.globo.com
+Latin America,Brazil,Natal,Av. Bernardo Vieira,2008,,www.urbtec.com.br
+Latin America,Brazil,Niterói,Corredor Metropolitano Alameda São Boaventura,2010,,www.nittrans.niteroi.rj.gov.br
+Latin America,Brazil,Olinda,Av. Pan Nordestina - PE 15,2005,,zrak7.ifrance.com
+Latin America,Brazil,Porto Alegre,Av. Farrapos,1980,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Assis Brasil,1981,,www.cbtu.gov.br
+Latin America,Brazil,Porto Alegre,Av. Sertório,1990,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Baltazar Garcia,2008,,zh.clicrbs.com.br
+Latin America,Brazil,Porto Alegre,III Perimetral,2003,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Aureliano de Figueiredo Pinto - Av. Érico Veríssimo (Cascatinha),1980,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. João Pessoa,1981,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Azenha - Av. Bento,1981,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Bento Gonçalves,1990,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Osvaldo Aranha - Av. Protásio Alves,1982,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Cristovão Colombo,1977,,cbtumetrorec.gov.br
+Latin America,Brazil,Porto Alegre,Av. Independência,,,
+Latin America,Brazil,Porto Alegre,Av. Teresópolis - Av. Nonoai - Av. Cavalhada,2013,,www2.portoalegre.rs.gov.br
+Latin America,Brazil,Porto Alegre,Av. Brasil,2014,,www2.portoalegre.rs.gov.br
+Latin America,Brazil,Recife,Via Livre Leste-Oeste,1982,"In 2014, the corridor received improvements and became to operate as a BRT",Busway | BRT
+Latin America,Brazil,Recife,Via Livre Norte-Sul,2013,"In 2014, the corridor received improvements and became to operate as a BRT",Busway | BRT
+Latin America,Brazil,Recife,Av. Conde do Boa Vista,2008,,
+Latin America,Brazil,Recife,Av. Sul,,,
+Latin America,Brazil,Rio de Janeiro,TransOeste,2012,,www.cidadeolimpica.com.br
+Latin America,Brazil,Rio de Janeiro,TransCarioca,2014,,www.cidadeolimpica.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Av. Nossa Senhora de Copacabana,2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Copacabana - Rua Barata Ribeiro,2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Visconde de Pirajá (Rua Ataulfo de Paiva),2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Ipanema/Leblon - Rua Prudente de Morais (General San Martin),2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Antônio Carlos,2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Rio Branco,2011,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Presidente Vargas,2012,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Estácio,2013,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Tijuca,2013,,www.fetranspordocs.com.br
+Latin America,Brazil,Rio de Janeiro,BRS 24 de maio,2013,,noticias.band.uol.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Carioca,2013,,brsrio.com.br
+Latin America,Brazil,Rio de Janeiro,BRS Marechal Rondon,2014,,www.rioonibus.com
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - Voluntários,2014,,www.rioonibus.com
+Latin America,Brazil,Rio de Janeiro,BRS Botafogo - São Clemente,2014,,www.brsrio.com.br
+Latin America,Brazil,Salvador,Av. Tancredo Neves - Av. Luis Viana Filho (Paralela),,,
+Latin America,Brazil,Salvador,Av. Vasco da Gama,1990,,www.setps.com.br
+Latin America,Brazil,Salvador,Av. Mario Leal Ferreira (Bonoco),1991,,www.setps.com.br
+Latin America,Brazil,Santos,Ana Costa,2009,,www.cetsantos.com.br
+Latin America,Brazil,São Paulo,Campo Limpo - Rebouças - Centro,2004,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Expresso Tiradentes (Eixo Sudeste),2007,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Inajar - Rio Branco - Centro,1991,,SPTrans
+Latin America,Brazil,São Paulo,Itapecerica - João Dias - Santo Amaro,2000,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Paes de Barros,1980,,www.prefeitura.sp.gov.br
+Latin America,Brazil,São Paulo,Parelheiros - Rio Bonito - Santo Amaro,2004,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Pirituba - Lapa - Centro,2003,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Santo Amaro - Nove de Julho - Centro,1987,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Ver. José Diniz - Ibirapuera - Santa Cruz,2004,,www.sptrans.com.br
+Latin America,Brazil,São Paulo,Jd. Ângela - Guarapiranga - Santo Amaro,2000,,www.sptrans.com.br
+Latin America,Brazil,Sorocaba,Hermelino Matarazzo,2012,,www.cruzeirodosul.inf.br
+Latin America,Brazil,Sorocaba,Comendador Oeterer,2012,,www.cruzeirodosul.inf.br
+Latin America,Brazil,Sumaré,Corredor Metropolitano Noroeste,2010,,www.emtu.sp.gov.br
+Latin America,Brazil,Teresina,Av. Frei Serafim,2011,,
+Latin America,Brazil,Uberaba,Leste/Oeste,2015,,www.uberaba.mg.gov.br
+Latin America,Brazil,Uberlândia,Estrutural Sudeste,2006,,www.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,Avenida Grecia,2008,,www.minvu.cl
+Latin America,Chile,Santiago,Pajaritos Norte,2009,,Project Plan
+Latin America,Chile,Santiago,Santa Rosa Norte,2008,,www.viasantarosa.cl
+Latin America,Chile,Santiago,Blanco Encalada - Arica,2006,,Transantiago
+Latin America,Chile,Santiago,Santa Rosa Sur,2010,,Transantiago
+Latin America,Chile,Santiago,Vicuña Mackenna Norte,2010,,Transantiago
+Latin America,Chile,Santiago,Anillo Intermedio Norte,2008,,Transantiago
+Latin America,Chile,Santiago,Las Industrias,2008,,Transantiago
+Latin America,Chile,Santiago,Departamental Poniente,2009,,Transantiago
+Latin America,Chile,Santiago,Dorsal,2010,,Transantiago
+Latin America,Chile,Santiago,Pedro Aguirre Cerda,2008,,Transantiago Informa and MINVUwww.transantiagoinforma.cl andwww.minvu.cl
+Latin America,Chile,Santiago,Suiza - Las Rejas,2006,,www.cmbprime.cl
+Latin America,Chile,Santiago,Vicuña Mackenna Sur,2009,,"Newspaper ""La Nacion"" and ""Municipalidad La Florida"" , www.lanacion.cl andwww.laflorida.cl"
+Latin America,Chile,Santiago,Pajaritos Sur,2008,,Project plan
+Latin America,Colombia,Barranquilla,Troncal Murillo,2010,,
+Latin America,Colombia,Barranquilla,Troncal Olaya,2010,,
+Latin America,Colombia,Bogotá,Calle 80,2000,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Caracas,2000,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Caracas Sur,2001,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Eje Ambiental,2002,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Norte,2001,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Américas,2003,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,NQS Central,2005,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,NQS Sur,2005,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Suba,2006,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Calle 26,2012,,TransMilenio S.A.
+Latin America,Colombia,Bogotá,Carrera 10,2012,,TransMilenio S.A.
+Latin America,Colombia,Bucaramanga,Metrolínea,2010,,Metrolínea
+Latin America,Colombia,Cali,Avenida 3,2010,,Metro Cali S.A.
+Latin America,Colombia,Cali,Centro (Calle 13/Calle 15),2008,,Metro Cali S.A.
+Latin America,Colombia,Cali,Carrera 1,2009,,Metro Cali S.A.
+Latin America,Colombia,Cali,Calle 5,2008,,Metro Cali S.A.
+Latin America,Colombia,Cali,Carrera 15,2008,,Metro Cali S.A.
+Latin America,Colombia,Cali,Aguablanca,2011,,Metro Cali S.A.
+Latin America,Colombia,Medellín,Línea 1,2011,,
+Latin America,Colombia,Medellín,Línea 2,2013,,
+Latin America,Colombia,Pereira,Ruta 1,2006,,www.megabus.gov.co
+Latin America,Colombia,Pereira,Ruta 2,2006,,www.megabus.gov.co
+Latin America,Colombia,Pereira,Ruta 3,2006,,www.megabus.gov.co
+Latin America,Ecuador,Guayaquil,Guasmo - Río Daule,2006,,web site www.metrovia-gye.com
+Latin America,Ecuador,Guayaquil,Bastión Popular - Centro,2008,,web site www.metrovia-gye.com
+Latin America,Ecuador,Guayaquil,25 de Julio - Río Daule,2013,,
+Latin America,Ecuador,Quito,Ecovía (North Eastern Corridor),2002,,"Eduardo Sierra, Trolebus"
+Latin America,Ecuador,Quito,TroleBús,1995,,www.trolebus.gov.ec
+Latin America,Ecuador,Quito,Central Norte,2005,,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,Ecuador,Quito,Sur Oriental,2010,,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,Ecuador,Quito,Sur Occidental,2012,,Empresa Pública Metropolitana de Transporte de Pasajeros de Quito (EPMTPQ)
+Latin America,El Salvador,Gran San Salvador,Corredor SITRAMSS,2015,,www.vmt.gob.sv
+Latin America,Guatemala,Guatemala,Ramal Central,2009,,
+Latin America,Guatemala,Guatemala,Ramal Sur,2007,,
+Latin America,Mexico,Chihuahua,ViveBús,2013,,EMBARQ México
+Latin America,Mexico,Ecatepec,Linea I: Ciudad Azteca - Ojo de Agua,2010,,transeunte.org
+Latin America,Mexico,Guadalajara,Línea 1,2009,,
+Latin America,Mexico,Guadalupe,Guadalupe,2005,,es.wikipedia.org
+Latin America,Mexico,León de los Aldama,Sistema Integrado de Transporte Optibus,2003,,www.pagobus.com
+Latin America,Mexico,Mexico City,"Línea 1, Indios Verdes - Caminero",2005,The corridor was extended in 2008,www.metrobus.df.gob.mx
+Latin America,Mexico,Mexico City,"Línea 2, Tacubaya - Tepalcates",2009,,www.metrobus.df.gob.mx
+Latin America,Mexico,Mexico City,"Línea 3, Tenayuca - Etiopia II",2011,,www.metrobus.df.gob.mx
+Latin America,Mexico,Mexico City,"Línea 4, Buenavista - San Lázaro - Aeropuerto",2012,,www.metrobus.df.gob.mx
+Latin America,Mexico,Mexico City,"Línea 5, Río de los Remedios - San Lázaro",2013,,www.metrobus.df.gob.mx
+Latin America,Mexico,Juárez,ViveBús,2013,,vivirenjuarez.wix.com
+Latin America,Mexico,Monterrey,Ecovía,2014,,www.nl.gob.mx
+Latin America,Mexico,Nezahualcoyotl,Linea III: Chimalhuacán - Pantitlán,2013,,www.transmasivo.com.mx
+Latin America,Mexico,Puebla,Línea 1,2013,,www.rutapuebla.mx
+Latin America,Mexico,Puebla,Línea 2,2015,,rutapuebla.mx
+Latin America,Panama,Panama,Cinta Costera,2011,,www.panamaamerica.com.pa
+Latin America,Peru,Lima,COSAC I,1972,"In 2010, the corridor received improvements and became to operate as a BRT",Busway | BRT
+Latin America,Trinidad and Tobago,Port of Spain - Arima,Priority Bus Route,2011,,
+Latin America,Uruguay,Montevideo,Corredor Garzón,2012,,www.montevideo.gub.uy
+Latin America,Venezuela,Caracas,Línea 7,2012,,www.minci.gob.ve
+Latin America,Venezuela,Merida,Trolebús de Mérida - Línea 1,2007,,www.tramz.com www.venelogia.com
+Latin America,Venezuela,Barquisimeto,Ruta 1,2013,,www.rnv.gob.ve
+Latin America,Venezuela,Barquisimeto,Ruta 2,2013,,www.rnv.gob.ve
+Northern America,Canada,Brampton,Queen East,2010,,en.wikipedia.org
+Northern America,Canada,Brampton,Main,2011,,en.wikipedia.org
+Northern America,Canada,Brampton,Steeles East,2012,,en.wikipedia.org
+Northern America,Canada,Brampton,Bovaird Drive,2014,,www.brampton.ca
+Northern America,Canada,Gatineau,Rapibus,2013,,ici.radio-canada.ca
+Northern America,Canada,Halifax,,2005,,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,Canada,Ottawa,Transitway,1983,,Bus Rapid Transit Planning Guide (ITDP)
+Northern America,Canada,Vancouver,Broadway Corridor,1996,,
+Northern America,Canada,Waterloo,200 iXpress,2005,,Grand River Transit
+Northern America,Canada,Waterloo,201 iXpress,2011,,Grand River Transit
+Northern America,Canada,Winnipeg,RT,2012,,Winnipeg Transit 
+Northern America,Canada,York Regional Municipality,Line2,2005,,COST - European Cooperation in Science and Technology
+Northern America,United States,Albuquerque,The Red Line (766),2004,,www.cabq.gov
+Northern America,United States,Boston,Silver Line Waterfront,2004,,www.mbta.com
+Northern America,United States,Boston,Silver Line Washington Street,2002,,www.mbta.com
+Northern America,United States,Chicago,Jeffery Jump,2012,,www.brtchicago.com
+Northern America,United States,Cleveland,HealthLine,2009,,www.riderta.com
+Northern America,United States,Eugene,Green Line,2007,,LTD
+Northern America,United States,Eugene,Gateway Line,2011,,LTD
+Northern America,United States,Everett,,2009,,en.wikipedia.org
+Northern America,United States,Kansas City,Main Street,2005,,www.nbrti.org
+Northern America,United States,Kansas City,Troost Avenue,2011,,www.nbrti.org
+Northern America,United States,Las Vegas,MAX (Metropolitan Area Express),2004,,www.lasvegassun.com
+Northern America,United States,Las Vegas,SDX (Strip & Downtown Express),2010,,esci-ksp.org
+Northern America,United States,Las Vegas,SX (Sahara Express),2012,,www.rtcsnv.com
+Northern America,United States,Los Angeles,Orange Line,2005,,www.metro.net
+Northern America,United States,Miami,South Miami-Dade Busway,1997,,www.gobrt.org
+Northern America,United States,New York,Bx12 SBS (Fordham Road - Pelham Pkwy),2008,,trb.metapress.com
+Northern America,United States,New York,M15 SBS (1st/2nd Ave),2010,,mta.info
+Northern America,United States,New York,M34/M34A SBS (34th Street),2011,,web.mta.info
+Northern America,United States,New York,S79 SBS (Hylan Boulevard),2012,,web.mta.info
+Northern America,United States,New York,B44 SBS (Nostrand Avenue),2013,,web.mta.info
+Northern America,United States,New York,Bx41 SBS (Webster Avenue),2013,,web.mta.info
+Northern America,United States,Oakland,San Pablo Rapid,2003,,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,United States,Orlando,LYNX Lymmo,1997,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Phoenix,,2008,,"Diaz R. (editor) Hinebaugh D. (director) , Characteristics of Bus Rapid Transit for Decision-Making (CBRT), FTA, February 2009"
+Northern America,United States,Pittsburgh,MLK East Busway,1983,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Pittsburgh,South Busway,1977,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Pittsburgh,West Busway,2000,,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,San Bernardino,sbX,2014,,www.omnitrans.org
+Northern America,United States,San Diego,UTC Transit Center – UCSD,2009,,www.sandag.org
+Northern America,United States,San Diego,UTC East Loop,2012,,www.sdmts.com
+Northern America,United States,Snohomish County,,2009,,www.commtrans.org
+Northern America,United States,Stockton,Route #40 - Pacific Corridor,2007,,www.youtube.com
+Northern America,United States,Stockton,Route #43 - Hammer Corridor,2012,,www.youtube.com
+Northern America,United States,Stockton,Route #44 - Airport Corridor,2011,,www.youtube.com
+Oceania,Australia,Adelaide,North East Busway,1986,,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,South East Busway,2000,,www.tmr.qld.gov.au
+Oceania,Australia,Brisbane,Northern Busway,2008,,www.tmr.qld.gov.au
+Oceania,Australia,Brisbane,Eastern Busway,2009,,www.tmr.qld.gov.au
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,Blacktown to Rouse Hill (North-West T-way),2007,,en.wikipedia.org
+Oceania,Australia,Sydney - Liverpool - Parramatta,Liverpool-Parramatta T-Way,2003,,en.wikipedia.org
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,Parramatta to Rouse Hill (North-West T-way),2007,,en.wikipedia.org
+Oceania,New Zealand,Auckland,Northern Busway,2008,,Auckland Transport

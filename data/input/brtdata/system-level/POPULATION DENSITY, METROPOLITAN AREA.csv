@@ -1,0 +1,201 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,11009,2012,nigeria.prognoz.com
+Africa,South Africa,Cape Town,1530,2011,beta2.statssa.gov.za
+Africa,South Africa,Johannesburg,2696,2011,beta2.statssa.gov.za
+Asia,China,Beijing,1006.4,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Changde,558.2,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Changzhou,1237.8,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Chengdu,1200,2010,chengdu.isfoundhere.com
+Asia,China,Chongqing,601.3,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Dalian,1165.5,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Guangzhou,1764.2,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Hangzhou,1451.9,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Hefei,2401.8,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Jinan,742.3,2015,Jinan Public Transport Research Center
+Asia,China,Kunming,590.8,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Lanzhou,1264.6,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Lianyungang,805.4,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Urumqi,263,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Xiamen,1213.7,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Yancheng,895.8,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Yichang,330,2010,en.wikipedia.org
+Asia,China,Yinchuan,433.7,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Zaozhuang,735.6,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Zhengzhou,5813.9,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,India,Ahmedabad,4060,,
+Asia,India,Bhopal,3578,2011,en.wikipedia.org
+Asia,India,Indore,,,
+Asia,India,Jaipur,1830,2001,City Development Plan for Jaipur
+Asia,India,Pune,10407,2010,www.punecorporation.org
+Asia,India,Rajkot,,,
+Asia,India,Surat,1089.9,2011,www.census2011.co.in
+Asia,Indonesia,Jakarta,3830.4,2011,
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,10854,2012,Census of the Islamic Republic of Iran
+Asia,Israel,Haifa,984.5,2009,en.wikipedia.org
+Asia,Japan,Kesennuma - Tome,171,2010,www.stat.go.jp
+Asia,Japan,Nagoya,1398,2011,www.stat.go.jp
+Asia,Malaysia,Subang Jaya,6581,2010,en.wikipedia.org
+Asia,Pakistan,Islamabad - Rawalpindi,726.7,2015,www.pbs.gov.pk & rawalpindi.gov.pk
+Asia,Pakistan,Lahore,,,
+Asia,Republic of Korea,Seoul,2176,2012,www.index.go.kr
+Asia,Taiwan,Chiayi,4512,2013,www.citypopulation.de
+Asia,Taiwan,Taichung,1219.8,2013,www.citypopulation.de
+Asia,Taiwan,Taipei,2829,2012,eng.stat.gov.tw
+Asia,Thailand,Bangkok,1876,2010,"2010 Population and Housing Census, National Statistical Office, Ministry of Information and Communication Technology"
+Europe,Belgium,Liège,600.9,2006,en.wikipedia.org
+Europe,Czech Republic,Prague,222.3,2011,appsso.eurostat.ec.europa.eu
+Europe,Finland,Helsinki,1418,2014,en.wikipedia.org
+Europe,France,Belfort,254.7,2010,www.insee.fr
+Europe,France,Caen,221.1,2010,www.insee.fr
+Europe,France,Cannes,3309.8,2010,www.insee.fr
+Europe,France,Châlon-sur-Saône,127,2010,www.insee.fr
+Europe,France,Douai,799.7,2010,www.insee.fr
+Europe,France,Evry,2689.5,2010,fr.wikipedia.org
+Europe,France,La Rochelle,203.6,2010,www.insee.fr
+Europe,France,Lille,1951,2010,www.insee.fr
+Europe,France,Lorient,270.6,2010,www.insee.fr
+Europe,France,Lyon,359.8,2010,www.insee.fr
+Europe,France,Maubeuge,328.8,2010,www.insee.fr
+Europe,France,Metz,242.4,2010,www.insee.fr
+Europe,France,Nancy,183.8,2010,www.insee.fr
+Europe,France,Nantes,264.4,2010,www.insee.fr
+Europe,France,Nice,387.4,2010,www.insee.fr
+Europe,France,Nîmes,893,2012,www.insee.fr
+Europe,France,Paris,711.7,2010,www.insee.fr
+Europe,France,Rouen,275.8,2010,www.insee.fr
+Europe,France,Saint-Nazaire,202.6,2011,www.insee.fr
+Europe,France,Strasbourg,347.6,2011,www.insee.fr
+Europe,France,Toulouse,229,2010,www.insee.fr
+Europe,Germany,Essen,1166.3,2011,
+Europe,Germany,Hamburg,440.7,2011,
+Europe,Germany,Oberhausen,1646,2015,en.wikipedia.org
+Europe,Ireland,Dublin,258.8,2011,
+Europe,Italy,Brescia,263.5,2012,ISTAT
+Europe,Italy,Prato,685.1,2012,ISTAT
+Europe,Netherlands,Almere,686.1,2013,
+Europe,Netherlands,Amsterdam,686.1,2013,
+Europe,Netherlands,Eindhoven,514.3,2013,
+Europe,Netherlands,Enschede,,,
+Europe,Netherlands,Utrecht,,,
+Europe,Portugal,Lisbon,940.5,2011,appsso.eurostat.ec.europa.eu
+Europe,Spain,Barcelona,4400,2011,www.demographia.com
+Europe,Spain,Castellon,930.5,2011,INE
+Europe,Spain,Madrid,4700,2011,www.demographia.com
+Europe,Spain,Granada,596.9,2012,pt.wikipedia.org
+Europe,Sweden,Gothenburg,258,2013,appsso.eurostat.ec.europa.eu
+Europe,Sweden,Jonkoping,64,2013,appsso.eurostat.ec.europa.eu
+Europe,Sweden,Stockholm,328,2013,appsso.eurostat.ec.europa.eu
+Europe,Switzerland,Zurich,903.5,2012,BSF
+Europe,Turkey,Istanbul,2523,2014,www.istanbul.com
+Europe,United Kingdom,Bradford,1098,2012,www.ons.gov.uk
+Europe,United Kingdom,Cambridge,204,2012,www.ons.gov.uk
+Europe,United Kingdom,Crawley,2380,2012,www.ons.gov.uk
+Europe,United Kingdom,Edinburgh,485.7,2012,appsso.eurostat.ec.europa.eu
+Europe,United Kingdom,Fareham - Gosport,1945,2011,
+Europe,United Kingdom,Kent,1185,2012,www.ons.gov.uk
+Europe,United Kingdom,Leeds,1098,2012,www.ons.gov.uk
+Europe,United Kingdom,London,1094.5,2011,appsso.eurostat.ec.europa.eu
+Europe,United Kingdom,Luton,4697,2012,www.ons.gov.uk
+Europe,United Kingdom,Manchester,2105,2011,en.wikipedia.org
+Europe,United Kingdom,Runcorn,1589.3,2012,en.wikipedia.org
+Europe,United Kingdom,Swansea,1560,2012,
+Europe,United Kingdom,York,727,2012,www.ons.gov.uk
+Latin America,Argentina,Buenos Aires,50.7,2010,en.wikipedia.org
+Latin America,Argentina,Córdoba,20,2010,www2.cordoba.gov.ar
+Latin America,Argentina,Rosario,2116.1,2010,es.wikipedia.org
+Latin America,Brazil,Belém,661.8,2013,www.ibge.gov.br
+Latin America,Brazil,Belo Horizonte,524.7,2012,ftp.ibge.gov.br
+Latin America,Brazil,Blumenau,137.8,,Wikipedia
+Latin America,Brazil,Brasília,491.6,2012,servicodados.ibge.gov.br
+Latin America,Brazil,Campinas,801.1,2013,www.seade.gov.br
+Latin America,Brazil,Campo Grande,97.2,,Wikipedia
+Latin America,Brazil,Caxias do Sul,201.3,,
+Latin America,Brazil,Criciúma,176.8,,pt.wikipedia.org
+Latin America,Brazil,Curitiba,179.6,,www.ippuc.org.br
+Latin America,Brazil,São Paulo - Metropolitan area,2634.7,2014,pt.wikipedia.org
+Latin America,Brazil,Feira de Santana,408.5,,pt.wikipedia.org
+Latin America,Brazil,Fortaleza,625.3,,Wikipedia
+Latin America,Brazil,Goiânia,410,,www.observatoriodasmetropoles.ufrj.br
+Latin America,Brazil,Guarulhos,2532.9,2013,www.seade.gov.br
+Latin America,Brazil,Jaboatão dos Guararapes,1332.3,,Wikipedia
+Latin America,Brazil,João Pessoa,443.4,2014,pt.wikipedia.org
+Latin America,Brazil,Joinville,101.1,,Wikipedia
+Latin America,Brazil,Juiz de Fora,360.4,,Wikipedia
+Latin America,Brazil,Londrina,144.1,,Wikipedia
+Latin America,Brazil,Maceió,597.8,,Wikipedia
+Latin America,Brazil,Natal,480.5,,Wikipedia
+Latin America,Brazil,Niterói,2237,,Wikipedia
+Latin America,Brazil,Olinda,1332.3,,Wikipedia
+Latin America,Brazil,Porto Alegre,408,2013,IBGE
+Latin America,Brazil,Recife,1332.3,,Wikipedia
+Latin America,Brazil,Rio de Janeiro,2208.8,2014,www.cidades.ibge.gov.br & www.ceperj.rj.gov.br
+Latin America,Brazil,Salvador,832.6,2012,pt.wikipedia.org
+Latin America,Brazil,Santos,708.2,2013,www.seade.gov.br
+Latin America,Brazil,São Paulo,2532.9,2013,www.seade.gov.br
+Latin America,Brazil,Sorocaba,1335.5,2012,www.seade.gov.br
+Latin America,Brazil,Sumaré,801.1,2013,www.seade.gov.br
+Latin America,Brazil,Teresina,113,2014,pt.wikipedia.org
+Latin America,Brazil,Uberaba,70.5,"2013, Calculating using population city divided by area of territorial unit",cidades.ibge.gov.br
+Latin America,Brazil,Uberlândia,159.1,2014,www.cidades.ibge.gov.br
+Latin America,Chile,Santiago,448,2010,www.ine.cl
+Latin America,Colombia,Barranquilla,3650,2008,es.wikipedia.org
+Latin America,Colombia,Bogotá,3347.4,2014,omu.caf.com
+Latin America,Colombia,Bucaramanga,740,,es.wikipedia.org
+Latin America,Colombia,Cali,327,2014,planeacion.cali.gov.co
+Latin America,Colombia,Medellín,5840,,pt.wikipedia.org
+Latin America,Colombia,Pereira,828.1,2015,Calculated using population at metro area
+Latin America,Ecuador,Guayaquil,7227,,"Municipality of Guayaquil, www.guayaquil.gov.ec"
+Latin America,Ecuador,Quito,439.8,2001,Instituto Nacional de Estadística y Censos INEC
+Latin America,El Salvador,Gran San Salvador,3689.7,2015,en.wikipedia.org
+Latin America,Guatemala,Guatemala,1420,2011,www.ine.gob.gt
+Latin America,Mexico,Chihuahua,47.1,"2010, for Chihuahua, Aldama and Aquiles Serdán",www.inegi.org.mx
+Latin America,Mexico,Ecatepec,2450.7,2005,cuentame.inegi.gob.mx
+Latin America,Mexico,Guadalajara,1967.5,,www.inegi.gob.mx
+Latin America,Mexico,Guadalupe,553.1,2010,www.nl.gob.mx
+Latin America,Mexico,León de los Aldama,6382,2007,omu.caf.com
+Latin America,Mexico,Mexico City,5871,,cuentame.inegi.org.mx
+Latin America,Mexico,Juárez,67.9,2010,www.conapo.gob.mx
+Latin America,Mexico,Monterrey,553.1,2010,www.nl.gob.mx
+Latin America,Mexico,Nezahualcoyotl,2450.7,2005,cuentame.inegi.gob.mx
+Latin America,Mexico,Puebla,76.6,2010,www.conapo.gob.mx
+Latin America,Panama,Panama,498,,
+Latin America,Peru,Lima,3008.8,2007,Peru's socio-demographic profile. Cesus 2007
+Latin America,Trinidad and Tobago,Port of Spain - Arima,573.1,2010,en.wikipedia.org
+Latin America,Uruguay,Montevideo,203.5,2010,
+Latin America,Venezuela,Caracas,4009,2011,INE
+Latin America,Venezuela,Merida,169.5,2011,www.corpoandes.gov.ve
+Latin America,Venezuela,Barquisimeto,283.4,2011,www.censoinfo.ine.gob.ve
+Northern America,Canada,Brampton,945.4,2011,www12.statcan.gc.ca
+Northern America,Canada,Gatineau,196.6,2011,www12.statcan.gc.ca
+Northern America,Canada,Halifax,71,2011,www12.statcan.gc.ca
+Northern America,Canada,Ottawa,209.6,2011,www12.statcan.gc.ca
+Northern America,Canada,Vancouver,735.6,2006,www12.statcan.ca
+Northern America,Canada,Waterloo,576.7,2011,www12.statcan.gc.ca
+Northern America,Canada,Winnipeg,1430,2011,www12.statcan.gc.ca
+Northern America,Canada,York Regional Municipality,945.4,2011,www12.statcan.gc.ca
+Northern America,United States,Albuquerque,37,2015,local.niche.com
+Northern America,United States,Boston,504,2010,www.census.gov
+Northern America,United States,Chicago,433.1,2012,pt.wikipedia.org
+Northern America,United States,Cleveland,8920.2,2010,esa.un.org
+Northern America,United States,Eugene,28.8,2010,
+Northern America,United States,Everett,180.2,,
+Northern America,United States,Kansas City,99,2012,
+Northern America,United States,Las Vegas,1288.9,2013,Calculated using Population metro area and a Metro area of 1600 km²
+Northern America,United States,Los Angeles,1017,,factfinder2.census.gov
+Northern America,United States,Miami,912.5,2010,esa.un.org
+Northern America,United States,New York,720,2010,www.census.gov
+Northern America,United States,Oakland,2475.2,2010,esa.un.org
+Northern America,United States,Orlando,5364,2010,esa.un.org
+Northern America,United States,Phoenix,2604.2,2010,esa.un.org
+Northern America,United States,Pittsburgh,467.9,2010,esa.un.org
+Northern America,United States,San Bernardino,59.5,2010,www.usa.com
+Northern America,United States,San Diego,196.2,2012,en.wikipedia.org
+Northern America,United States,Snohomish County,,,
+Northern America,United States,Stockton,494,2014,www.bestplaces.net
+Oceania,Australia,Adelaide,670.7,2011,
+Oceania,Australia,Brisbane,347.2,2011,
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,377,2011,Calculated using Population metro area and a Metro area of 12138 km²
+Oceania,Australia,Sydney - Liverpool - Parramatta,377,2011,Calculated using Population metro area and a Metro area of 12138 km²
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,377,2011,Calculated using Population metro area and a Metro area of 12138 km²
+Oceania,New Zealand,Auckland,2700,2012,

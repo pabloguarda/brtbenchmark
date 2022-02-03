@@ -1,0 +1,33 @@
+
+<table style="text-align:center"><caption><strong>Regression coefficients</strong></caption>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="4"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="4" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td><em>OLS</em></td><td><em>ordered</em></td><td><em>ordered</em></td><td><em>logistic</em></td></tr>
+<tr><td style="text-align:left"></td><td><em></em></td><td><em>logistic</em></td><td><em>logistic</em></td><td><em></em></td></tr>
+<tr><td style="text-align:left"></td><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">highAffluence</td><td>-2.061 (-2.200)</td><td>-6.941<sup>**</sup> (-2.900)</td><td>-6.162<sup>***</sup> (-2.300)</td><td>-4.964<sup>***</sup> (-1.200)</td></tr>
+<tr><td style="text-align:left">largeStopSpacing</td><td>-1.682 (-2.200)</td><td>-4.274 (-2.800)</td><td>-4.094 (-2.600)</td><td>-4.568<sup>**</sup> (-2.300)</td></tr>
+<tr><td style="text-align:left">dedicatedRightOfWay</td><td>-0.105 (-0.300)</td><td>0.660 (1.600)</td><td>0.614 (1.500)</td><td>0.695 (1.200)</td></tr>
+<tr><td style="text-align:left">a2</td><td>-0.200 (-0.500)</td><td></td><td></td><td>1.570 (1.400)</td></tr>
+<tr><td style="text-align:left">a3</td><td>-0.116 (-0.600)</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">intersectionTreatments</td><td>0.834 (4.800)</td><td>2.672 (2.800)</td><td>2.378 (2.400)</td><td>2.507 (2.200)</td></tr>
+<tr><td style="text-align:left">a5 > 0</td><td>2.329 (1.900)</td><td></td><td></td><td>5.143<sup>***</sup> (1.300)</td></tr>
+<tr><td style="text-align:left">b2 > 0</td><td>-0.416 (-0.500)</td><td>-0.646 (-0.400)</td><td>-0.517 (-0.400)</td><td>2.639<sup>***</sup> (0.900)</td></tr>
+<tr><td style="text-align:left">allDoorBoarding</td><td>1.186 (3.400)</td><td>3.228 (2.300)</td><td>2.975 (2.200)</td><td>2.652 (1.700)</td></tr>
+<tr><td style="text-align:left">g5</td><td>-0.232 (-0.800)</td><td>-1.189 (-1.300)</td><td>-1.032 (-1.100)</td><td>-1.971 (-1.400)</td></tr>
+<tr><td style="text-align:left">1| 2</td><td></td><td>5.580<sup>***</sup> (1.100)</td><td>9.767<sup>***</sup> (2.000)</td><td></td></tr>
+<tr><td style="text-align:left">2| 3</td><td></td><td>10.975<sup>***</sup> (2.100)</td><td>11.323<sup>***</sup> (2.200)</td><td></td></tr>
+<tr><td style="text-align:left">3| 4</td><td></td><td>11.877<sup>***</sup> (2.300)</td><td></td><td></td></tr>
+<tr><td style="text-align:left">4| 5</td><td></td><td>12.417<sup>***</sup> (2.300)</td><td></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>-3.775<sup>***</sup> (-1.100)</td><td></td><td></td><td>-27.794<sup>***</sup> (-2.000)</td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">208.92</td><td></td><td>69.22</td><td>56.84</td><td>37.5</td></tr>
+<tr><td style="text-align:left">Log-likelihood</td><td>-92.46</td><td>-23.61</td><td>-19.42</td><td>-8.75</td></tr>
+<tr><td style="text-align:left">Observations</td><td>47</td><td>47</td><td>47</td><td>47</td></tr>
+<tr><td style="text-align:left">R<sup>2</sup></td><td>0.578</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Adjusted R<sup>2</sup></td><td>0.461</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">Log Likelihood</td><td></td><td></td><td></td><td>-8.750</td></tr>
+<tr><td style="text-align:left">Akaike Inf. Crit.</td><td></td><td></td><td></td><td>37.500</td></tr>
+<tr><td style="text-align:left">Residual Std. Error</td><td>1.977 (df = 36)</td><td></td><td></td><td></td></tr>
+<tr><td style="text-align:left">F Statistic</td><td>4.927<sup>***</sup> (df = 10; 36)</td><td></td><td></td><td></td></tr>
+<tr><td colspan="5" style="border-bottom: 1px solid black"></td></tr><tr><td colspan="5" style="text-align:left"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

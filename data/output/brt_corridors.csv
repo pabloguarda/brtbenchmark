@@ -1,0 +1,410 @@
+"REGION","COUNTRY","CITY","CORRIDOR","CORRIDOR_LENGTH_KM","DAILY_DEMAND_CORRIDOR_PASSENGERS_PER_DAY","GRADE_SEPARATED_INTERSECTIONS_CORRIDOR","LENGTH_OF_EXCLUSIVE_LANES_CORRIDOR_KM","LENGTH_OF_SEGREGATED_COUNTERFLOW_LANES_CORRIDOR_KM","LENGTH_OF_SEGREGATED_LANES_CORRIDOR_KM","OPERATING_SPEED_CORRIDOR","PEAK_FREQUENCY_CORRIDOR_BUSES_PER_HOUR_PER_DIRECTION","PEAK_LOAD_CORRIDOR_PASSENGERS_PER_HOUR_PER_DIRECTION","PHYSICALLY_INTEGRATED_FEEDERS","PRE_BOARD_FARE_COLLECTION_CORRIDOR","STATION_SPACING_CORRIDOR_M","TOTAL_COST_PER_KILOMETER_CORRIDOR_US_MILLION_PER_KM","YEAR_CORRIDOR_COMMENCED"
+"Africa","Nigeria","Lagos","Lagos BRT",22,200000,"",NA,NA,14.3,"30",NA,NA,"","","800",1.7,2008
+"Africa","South Africa","Cape Town","1A",17,20000,"",NA,NA,NA,"",6,NA,"","All","485.7",NA,2011
+"Africa","South Africa","Johannesburg","1A",25.5,42000,"None",0,0,25.5,"30",64,5760,"Yes","All","772",NA,2009
+"Africa","South Africa","Johannesburg","1B",18,NA,"None",0,0,18,"",20,NA,"Yes","All","1384",NA,2013
+"Asia","China","Beijing","BRT 1",11.5,150000,"None",0,0,14,"26",60,8000,"No","All","950",6.84,2004
+"Asia","China","Beijing","BRT 2",15,NA,"None",0,0,9.5,"",NA,NA,"No","All","750",NA,2008
+"Asia","China","Beijing","BRT 3",23,NA,"None",0,0,11,"",NA,NA,"No","All","1000",NA,2008
+"Asia","China","Beijing","BRT 4",25,NA,"None",0,0,24.5,"",NA,NA,"No","All","1300",NA,2012
+"Asia","China","Changde","Line 1",18.9,NA,"",0,0,18.9,"31",27,800,"","Partial","780",NA,2012
+"Asia","China","Changzhou","Line 1",29.6,NA,"",0,0,26.7,"",NA,NA,"","All","925",NA,2008
+"Asia","China","Changzhou","Line 2",20.3,NA,"",0,0,19.3,"",NA,NA,"","All","810",NA,2009
+"Asia","China","Chengdu","2nd Ring Elevated Road",28.8,NA,"None",28.8,0,0,"26",40,6650,"","All","1028.6",18.97,2013
+"Asia","China","Chongqing","Chongqing BRT",11.5,12000,"",NA,NA,NA,"31",6,NA,"","","",NA,2008
+"Asia","China","Dalian","Dalian BRT",13.7,87000,"",0,0,9,"24",75,6430,"","All","1250",2.6,2008
+"Asia","China","Guangzhou","Zhongshan Avenue",22.5,850000,"None",0,0,22.5,"23",350,29000,"No","All","860",NA,2010
+"Asia","China","Hangzhou","Line 1",27.1,NA,"",0,0,7,"",NA,NA,"","","1500",NA,2006
+"Asia","China","Hangzhou","Line 2",19,NA,"",0,0,11.8,"",NA,NA,"","","780",NA,2008
+"Asia","China","Hangzhou","Line 3",9.3,NA,"",NA,NA,NA,"",NA,NA,"","","1030",NA,2010
+"Asia","China","Hefei","Changjiang Lu",7.2,65250,"",NA,NA,NA,"16",55,3600,"","All","800",NA,2010
+"Asia","China","Jinan","BRT-1",11.5,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2008
+"Asia","China","Jinan","BRT-2",11,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2008
+"Asia","China","Jinan","BRT-3",11.2,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2009
+"Asia","China","Jinan","BRT-4",9.5,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2009
+"Asia","China","Jinan","BRT-5",19,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2009
+"Asia","China","Jinan","BRT-6",13.8,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2009
+"Asia","China","Jinan","BRT-7",7.8,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2014
+"Asia","China","Kunming","",46.7,156000,"",NA,NA,NA,"",NA,6300,"","","",NA,1999
+"Asia","China","Lanzhou","Line 1",9.1,290000,"",0,0,8.6,"22",87,6550,"","All","650",NA,2013
+"Asia","China","Lianyungang","Line 1",34,20000,"",0,0,34,"18",25,1650,"","All","1170",NA,2012
+"Asia","China","Urumqi","Line 1",NA,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2011
+"Asia","China","Urumqi","Line 2",NA,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2012
+"Asia","China","Urumqi","Line 3",NA,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2013
+"Asia","China","Urumqi","Line 4",NA,NA,"",NA,NA,NA,"",NA,NA,"","All","",NA,2014
+"Asia","China","Xiamen","Line 1",28.2,NA,"",NA,NA,NA,"",NA,NA,"","All","1340",NA,2008
+"Asia","China","Xiamen","Line 2",10,NA,"",NA,NA,NA,"",NA,NA,"","All","2500",NA,2010
+"Asia","China","Xiamen","Line 3",10.7,NA,"",NA,NA,NA,"",NA,NA,"","All","710",NA,NA
+"Asia","China","Yancheng","Line 1",16,33000,"None",0,0,16,"18",30,1300,"","All","650",NA,2010
+"Asia","China","Yichang","Phase 1",13,240000,"All",0,0,13,"20",94,5400,"","All","590.9",NA,2015
+"Asia","China","Yinchuan","Line 1",17,87000,"",0,0,17,"15",63,3600,"","All","770",NA,2012
+"Asia","China","Zaozhuang","Line 1",33,30000,"",0,0,33,"30",27,700,"","Partial","1375",NA,2010
+"Asia","China","Zhengzhou","Line 1",30.5,650000,"",0,0,26.6,"15",52,5600,"","All","800",NA,2009
+"Asia","India","Ahmedabad","",82,130000,"",NA,NA,NA,"24",20,1780,"","All","",4.8,2009
+"Asia","India","Bhopal","",24,70000,"",0,0,24,"",6,NA,"","","585.4",NA,2013
+"Asia","India","Indore","",11.45,45500,"",0,0,11.45,"",NA,NA,"","All","550",NA,2013
+"Asia","India","Jaipur","",7.1,6622,"None",0,0,7.1,"18",23,1046,"No","None","710",NA,2010
+"Asia","India","Pune","",17,96750,"None",0,0,17,"23",120,5720,"No","None","586",NA,2006
+"Asia","India","Rajkot","",10.7,7500,"",0,0,10.7,"",NA,NA,"","","600",NA,2012
+"Asia","India","Surat","Udhna Darwaza to Sachin GIDC",10,13500,"None",0,0,10,"",6,NA,"","All","526.3",NA,2014
+"Asia","Indonesia","Jakarta","Koridor 1",12.9,NA,"None",NA,NA,NA,"19",40,NA,"","All","645",1,2004
+"Asia","Indonesia","Jakarta","Koridor 10",19.4,NA,"None",NA,NA,NA,"19",40,NA,"","All","881",NA,2011
+"Asia","Indonesia","Jakarta","Koridor 11",11.4,NA,"None",NA,NA,NA,"19",40,NA,"","All","712",NA,2012
+"Asia","Indonesia","Jakarta","Koridor 12",23.8,NA,"None",NA,NA,NA,"19",40,NA,"","All","991",NA,2013
+"Asia","Indonesia","Jakarta","Koridor 2",14,NA,"None",NA,NA,NA,"19",40,NA,"","All","583",NA,2006
+"Asia","Indonesia","Jakarta","Koridor 3",19,NA,"None",NA,NA,NA,"19",40,NA,"","All","1187",NA,2006
+"Asia","Indonesia","Jakarta","Koridor 4",11.85,NA,"None",NA,NA,NA,"19",40,NA,"","All","697",NA,2007
+"Asia","Indonesia","Jakarta","Koridor 5",13.5,NA,"None",NA,NA,NA,"19",40,NA,"","All","750",NA,2007
+"Asia","Indonesia","Jakarta","Koridor 6",13.3,NA,"None",NA,NA,NA,"19",40,NA,"","All","665",NA,2007
+"Asia","Indonesia","Jakarta","Koridor 7",12.8,NA,"None",NA,NA,NA,"19",40,NA,"","All","914",NA,2007
+"Asia","Indonesia","Jakarta","Koridor 8",26,NA,"None",NA,NA,NA,"19",40,NA,"","All","1181",NA,2009
+"Asia","Indonesia","Jakarta","Koridor 9",28.8,NA,"None",NA,NA,NA,"19",40,NA,"","All","1066",NA,2011
+"Asia","Iran","Tabriz","",18,NA,"",NA,NA,NA,"",NA,NA,"","","",NA,2009
+"Asia","Iran","Tehran","Line 1",8.4,NA,"",0,0,18.7,"",90,NA,"N/A","All","779",NA,2008
+"Asia","Iran","Tehran","Line 10",10,NA,"",0,0,10,"",NA,NA,"N/A","All","588",NA,2011
+"Asia","Iran","Tehran","Line 2",18.7,NA,"",0,0,18.7,"",NA,NA,"N/A","All","693",NA,2009
+"Asia","Iran","Tehran","Line 3",14.3,NA,"",0,0,14.3,"",NA,NA,"N/A","All","841",NA,2009
+"Asia","Iran","Tehran","Line 4",21.5,NA,"",0,0,21.5,"",NA,NA,"N/A","All","1075",NA,2011
+"Asia","Iran","Tehran","Line 5",22,NA,"",0,0,22,"",NA,NA,"N/A","All","1375",NA,2013
+"Asia","Iran","Tehran","Line 7",18.5,NA,"",0,0,18.5,"",NA,NA,"N/A","All","686",NA,2011
+"Asia","Iran","Tehran","Line 8",6.2,40000,"",0,0,6.2,"",NA,NA,"N/A","All","885",NA,2013
+"Asia","Israel","Haifa","The Blue Line",18,NA,"",0,0,18,"24",10,NA,"","All","666.7",NA,2013
+"Asia","Israel","Haifa","The Green Line",16,NA,"",0,0,16,"21.3",10,NA,"","All","571.4",NA,2013
+"Asia","Israel","Haifa","The Red Line",25,NA,"",0,0,25,"27.3",15,NA,"","All","595.2",NA,2013
+"Asia","Japan","Kesennuma - Tome","Kesennuma Line",21.7,NA,"",21.7,0,0,"",5,NA,"","","1276",NA,2012
+"Asia","Japan","Nagoya","Yutorito Line",6.8,9000,"All",NA,NA,NA,"30",17,750,"","","",46.5,2001
+"Asia","Malaysia","Subang Jaya","BRT Sunway Line",5.4,NA,"All",5.4,0,0,"",15,NA,"Yes","All","771",31.35,2015
+"Asia","Pakistan","Islamabad - Rawalpindi","Rawalpindi - Islmabad",22.5,125000,"All",22.5,0,0,"",21,2100,"No","All","937.5",NA,2015
+"Asia","Pakistan","Lahore","",27,180000,"Partial",8.3,0,18.7,"26",30,10000,"","All","1000",11,2013
+"Asia","Republic of Korea","Seoul","",43,400000,"",NA,NA,NA,"17",NA,8400,"","None","",NA,2004
+"Asia","Taiwan","Chiayi","Chiayi BRT",29.65,2000,"None",0,0,NA,"",NA,NA,"","None","1647",NA,2008
+"Asia","Taiwan","Taichung","Blue Line",17.2,50000,"None",NA,NA,NA,"",NA,NA,"","All","820",NA,2014
+"Asia","Taiwan","Taipei","",60,1200000,"",NA,NA,NA,"19.5",NA,9500,"","","380",0.35,1998
+"Asia","Thailand","Bangkok","Bangkok BRT",15.3,15000,"",NA,NA,NA,"26",14,1200,"","","",NA,2010
+"Europe","Belgium","Liège","Cadran - Fontainebleau",1.2,NA,"Partial",0,0,1.2,"",NA,NA,"","None","600",NA,NA
+"Europe","Belgium","Liège","d’Avroy - Sauvenière",2.2,NA,"None",0,0,2.2,"",NA,NA,"","None","314.3",NA,NA
+"Europe","Belgium","Liège","Quai Saint-Léonard",2.6,NA,"None",0,0,2.6,"",NA,NA,"","None","371.4",NA,NA
+"Europe","Czech Republic","Prague","Line 213",10.25,18000,"All",NA,NA,NA,"21.8",10,NA,"N/A","","600",NA,1994
+"Europe","Finland","Helsinki","Runkolinja 550",27.5,30000,"",NA,NA,7.5,"26",20,NA,"","None","750",NA,2003
+"Europe","France","Belfort","Optymo BHNS",15.7,32000,"None",0,0,4.5,"21",12,NA,"","None","300",NA,2013
+"Europe","France","Caen","Twisto TVR",15.7,48000,"",NA,NA,NA,"20",10,NA,"","","",31.72,2002
+"Europe","France","Cannes","Ligne 1",34,NA,"None",0,0,NA,"",12,NA,"","None","440",11.78,2013
+"Europe","France","Châlon-sur-Saône","Flash",6.4,5300,"None",0,0,4.5,"19",6,NA,"","None","426",2.34,2012
+"Europe","France","Douai","",34,1800,"",NA,NA,NA,"24.7",NA,NA,"","","",4.647,2006
+"Europe","France","Evry","Tice",18,NA,"None",0,0,18,"21",NA,NA,"","None","580.6",NA,1975
+"Europe","France","La Rochelle","",6,5600,"",NA,NA,NA,"",NA,NA,"","","",NA,2009
+"Europe","France","Lille","",5.5,NA,"",NA,NA,NA,"",NA,NA,"","","",NA,2008
+"Europe","France","Lorient","The Triskell",4.6,45000,"All",NA,NA,NA,"21.5",9,NA,"","","275",NA,2007
+"Europe","France","Lyon","C-Lines",4,4700,"",NA,NA,NA,"17",NA,NA,"","","",NA,2006
+"Europe","France","Maubeuge","BHLS - Viavil",8.4,5000,"",NA,NA,NA,"",NA,NA,"","","",NA,2008
+"Europe","France","Metz","Ligne A",12,NA,"None",0,0,11.25,"20",12,NA,"N/A","All","480",NA,2013
+"Europe","France","Metz","Ligne B",11,NA,"None",0,0,9.9,"20",12,NA,"N/A","All","523",NA,2013
+"Europe","France","Nancy","TVR (GLT)",12,37000,"",NA,NA,NA,"14.5",13,NA,"","","",16.917,2001
+"Europe","France","Nantes","BusWay",6.9,25000,"None",0,0,6,"21",17,2000,"N/A","None","460",19.714,2006
+"Europe","France","Nice","",NA,58000,"",NA,NA,NA,"",NA,NA,"","","",NA,2010
+"Europe","France","Nîmes","Tango+ T1",4.5,7719,"Partial",0,0,4.5,"22.5",12,NA,"","Partial","460",NA,2012
+"Europe","France","Paris","Ligne 393, RATP",6.5,17500,"None",0,0,6.5,"24",12,NA,"N/A","None","650",NA,2011
+"Europe","France","Paris","T Zen 1",14.7,6000,"None",0,0,9.6,"",NA,NA,"N/A","None","1000",NA,2011
+"Europe","France","Paris","TVM",20,66000,"Partial",0,0,19,"23",17,3000,"N/A","None","625",NA,1993
+"Europe","France","Rouen","T1",11.1,NA,"None",NA,NA,NA,"",30,NA,"N/A","None","652.9",NA,2002
+"Europe","France","Rouen","T2",14.8,NA,"None",NA,NA,NA,"",30,NA,"N/A","None","493.3",NA,2001
+"Europe","France","Rouen","T3",17.7,NA,"None",NA,NA,NA,"",30,NA,"N/A","None","590",NA,2001
+"Europe","France","Saint-Nazaire","Hélyce",9,10000,"None",NA,NA,6,"18.4",9,NA,"N/A","All","474",8.1,2012
+"Europe","France","Strasbourg","Ligne G",5.2,9000,"None",NA,NA,NA,"18",NA,NA,"N/A","All","472",7.61,2013
+"Europe","France","Toulouse","",11,13300,"",NA,NA,NA,"25",8,NA,"","","",6.273,2008
+"Europe","Germany","Essen","The Spurbus",24.2,17000,"Partial",4,0,0,"16.5",6,NA,"N/A","None","",NA,1980
+"Europe","Germany","Hamburg","Line 5",15.1,60000,"None",0,0,4.08,"18.8",12,NA,"N/A","None","503.3",NA,2005
+"Europe","Germany","Oberhausen","ÖPNV-Trasse",6.8,25000,"",6.8,0,0,"34",40,NA,"","","1133.3",NA,1996
+"Europe","Ireland","Dublin","",8.4,34000,"",NA,NA,NA,"",NA,6400,"","","",NA,1997
+"Europe","Italy","Brescia","LAM1",NA,NA,"",NA,NA,2.1,"15",12,NA,"","","270",NA,NA
+"Europe","Italy","Brescia","LAM2",NA,12000,"",NA,NA,2.1,"16",9,NA,"","","188",NA,NA
+"Europe","Italy","Prato","Arancio",8.97,NA,"None",1.15,1.36,0,"20.7",4,NA,"","None","332.2",NA,2014
+"Europe","Italy","Prato","Blu",9.61,NA,"None",0,4.16,0,"18.9",9,NA,"","None","266.9",NA,2003
+"Europe","Italy","Prato","Rossa",5.52,NA,"None",0,2.88,0,"18",6,NA,"","None","501.8",NA,2003
+"Europe","Netherlands","Almere","Line 1",58,16000,"All",NA,NA,NA,"24.5",9,NA,"Yes","","600",NA,2004
+"Europe","Netherlands","Amsterdam","Zuidtangent",56.7,40000,"Partial",0,0,37,"35",10,960,"N/A","None","1718.2",NA,2002
+"Europe","Netherlands","Eindhoven","Phileas",15,12000,"",NA,NA,NA,"21",NA,NA,"","","",NA,2003
+"Europe","Netherlands","Enschede","Line 2",11,1318,"None",NA,NA,NA,"20.5",NA,NA,"","None","600",NA,2000
+"Europe","Netherlands","Enschede","Line3",12,1250,"None",12,NA,NA,"27",NA,NA,"","None","600",NA,2006
+"Europe","Netherlands","Utrecht","",8.2,40000,"",NA,NA,NA,"",8,NA,"","","",NA,2001
+"Europe","Portugal","Lisbon","24 de Julho Corridor (mixed traffic with 10 tramways)",4.8,27000,"",NA,NA,NA,"16",30,12000,"","","400",NA,1990
+"Europe","Spain","Barcelona","Línia 64: Barceloneta - Pedralbes",21.8,15300,"None",0,0,17.44,"10",8,1220,"Yes","None","589",NA,2007
+"Europe","Spain","Castellon","Line 1",2,3200,"All",NA,NA,NA,"18",12,NA,"","","509",NA,2009
+"Europe","Spain","Granada","LAC",4.2,27667,"None",0,0,4.2,"",3,NA,"Yes","All","381.8",NA,2014
+"Europe","Spain","Madrid","Bus VAO",16.1,112000,"Partial",NA,NA,3.9,"28.5",185,7500,"","None","860",NA,1995
+"Europe","Sweden","Gothenburg","Stombuss",16.5,25000,"None",0,0,7.5,"21",20,NA,"Yes","None","687",1.67,2003
+"Europe","Sweden","Jonkoping","Line1",13.4,NA,"",NA,NA,NA,"21",NA,NA,"","","440",NA,1996
+"Europe","Sweden","Jonkoping","Line2",11.5,NA,"",NA,NA,NA,"23",NA,NA,"","","440",NA,1996
+"Europe","Sweden","Jonkoping","Line3",14.3,NA,"",NA,NA,NA,"21",NA,NA,"","","440",NA,2001
+"Europe","Sweden","Stockholm","",40,57000,"",NA,NA,NA,"16.5",15,NA,"","","",NA,1998
+"Europe","Switzerland","Zurich","Line 31",11,14000,"None",0,0,2.8,"19",8,1300,"Yes","None","407",NA,2007
+"Europe","Turkey","Istanbul","TUYAP - Sogutlucesme Metrobus Corridor",52,750000,"None",0,50,0,"35",156,30000,"No","All","1181.8",9.084,2007
+"Europe","United Kingdom","Bradford","Manchester Road",2.74,5467,"None",2.35,0,0,"",22,NA,"","None","1370",19.3,2002
+"Europe","United Kingdom","Cambridge","The Busway",40,12000,"Partial",25,0,0,"60",12,NA,"N/A","None","3125",NA,2011
+"Europe","United Kingdom","Crawley","",24,6000,"",NA,NA,NA,"20",6,NA,"","","",2,2003
+"Europe","United Kingdom","Edinburgh","",5,44000,"",NA,NA,NA,"",15,NA,"","","",16.1,2004
+"Europe","United Kingdom","Fareham - Gosport","Eclipse",3.4,NA,"Partial",0,0,3.4,"",12,NA,"N/A","None","486",NA,2012
+"Europe","United Kingdom","Kent","Fastrack",15,5726,"",NA,NA,NA,"",NA,NA,"","","",24.22,2006
+"Europe","United Kingdom","Leeds","",4.2,31000,"",NA,NA,NA,"",NA,NA,"","","",NA,1995
+"Europe","United Kingdom","London","",20,9000,"",NA,NA,NA,"",NA,NA,"","","",NA,2010
+"Europe","United Kingdom","Luton","",5,30000,"",NA,NA,NA,"",NA,NA,"","","",NA,2006
+"Europe","United Kingdom","Manchester","A6 Corridor",15.5,21000,"",NA,NA,5.27,"16",10,NA,"","None","310",NA,1996
+"Europe","United Kingdom","Runcorn","",19.3,NA,"",NA,NA,NA,"31",6,NA,"","None","",NA,1971
+"Europe","United Kingdom","Swansea","",13.5,5000,"",NA,NA,NA,"",NA,NA,"","","",NA,2009
+"Europe","United Kingdom","York","FTR",5,5500,"",NA,NA,NA,"",NA,NA,"","","",NA,2006
+"Latin America","Argentina","Buenos Aires","9 de Julio",3,250000,"None",0,3,0,"",NA,NA,"No","Partial","600",NA,2013
+"Latin America","Argentina","Buenos Aires","Juan B. Justo",12.5,100000,"None",0,0,12.5,"24",30,3500,"No","Partial","590",NA,2011
+"Latin America","Argentina","Buenos Aires","Sur - Ramal Coronel Roca",9.3,250000,"None",0,0,9.3,"",NA,NA,"No","Partial","664.3",NA,2013
+"Latin America","Argentina","Buenos Aires","Sur - Ramal Fernandéz de la Cruz",13.7,250000,"None",0,0,13.7,"",NA,NA,"No","Partial","761.1",NA,2013
+"Latin America","Argentina","Córdoba","Sabattini",5.3,58000,"None",0,0,5.3,"",NA,NA,"","None","588.9",NA,2014
+"Latin America","Argentina","Rosario","Córdoba",1.7,NA,"None",0,0,1.7,"15",NA,NA,"No","None","283.3",NA,2012
+"Latin America","Argentina","Rosario","San Lorenzo - Laprida",3.2,NA,"None",0,0,3.2,"15",NA,NA,"No","None","400",NA,2012
+"Latin America","Argentina","Rosario","Santa Fé - Maipú",4.7,NA,"None",0,0,4.7,"15",NA,NA,"No","None","293.8",NA,2012
+"Latin America","Brazil","Belém","Almirante Barroso",6,120000,"None",NA,0,6,"27.7",NA,NA,"","","",NA,2014
+"Latin America","Brazil","Belo Horizonte","Amazonas",7.9,380000,"None",0,0,7.9,"18",405,35000,"No","None","343.5",NA,1982
+"Latin America","Brazil","Belo Horizonte","Boulevard Arrudas",1.4,NA,"None",0,0,1.4,"",NA,NA,"No","None","175",NA,2007
+"Latin America","Brazil","Belo Horizonte","MOVE - Antônio Carlos",14.7,500000,"None",0,0,13.6,"16",500,NA,"Yes","All","565.4",NA,2007
+"Latin America","Brazil","Belo Horizonte","MOVE - Área Central",1.3,500000,"None",0,0,1.3,"19",19,NA,"Yes","All","260",NA,2014
+"Latin America","Brazil","Belo Horizonte","MOVE - Cristiano Machado",7.1,500000,"None",0,0,6.45,"19",9,3500,"Yes","All","788.9",NA,1975
+"Latin America","Brazil","Belo Horizonte","Nossa Senhora do Carmo",0.9,125000,"None",0,0,0.9,"16",127,5500,"No","None","225",NA,2009
+"Latin America","Brazil","Belo Horizonte","Pedro II",6,NA,"None",0,0,6,"",NA,NA,"No","None","750",NA,2014
+"Latin America","Brazil","Blumenau"," Av. Presidente Castelo Branco (Beira-Rio)",1.3,45000,"None",0,0,1.3,"16",NA,NA,"No","All","750",NA,2011
+"Latin America","Brazil","Blumenau","Av. Martin Luther",0.9,12000,"None",0,0,0.9,"25",NA,NA,"No","None","300",NA,2011
+"Latin America","Brazil","Blumenau","Rua 2 de Setembro",1.9,NA,"None",0,1.9,0,"24",NA,NA,"No","None","633",NA,2012
+"Latin America","Brazil","Blumenau","Rua 7 de Setembro",1.8,25000,"None",0,0,1.8,"18",NA,NA,"No","All","900",NA,2011
+"Latin America","Brazil","Blumenau","Rua das Palmeiras",0.9,NA,"None",0,0.9,0,"15",NA,NA,"No","None","300",NA,2012
+"Latin America","Brazil","Blumenau","Rua Eng Paul Werner",1.1,NA,"None",0,0,1.1,"24",NA,NA,"No","None","550",NA,2011
+"Latin America","Brazil","Blumenau","Rua São Paulo - Antônio da Veiga (Castelo Branco)",1.3,NA,"None",0,0,1.3,"18",NA,NA,"No","None","433",NA,2012
+"Latin America","Brazil","Blumenau","Rua São Paulo - Iguaçu (Henrique Classen)",1.3,NA,"None",0,0,1.3,"25",NA,NA,"No","None","333",NA,2012
+"Latin America","Brazil","Brasília","Estrada Parque Núcleo Bandeirante",24,20000,"All",0,0,24,"",NA,NA,"No","None","450",NA,2011
+"Latin America","Brazil","Brasília","Estrada Parque Taguatinga-Guará",13,11000,"All",0,0,13,"",NA,NA,"No","None","675",NA,2012
+"Latin America","Brazil","Brasília","Expresso DF Sul",36.2,270000,"Partial",27.4,0,0,"57.2",NA,NA,"Yes","All","4525",NA,2014
+"Latin America","Brazil","Brasília","Setor Policial",3.5,NA,"None",0,0,3.5,"",NA,NA,"No","None","430",NA,2012
+"Latin America","Brazil","Brasília","W3 Norte",7.2,NA,"None",0,0,7.2,"",200,NA,"No","None","350",NA,2012
+"Latin America","Brazil","Brasília","W3 Sul",7.2,NA,"None",0,0,7.2,"",NA,NA,"No","None","350",NA,2012
+"Latin America","Brazil","Campinas","Av. Amoreiras",4.1,NA,"All",0,0,4.1,"",NA,NA,"No","None","683.3",NA,1986
+"Latin America","Brazil","Campinas","Av. João Jorge",0.65,40000,"All",0,0,0.65,"",122,NA,"No","None","650",NA,1986
+"Latin America","Brazil","Campinas","Corredor Central",8.6,160000,"None",0,0,8.6,"",NA,NA,"No","None","338.5",NA,2010
+"Latin America","Brazil","Campo Grande","Av. Calógeras",1.2,NA,"None",0,0,1.2,"17.5",NA,NA,"No","Partial","",NA,1987
+"Latin America","Brazil","Campo Grande","Duque de Caxias",4.4,73000,"None",0,0,4.4,"18.7",NA,NA,"No","Partial","",NA,2011
+"Latin America","Brazil","Campo Grande","Rua 26 de Agosto",0.72,NA,"None",0,0,0.72,"17.5",NA,NA,"No","Partial","",NA,1989
+"Latin America","Brazil","Campo Grande","Rui Barbosa",1,NA,"None",0,0,1,"17.5",NA,NA,"No","Partial","",NA,1988
+"Latin America","Brazil","Caxias do Sul","18 do Forte",1,NA,"None",0,0,1,"",NA,NA,"No","None","333.3",NA,NA
+"Latin America","Brazil","Caxias do Sul","Bento",0.7,NA,"None",0,0,0.7,"",NA,NA,"No","None","175",NA,NA
+"Latin America","Brazil","Caxias do Sul","Marechal Floriano",0.7,NA,"None",0,0,0.7,"",NA,NA,"No","None","233.3",NA,NA
+"Latin America","Brazil","Caxias do Sul","Moreira Cesar - Centro Bairro",0.7,NA,"None",0,0,0.7,"",NA,NA,"No","None","175",NA,NA
+"Latin America","Brazil","Caxias do Sul","Pinheiro Machado",1.9,NA,"None",0,0,1.9,"",NA,NA,"No","None","271.4",NA,NA
+"Latin America","Brazil","Caxias do Sul","Pio 12 - Moreira",1.9,NA,"None",0,0,1.9,"",NA,NA,"No","None","316.7",NA,NA
+"Latin America","Brazil","Caxias do Sul","Sinimbu",2.7,NA,"None",0,0,2.7,"",NA,NA,"No","None","300",NA,NA
+"Latin America","Brazil","Criciúma","Av. Centenário",8,10470,"None",0,0,8,"40",21,NA,"No","None","500",NA,1996
+"Latin America","Brazil","Curitiba","Boqueirão",18,89000,"None",0,0,18,"18.3",37,7471,"Yes","All","666.7",NA,1977
+"Latin America","Brazil","Curitiba","Leste",13.2,92500,"None",0,0,13.2,"18.3",45,10000,"Yes","All","694.7",NA,1980
+"Latin America","Brazil","Curitiba","Linha Verde",13.6,31000,"None",0,0,13.6,"25",16,3000,"Yes","All","1700",NA,2009
+"Latin America","Brazil","Curitiba","Norte",8.8,84000,"None",0,0,8.8,"18.3",24,5500,"Yes","All","628.6",NA,1974
+"Latin America","Brazil","Curitiba","Oeste",9.2,49000,"None",0,0,9.2,"18.3",10,3500,"Yes","All","511.1",NA,1980
+"Latin America","Brazil","Curitiba","Rua XV de Novembro",2.5,53000,"None",0,0,2.5,"",NA,NA,"","None","250",NA,2014
+"Latin America","Brazil","Curitiba","Sul",18.6,162500,"None",0,0,18.6,"18.3",67,12500,"Yes","All","688.9",NA,1974
+"Latin America","Brazil","Feira de Santana","Av. Senhor dos Passos",1.2,NA,"None",0,0,1.2,"",NA,NA,"No","None","300",NA,2005
+"Latin America","Brazil","Fortaleza","Av. Bezerra de Menezes",5.8,186777,"None",0,0,5.8,"23",256,NA,"No","None","276.2",NA,2012
+"Latin America","Brazil","Fortaleza","Av. João Pessoa",2.7,100000,"None",0,2.7,0,"",NA,10000,"No","None","337.5",NA,1980
+"Latin America","Brazil","Goiânia","80-90 Goiás",10.5,88300,"None",0,0,10.5,"18.5",110,8000,"Yes","None","450",NA,1980
+"Latin America","Brazil","Goiânia","Leste Oeste (Eixo Anhanguera)",13.5,240000,"None",0,0,13.5,"17",60,20000,"Yes","All","710.5",NA,1976
+"Latin America","Brazil","Goiânia","Universitário",2.5,50000,"None",0,0,2.5,"21.6",59,NA,"No","None","357.1",NA,2013
+"Latin America","Brazil","Guarulhos","Guarulhos",3.7,30000,"",0,0,3.7,"",NA,NA,"","","925",10.73,2013
+"Latin America","Brazil","Jaboatão dos Guararapes","Av. Ayrton Senna",1.5,NA,"None",0,0,1.5,"",NA,NA,"No","None","500",NA,2012
+"Latin America","Brazil","João Pessoa","Av. Epitácio Pessoa - Av. Miguel Couto - Av. Sanhauá - Rua Guedes Pereira",7.3,276243,"None",0,0,7.3,"18",200,37070,"No","None","560",NA,2010
+"Latin America","Brazil","Joinville","Avenida JK",0.7,NA,"None",0,0,0.7,"18.5",NA,NA,"No","None","400",NA,1999
+"Latin America","Brazil","Joinville","Blumenau",2.7,NA,"None",0,0,2.7,"18.5",12,NA,"No","None","400",NA,2008
+"Latin America","Brazil","Joinville","João Colim",3,NA,"None",0,0,3,"18.5",12,NA,"No","None","400",NA,2008
+"Latin America","Brazil","Joinville","Santa Catarina",1.3,NA,"None",0,0,1.3,"18.5",20,NA,"No","None","400",NA,2008
+"Latin America","Brazil","Joinville","São Paulo",1.5,NA,"None",0,0,1.5,"18.5",20,NA,"No","None","400",NA,2008
+"Latin America","Brazil","Juiz de Fora","Av. Barão do Rio Branco",3.1,NA,"None",0,0,3.1,"",116,NA,"No","None","387.5",NA,1982
+"Latin America","Brazil","Londrina","Rua Duque de Caxias",1.2,NA,"None",0,0,1.2,"",NA,NA,"No","None","300",NA,2010
+"Latin America","Brazil","Londrina","Rua João Cândido",1.3,NA,"None",0,0,1.3,"",NA,NA,"No","None","430",NA,2010
+"Latin America","Brazil","Londrina","Winston Churchill",4.3,37000,"None",0,0,4.3,"",123,NA,"No","None","195",NA,2011
+"Latin America","Brazil","Maceió","Av. Fernandes Lima",15,NA,"None",0,0,15,"",NA,NA,"No","None","750",NA,2010
+"Latin America","Brazil","Natal","Av. Bernardo Vieira",3.5,NA,"None",0,0,3.5,"",NA,NA,"No","None","437.5",NA,2008
+"Latin America","Brazil","Niterói","Corredor Metropolitano Alameda São Boaventura",6,250000,"None",0,0.5,5.5,"",120,NA,"No","None","600",NA,2010
+"Latin America","Brazil","Olinda","Av. Pan Nordestina - PE 15",13.5,447695,"None",0,0,13.5,"",269,NA,"Yes","None","",NA,2005
+"Latin America","Brazil","Porto Alegre","Av. Assis Brasil",4.4,66200,"Partial",0,0,4.4,"19.1",350,16300,"No","None","500",NA,1981
+"Latin America","Brazil","Porto Alegre","Av. Aureliano de Figueiredo Pinto - Av. Érico Veríssimo (Cascatinha)",2.5,7400,"None",0,0,2.5,"23",76,1900,"No","None","300",NA,1980
+"Latin America","Brazil","Porto Alegre","Av. Azenha - Av. Bento",1.2,31100,"None",0,0,1.2,"17",NA,7000,"No","None","600",NA,1981
+"Latin America","Brazil","Porto Alegre","Av. Baltazar Garcia",5.15,49200,"None",0,0,5.15,"",NA,12100,"No","None","570",NA,2008
+"Latin America","Brazil","Porto Alegre","Av. Bento Gonçalves",8.55,60400,"None",0,0,8.55,"19.7",129,16000,"No","None","950",NA,1990
+"Latin America","Brazil","Porto Alegre","Av. Brasil",0.75,NA,"None",0,0,0.75,"",NA,NA,"No","None","N/A",NA,2014
+"Latin America","Brazil","Porto Alegre","Av. Cristovão Colombo",0.8,12900,"None",0,0.8,0,"20",NA,1900,"No","None","267",NA,1977
+"Latin America","Brazil","Porto Alegre","Av. Farrapos",4,63400,"None",0,0,4,"19.4",320,16800,"No","None","670",NA,1980
+"Latin America","Brazil","Porto Alegre","Av. Independência",1.2,8700,"None",0,1.2,0,"",NA,600,"No","None","200",NA,NA
+"Latin America","Brazil","Porto Alegre","Av. João Pessoa",2.7,55500,"None",0,0,2.7,"18",NA,14600,"No","None","540",NA,1981
+"Latin America","Brazil","Porto Alegre","Av. Osvaldo Aranha - Av. Protásio Alves",9.4,87700,"Partial",0,0,9.4,"19.3",160,11400,"No","None","850",NA,1982
+"Latin America","Brazil","Porto Alegre","Av. Sertório",5.8,20100,"None",0,0,5.8,"21",32,4400,"No","None","950",NA,1990
+"Latin America","Brazil","Porto Alegre","Av. Teresópolis - Av. Nonoai - Av. Cavalhada",4.5,NA,"None",0,0,4.5,"",NA,NA,"No","None","264.7",NA,2013
+"Latin America","Brazil","Porto Alegre","III Perimetral",11,29000,"Partial",0,0,11,"21",NA,6400,"No","None","450",NA,2003
+"Latin America","Brazil","Recife","Av. Conde do Boa Vista",1.65,423639,"None",0,0,1.65,"",244,NA,"Yes","None","825",NA,2008
+"Latin America","Brazil","Recife","Av. Sul",3.7,277620,"None",0,0,3.7,"",185,NA,"Yes","None","925",NA,NA
+"Latin America","Brazil","Recife","Via Livre Leste-Oeste",10,NA,"None",0,0,7.9,"",12,NA,"Yes","All","1428.6",NA,1982
+"Latin America","Brazil","Recife","Via Livre Norte-Sul",10,NA,"None",NA,NA,NA,"",3,NA,"Yes","All","5000",NA,2013
+"Latin America","Brazil","Rio de Janeiro","BRS 24 de maio",2.7,160000,"None",0,0,2.7,"",NA,NA,"No","None","337.5",NA,2013
+"Latin America","Brazil","Rio de Janeiro","BRS Antônio Carlos",1.3,261000,"None",0,0,1.3,"18.5",NA,31300,"No","None","433.3",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Botafogo - São Clemente",3.5,54000,"None",0,0,3.5,"14.8",NA,NA,"No","None","205.9",NA,2014
+"Latin America","Brazil","Rio de Janeiro","BRS Botafogo - Voluntários",3.3,60000,"None",0,0,3.3,"15.9",NA,NA,"No","None","235.7",NA,2014
+"Latin America","Brazil","Rio de Janeiro","BRS Carioca",4.1,450000,"None",0,0,4.1,"",NA,NA,"No","None","372.7",NA,2013
+"Latin America","Brazil","Rio de Janeiro","BRS Copacabana - Av. Nossa Senhora de Copacabana",4,240000,"None",0,0,4,"24",320,14100,"No","None","571.4",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Copacabana - Rua Barata Ribeiro",3.5,240000,"None",0,0,3.5,"18.5",NA,14100,"No","None","437.5",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Estácio",3.2,45000,"None",0,0,3.2,"",NA,NA,"No","None","457.1",NA,2013
+"Latin America","Brazil","Rio de Janeiro","BRS Ipanema/Leblon - Rua Prudente de Morais (General San Martin)",3.9,235000,"None",0,0,3.9,"18.5",NA,11350,"No","None","557.1",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Ipanema/Leblon - Rua Visconde de Pirajá (Rua Ataulfo de Paiva)",4,235000,"None",0,0,4,"18.5",NA,11350,"No","None","666.7",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Marechal Rondon",4.2,290000,"None",0,0,4.2,"",NA,NA,"No","None","280",NA,2014
+"Latin America","Brazil","Rio de Janeiro","BRS Presidente Vargas",3,550000,"None",0,0,3,"18.5",600,65400,"No","None","600",NA,2012
+"Latin America","Brazil","Rio de Janeiro","BRS Rio Branco",1.3,307600,"None",0,0,1.3,"18.5",NA,36900,"No","None","433.3",NA,2011
+"Latin America","Brazil","Rio de Janeiro","BRS Tijuca",3,30000,"None",0,0,3,"",NA,NA,"No","None","375",NA,2013
+"Latin America","Brazil","Rio de Janeiro","TransCarioca",39,234000,"Partial",0,0,39,"Express service: 29.8 and Local service: 25.4",9,11000,"No","All","886.4",NA,2014
+"Latin America","Brazil","Rio de Janeiro","TransOeste",57,216000,"Partial",0,0,48,"Express service: 50.1 and Local service: 29.2",45,13000,"No","All","1096.2",9.76,2012
+"Latin America","Brazil","Salvador","Av. Mario Leal Ferreira (Bonoco)",2,NA,"None",0,0,2,"",196,NA,"No","None","500",NA,1991
+"Latin America","Brazil","Salvador","Av. Tancredo Neves - Av. Luis Viana Filho (Paralela)",3.2,NA,"Partial",0,1.5,1.7,"",224,NA,"No","None","177.8",NA,NA
+"Latin America","Brazil","Salvador","Av. Vasco da Gama",3,NA,"None",0,1.2,1.8,"",187,NA,"No","None","1500",NA,1990
+"Latin America","Brazil","Santos","Ana Costa",2.6,1705,"None",0,0,2.6,"13",28,NA,"No","None","300",NA,2009
+"Latin America","Brazil","São Paulo","Campo Limpo - Rebouças - Centro",17.2,410000,"None",0,0,17.2,"15",223,18000,"No","None","905.3",NA,2004
+"Latin America","Brazil","São Paulo","Expresso Tiradentes (Eixo Sudeste)",12,60000,"All",12,0,0,"34.5",47,6180,"Yes","All","1714.3",NA,2007
+"Latin America","Brazil","São Paulo","Inajar - Rio Branco - Centro",13.6,223000,"None",0,0,13.6,"18.5",179,1500,"Yes","None","680",NA,1991
+"Latin America","Brazil","São Paulo","Itapecerica - João Dias - Santo Amaro",6.2,264000,"None",0,0,6.2,"14.4",123,13359,"Yes","None","563.6",NA,2000
+"Latin America","Brazil","São Paulo","Jd. Ângela - Guarapiranga - Santo Amaro",7.5,353000,"None",0,1.1,6.4,"16.5",267,24428,"Yes","None","576.9",NA,2000
+"Latin America","Brazil","São Paulo","Paes de Barros",3.9,79000,"None",0,0,3.9,"18.9",34,3370,"Yes","None","650",NA,1980
+"Latin America","Brazil","São Paulo","Parelheiros - Rio Bonito - Santo Amaro",30.5,390000,"None",0,0,30.5,"22.4",204,25025,"Yes","None","484.1",NA,2004
+"Latin America","Brazil","São Paulo","Pirituba - Lapa - Centro",15.2,325000,"None",0,0,15.2,"15.9",169,14000,"Yes","None","460.6",NA,2003
+"Latin America","Brazil","São Paulo","Santo Amaro - Nove de Julho - Centro",14.8,609000,"None",0,0,14.8,"18.9",229,26000,"Yes","None","592",NA,1987
+"Latin America","Brazil","São Paulo","Ver. José Diniz - Ibirapuera - Santa Cruz",8.9,451000,"None",0,0,8.9,"18.2",269,28024,"Yes","None","445",NA,2004
+"Latin America","Brazil","São Paulo - Metropolitan area","Corredor Metropolitano ABD",45,360000,"None",0,0,41.41,"21",NA,NA,"No","Partial","625",NA,1988
+"Latin America","Brazil","Sorocaba","Comendador Oeterer",1.4,NA,"None",0,0,1.4,"",NA,NA,"No","None","",NA,2012
+"Latin America","Brazil","Sorocaba","Hermelino Matarazzo",1.4,NA,"None",0,0,1.4,"",NA,NA,"No","None","",NA,2012
+"Latin America","Brazil","Sumaré","Corredor Metropolitano Noroeste",32.7,75000,"All",3,0,29.7,"",NA,NA,"No","None","1090",NA,2010
+"Latin America","Brazil","Teresina","Av. Frei Serafim",1.5,NA,"None",0,0,1.5,"",NA,NA,"","","750",NA,2011
+"Latin America","Brazil","Uberaba","Leste/Oeste",5,68000,"",NA,NA,5,"25",15,NA,"Yes","All","500",2.239,2015
+"Latin America","Brazil","Uberlândia","Estrutural Sudeste",7.5,16000,"None",0,0,7.5,"25",20,3583,"Yes","All","500",1.59,2006
+"Latin America","Chile","Santiago","Anillo Intermedio Norte",2.6,NA,"None",0,0,2.6,"",NA,NA,"No","None","",NA,2008
+"Latin America","Chile","Santiago","Avenida Grecia",10,59000,"None",0,0,10,"21.5",80,4400,"No","Partial","500",NA,2008
+"Latin America","Chile","Santiago","Blanco Encalada - Arica",1.7,NA,"None",0,0,1.7,"",NA,NA,"No","None","",NA,2006
+"Latin America","Chile","Santiago","Departamental Poniente",3.5,NA,"None",0,0,3.5,"",NA,NA,"No","None","",NA,2009
+"Latin America","Chile","Santiago","Dorsal",2.7,NA,"None",0,0,2.7,"",NA,NA,"No","Partial","",NA,2010
+"Latin America","Chile","Santiago","Las Industrias",13.3,NA,"None",0,0,13.3,"",NA,NA,"No","None","",NA,2008
+"Latin America","Chile","Santiago","Pajaritos Norte",8,72400,"None",0,0,8,"",185,12700,"No","None","228.6",NA,2009
+"Latin America","Chile","Santiago","Pajaritos Sur",1.8,6500,"None",0,0,1.8,"26.5",99,4300,"No","None","300",NA,2008
+"Latin America","Chile","Santiago","Pedro Aguirre Cerda",14.7,53500,"None",0,0,14.7,"28.5",81,4500,"No","None","1336.4",NA,2008
+"Latin America","Chile","Santiago","Santa Rosa Norte",10.85,58600,"None",0,0,8.35,"29",126,13500,"No","None","417.3",NA,2008
+"Latin America","Chile","Santiago","Santa Rosa Sur",8.6,NA,"None",0,0,8.6,"",NA,NA,"No","Partial","",NA,2010
+"Latin America","Chile","Santiago","Suiza - Las Rejas",2.9,6300,"None",NA,0,1.95,"25",36,3800,"No","None","580",NA,2006
+"Latin America","Chile","Santiago","Vicuña Mackenna Norte",1.7,NA,"None",0,0,1.7,"",NA,NA,"No","None","",NA,2010
+"Latin America","Chile","Santiago","Vicuña Mackenna Sur",9.5,84500,"None",NA,0,9.5,"26.6",87,5300,"No","Partial","395.8",NA,2009
+"Latin America","Colombia","Barranquilla","Troncal Murillo",9.5,NA,"None",0,0,9.5,"23.5",54,NA,"Yes","All","700",NA,2010
+"Latin America","Colombia","Barranquilla","Troncal Olaya",4.5,NA,"None",0,0,4.5,"20.5",NA,NA,"Yes","All","700",NA,2010
+"Latin America","Colombia","Bogotá","Américas",13,282051,"None",0,0,13,"26.2",NA,24450,"Yes","All","812.5",NA,2003
+"Latin America","Colombia","Bogotá","Calle 26",12.2,104180,"None",0,0,12.2,"26.2",NA,NA,"Yes","All","938.5",NA,2012
+"Latin America","Colombia","Bogotá","Calle 80",10.1,158086,"None",0,0,10.1,"26.2",NA,23400,"Yes","All","841.7",NA,2000
+"Latin America","Colombia","Bogotá","Caracas",8.1,520880,"None",0,0,8.1,"26.2",NA,48000,"Yes","All","578.6",NA,2000
+"Latin America","Colombia","Bogotá","Caracas Sur",11.9,520880,"None",0,0,11.9,"26.2",NA,33300,"","All","850",NA,2001
+"Latin America","Colombia","Bogotá","Carrera 10",7.3,256970,"None",0,0,7.3,"26.2",NA,NA,"Yes","All","811.1",NA,2012
+"Latin America","Colombia","Bogotá","Eje Ambiental",1.9,520880,"None",0,0,1.9,"26.2",NA,7600,"","All","633.3",NA,2002
+"Latin America","Colombia","Bogotá","Norte",10.3,335700,"None",0,0,10.3,"26.2",NA,39600,"Yes","All","686.7",NA,2001
+"Latin America","Colombia","Bogotá","NQS Central",12.4,192405,"None",0,0,10.6,"26.2",NA,19000,"Yes","All","1127.3",NA,2005
+"Latin America","Colombia","Bogotá","NQS Sur",12.7,192405,"None",0,0,12.7,"26.2",NA,19000,"","All","846.7",NA,2005
+"Latin America","Colombia","Bogotá","Suba",13,121438,"None",0,0,13,"26.2",NA,20100,"Yes","All","1000",NA,2006
+"Latin America","Colombia","Bucaramanga","Metrolínea",8.95,72000,"None",6.75,0,2.2,"20",45,4525,"Yes","All","530",NA,2010
+"Latin America","Colombia","Cali","Aguablanca",5.73,NA,"None",0,0,5.73,"",NA,NA,"Yes","All","818.6",NA,2011
+"Latin America","Colombia","Cali","Avenida 3",3.24,NA,"None",0,0,3.24,"",NA,NA,"Yes","All","540",NA,2010
+"Latin America","Colombia","Cali","Calle 5",9.7,NA,"None",0,0,9.7,"",NA,NA,"Yes","All","746.2",NA,2008
+"Latin America","Colombia","Cali","Carrera 1",7,NA,"None",0,0,7,"",NA,NA,"Yes","All","1166.7",NA,2009
+"Latin America","Colombia","Cali","Carrera 15",6.9,NA,"None",0,0,6.9,"",NA,NA,"Yes","All","985.7",NA,2008
+"Latin America","Colombia","Cali","Centro (Calle 13/Calle 15)",3.5,NA,"None",0,0,3.5,"",NA,NA,"Yes","All","350",NA,2008
+"Latin America","Colombia","Medellín","Línea 1",12.5,52000,"None",0,0,12.5,"16",40,2450,"Yes","All","595",NA,2011
+"Latin America","Colombia","Medellín","Línea 2",5.5,8000,"None",0,0,5.5,"",10,NA,"Yes","None","685",NA,2013
+"Latin America","Colombia","Pereira","Ruta 1",10.8,NA,"None",0,0,10,"20",12,NA,"Yes","All","568.4",NA,2006
+"Latin America","Colombia","Pereira","Ruta 2",10.8,NA,"None",0,0,10,"20",15,NA,"Yes","All","568.4",NA,2006
+"Latin America","Colombia","Pereira","Ruta 3",7.6,NA,"None",0,0,7.6,"20",15,NA,"Yes","All","542.9",NA,2006
+"Latin America","Ecuador","Guayaquil","25 de Julio - Río Daule",13.6,NA,"None",0,0,6,"",NA,15000,"Yes","All","400",NA,2013
+"Latin America","Ecuador","Guayaquil","Bastión Popular - Centro",16.1,170000,"None",0,0,16.5,"21.5",30,5720,"Yes","All","400",NA,2008
+"Latin America","Ecuador","Guayaquil","Guasmo - Río Daule",15.7,140000,"None",2.2,0,13.9,"21.5",30,5030,"Yes","All","400",NA,2006
+"Latin America","Ecuador","Quito","Central Norte",14.7,150000,"Partial",0,0,14.7,"20",20,7300,"No","All","700",NA,2005
+"Latin America","Ecuador","Quito","Ecovía (North Eastern Corridor)",9.8,149780,"Partial",0,0,9.8,"16.5",30,6800,"Yes","All","650",NA,2002
+"Latin America","Ecuador","Quito","Sur Occidental",14,220000,"Partial",0,0,14,"18",140,9300,"Yes","","700",NA,2012
+"Latin America","Ecuador","Quito","Sur Oriental",12.1,79940,"Partial",0,0,12.1,"18",40,3050,"Yes","None","355",NA,2010
+"Latin America","Ecuador","Quito","TroleBús",18.7,233375,"Partial",0,4.9,13.8,"16.4",60,11700,"Yes","All","400",NA,1995
+"Latin America","El Salvador","Gran San Salvador","Corredor SITRAMSS",6.4,27000,"",NA,NA,6.4,"15.4",140,3000,"","All","711",6.602,2015
+"Latin America","Guatemala","Guatemala","Ramal Central",11,30000,"None",0,0,5.7,"30",30,NA,"No","All","800",NA,2009
+"Latin America","Guatemala","Guatemala","Ramal Sur",24,180000,"None",0,0,16.1,"23",30,12500,"No","All","1600",NA,2007
+"Latin America","Mexico","Chihuahua","ViveBús",22.4,50000,"None",0,0,20.4,"",NA,NA,"","All","622.2",NA,2013
+"Latin America","Mexico","Ecatepec","Linea I: Ciudad Azteca - Ojo de Agua",16.5,140000,"None",0,0,16.5,"25",20,9000,"No","All","750",NA,2010
+"Latin America","Mexico","Guadalajara","Línea 1",16,127000,"None",0,0,16,"28",12,9000,"No","All","590",NA,2009
+"Latin America","Mexico","Guadalupe","Guadalupe",7.6,15000,"None",0,0,7.6,"20",15,NA,"No","All","447.1",NA,2005
+"Latin America","Mexico","Juárez","ViveBús",25,50000,"",NA,NA,NA,"",NA,NA,"","All","757.6",NA,2013
+"Latin America","Mexico","León de los Aldama","Sistema Integrado de Transporte Optibus",31.8,220500,"None",0,1.35,30.45,"20",45,7000,"Yes","All","400",NA,2003
+"Latin America","Mexico","Mexico City","Línea 1, Indios Verdes - Caminero",30,470000,"None",0,0,30,"18.3",77,12000,"No","All","769.2",NA,2005
+"Latin America","Mexico","Mexico City","Línea 2, Tacubaya - Tepalcates",20,175000,"None",0,3.8,20,"20",40,6500,"No","All","645.2",NA,2009
+"Latin America","Mexico","Mexico City","Línea 3, Tenayuca - Etiopia II",17,140000,"None",0,0,17,"18.6",37,5000,"No","All","629.6",NA,2011
+"Latin America","Mexico","Mexico City","Línea 4, Buenavista - San Lázaro - Aeropuerto",28,55000,"None",0,0,28,"10",13,1000,"No","None","965.5",NA,2012
+"Latin America","Mexico","Mexico City","Línea 5, Río de los Remedios - San Lázaro",10,60000,"None",0,0,10,"18",36,5400,"No","All","625",NA,2013
+"Latin America","Mexico","Monterrey","Ecovía",30.1,NA,"Partial",NA,0,30.1,"",NA,NA,"","All","771.8",10.014,2014
+"Latin America","Mexico","Nezahualcoyotl","Linea III: Chimalhuacán - Pantitlán",16.9,130000,"None",0,0,16.9,"16.9",20,NA,"No","All","625.9",41.42,2013
+"Latin America","Mexico","Puebla","Línea 1",18.5,71704,"None",0,0,18.5,"25",20,NA,"No","All","513.9",NA,2013
+"Latin America","Mexico","Puebla","Línea 2",13.8,180000,"None",NA,NA,13.8,"",NA,NA,"","All","460",NA,2015
+"Latin America","Panama","Panama","Cinta Costera",5,NA,"None",0,0,5,"",NA,9500,"No","All","",NA,2011
+"Latin America","Peru","Lima","COSAC I",26,350000,"All",9.2,0,16.8,"25.5",117,22800,"Yes","Partial","700",NA,1972
+"Latin America","Trinidad and Tobago","Port of Spain - Arima","Priority Bus Route",24.9,NA,"None",0,0,24.9,"",NA,NA,"","None","",NA,2011
+"Latin America","Uruguay","Montevideo","Corredor Garzón",6.3,25000,"None",0,0,6.3,"",18,NA,"Yes","None","370",NA,2012
+"Latin America","Venezuela","Barquisimeto","Ruta 1",15.4,61632,"None",0,13.6,0,"",NA,NA,"Partial","None","669.6",NA,2013
+"Latin America","Venezuela","Barquisimeto","Ruta 2",8.5,71198,"None",0,3.2,0,"",NA,NA,"Partial","None","472.2",NA,2013
+"Latin America","Venezuela","Caracas","Línea 7",5.2,30000,"None",0,0,5.2,"",NA,NA,"Yes","All","470",NA,2012
+"Latin America","Venezuela","Merida","Trolebús de Mérida - Línea 1",13.1,30000,"None",0,13.1,0,"25",16,9000,"Yes","All","625",NA,2007
+"Northern America","Canada","Brampton","Bovaird Drive",18,1886,"",NA,NA,NA,"",NA,196,"","None","1384.6",NA,2014
+"Northern America","Canada","Brampton","Main",21,11045,"",NA,NA,NA,"",6,1010,"","None","1050",NA,2011
+"Northern America","Canada","Brampton","Queen East",29.5,15307,"",NA,NA,NA,"",4,1343,"","None","1475",NA,2010
+"Northern America","Canada","Brampton","Steeles East",16,9119,"",NA,NA,NA,"",NA,873,"","None","800",NA,2012
+"Northern America","Canada","Gatineau","Rapibus",12,NA,"None",0,0,12,"",24,3500,"","All","1200",NA,2013
+"Northern America","Canada","Halifax","",39.44,7266,"",NA,NA,NA,"",NA,NA,"","","",NA,2005
+"Northern America","Canada","Ottawa","Transitway",35.4,220000,"None",35.4,NA,NA,"45",180,10500,"Yes","All","621.1",14.623,1983
+"Northern America","Canada","Vancouver","Broadway Corridor",27,100000,"None",0,0,6.6,"23",NA,NA,"No","All","1900",NA,1996
+"Northern America","Canada","Waterloo","200 iXpress",37,11000,"None",NA,NA,NA,"",4,NA,"Yes","None","2640",NA,2005
+"Northern America","Canada","Waterloo","201 iXpress",15,3000,"None",NA,NA,NA,"",4,NA,"Yes","None","714",NA,2011
+"Northern America","Canada","Winnipeg","RT",3.6,166000,"",NA,NA,NA,"",45,NA,"","","",NA,2012
+"Northern America","Canada","York Regional Municipality","Line2",59,35300,"",NA,NA,NA,"",NA,NA,"","","",NA,2005
+"Northern America","United States","Albuquerque","The Red Line (766)",17.7,5167,"None",1.1,NA,NA,"28",4,NA,"","None","1106.3",NA,2004
+"Northern America","United States","Boston","Silver Line Washington Street",3.86,18879,"None",0,0.1,2.2,"12.9",16,NA,"Yes","None","322",6.736,2002
+"Northern America","United States","Boston","Silver Line Waterfront",6.44,14507,"Partial",4,0,0,"20",18,NA,"No","Partial","379",93.168,2004
+"Northern America","United States","Chicago","Jeffery Jump",25.4,12500,"None",0,0,3.2,"25.4",12,NA,"","None","805",NA,2012
+"Northern America","United States","Cleveland","HealthLine",11.4,15800,"None",0,0,7.2,"17.7",10,NA,"","All","317",17.544,2009
+"Northern America","United States","Eugene","Gateway Line",12.48,NA,"None",0,0,8.32,"24",6,NA,"","All","891",3.28,2011
+"Northern America","United States","Eugene","Green Line",6.4,10000,"None",0,0,3.84,"16.9",6,500,"","All","640",3.9,2007
+"Northern America","United States","Everett","",26.9,4200,"None",0,0,16,"",5,NA,"","All","1921.4",1.059,2009
+"Northern America","United States","Kansas City","Main Street",14.4,5400,"None",0,0,7.5,"22.5",6,NA,"","None","654",1.45,2005
+"Northern America","United States","Kansas City","Troost Avenue",20.8,8500,"None",0,0,NA,"22.5",6,NA,"","None","945",1.48,2011
+"Northern America","United States","Las Vegas","MAX (Metropolitan Area Express)",12.07,7400,"None",0,0,7.24,"21.9",NA,NA,"","All","862.1",1.682,2004
+"Northern America","United States","Las Vegas","SDX (Strip & Downtown Express)",14.48,16789,"",0,NA,3.62,"20",NA,NA,"","All","851.8",3.729,2010
+"Northern America","United States","Las Vegas","SX (Sahara Express)",36.5,10000,"None",0,0,21.08,"",NA,NA,"","All","618.6",1.107,2012
+"Northern America","United States","Los Angeles","Orange Line",22.9,33000,"None",0,0,21.25,"32",15,NA,"No","All","1635.7",NA,2005
+"Northern America","United States","Miami","South Miami-Dade Busway",34,23000,"",NA,NA,NA,"45",NA,NA,"","","607.1",NA,1997
+"Northern America","United States","New York","B44 SBS (Nostrand Avenue)",14.96,41000,"None",NA,NA,NA,"",12,NA,"N/A","All","805",0.602,2013
+"Northern America","United States","New York","Bx12 SBS (Fordham Road - Pelham Pkwy)",14.48,47037,"None",0,0,6.12,"18.5",15,NA,"N/A","All","805",0.691,2008
+"Northern America","United States","New York","Bx41 SBS (Webster Avenue)",8.53,22000,"None",0,0,6.44,"19.8",8,NA,"N/A","All","775",1.758,2013
+"Northern America","United States","New York","M15 SBS (1st/2nd Ave)",13.68,57557,"None",0,0,10.14,"12",15,NA,"N/A","All","805",1.279,2010
+"Northern America","United States","New York","M34/M34A SBS (34th Street)",4,22000,"None",NA,NA,NA,"",17,NA,"N/A","All","327",6.75,2011
+"Northern America","United States","New York","S79 SBS (Hylan Boulevard)",24.13,9972,"None",0,0,3.53,"",8,NA,"N/A","All","805",0.29,2012
+"Northern America","United States","Oakland","San Pablo Rapid",23.8,13000,"",NA,NA,NA,"",12,NA,"","","",NA,2003
+"Northern America","United States","Orlando","LYNX Lymmo",5.1,4475,"",NA,NA,NA,"",15,NA,"","","",4.047,1997
+"Northern America","United States","Phoenix","",128.01,2372,"",NA,NA,NA,"",6,NA,"","","",NA,2008
+"Northern America","United States","Pittsburgh","MLK East Busway",15,24000,"",NA,NA,NA,"48.3",15,5000,"","None","1633",NA,1983
+"Northern America","United States","Pittsburgh","South Busway",7,9262,"",NA,NA,NA,"45.1",30,1650,"","None","627",NA,1977
+"Northern America","United States","Pittsburgh","West Busway",9,8419,"",NA,NA,NA,"48.3",12,1365,"","None","1350",NA,2000
+"Northern America","United States","San Bernardino","sbX",25.7,NA,"None",0,0,9.4,"",6,NA,"","None","1606.3",7.459,2014
+"Northern America","United States","San Diego","UTC East Loop",4,NA,"None",NA,NA,NA,"",NA,NA,"","","666.7",NA,2012
+"Northern America","United States","San Diego","UTC Transit Center – UCSD",10,NA,"None",NA,NA,NA,"",NA,NA,"","","833.3",NA,2009
+"Northern America","United States","Snohomish County","",28.9,4878,"",NA,NA,NA,"",NA,NA,"","","",NA,2009
+"Northern America","United States","Stockton","Route #40 - Pacific Corridor",8.85,3236,"",NA,NA,NA,"",6,NA,"","All","1.1",NA,2007
+"Northern America","United States","Stockton","Route #43 - Hammer Corridor",8.52,1120,"",NA,NA,NA,"",4,NA,"","All","0.6",NA,2012
+"Northern America","United States","Stockton","Route #44 - Airport Corridor",8.85,966,"",NA,NA,NA,"",3,NA,"","All","1.1",NA,2011
+"Oceania","Australia","Adelaide","North East Busway",12,32000,"All",12,0,0,"80",85,6700,"","None","5000",10.25,1986
+"Oceania","Australia","Brisbane","Eastern Busway",4,88300,"All",4,0,0,"20",89,9400,"","None","667",155.8,2009
+"Oceania","Australia","Brisbane","Northern Busway",7.9,108300,"All",7.9,0,0,"",62,12500,"","None","1134",65.59,2008
+"Oceania","Australia","Brisbane","South East Busway",16.5,160200,"All",16.5,0,0,"55",295,19900,"","None","1650",12.85,2000
+"Oceania","Australia","Sydney - Blacktown - Rouse Hill","Blacktown to Rouse Hill (North-West T-way)",6.4,NA,"None",0,0,6.4,"18",17,NA,"Yes","Partial","711",NA,2007
+"Oceania","Australia","Sydney - Liverpool - Parramatta","Liverpool-Parramatta T-Way",31,10681,"Partial",3,0,28,"29",6,3069,"Yes","Partial","920",NA,2003
+"Oceania","Australia","Sydney - Parramatta - Rouse Hill","Parramatta to Rouse Hill (North-West T-way)",11.7,7660,"Partial",0,0,11.7,"29",42,NA,"No","Partial","861",NA,2007
+"Oceania","New Zealand","Auckland","Northern Busway",6.2,22900,"All",6.2,0,0,"31",82,2200,"","None","1240",36.36,2008

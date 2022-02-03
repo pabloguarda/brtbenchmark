@@ -1,0 +1,204 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,30,2015,www.lamata-ng.com
+Africa,South Africa,Cape Town,,,
+Africa,South Africa,Johannesburg,30,2013,www.embarq.org
+Asia,China,Beijing,26,2013,
+Asia,China,Changde,31,2013,www.chinabrt.org
+Asia,China,Changzhou,18,2011,www.chinabrt.org
+Asia,China,Chengdu,26,2013,www.gochengdoo.com
+Asia,China,Chongqing,31,2011,www.chinabrt.org
+Asia,China,Dalian,24,2011,www.chinabrt.org
+Asia,China,Guangzhou,23,2013,www.embarq.org
+Asia,China,Hangzhou,18,2011,www.chinabrt.org
+Asia,China,Hefei,16,2011,Viva 2010 ( www.uncrd.or.jp ); www.chinabrt.org
+Asia,China,Jinan,17.5,2014,www.chinabrt.org
+Asia,China,Kunming,18,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,China,Lanzhou,22,2013,www.chinabrt.org
+Asia,China,Lianyungang,18,2013,www.chinabrt.org
+Asia,China,Urumqi,13,2013,www.chinabrt.org
+Asia,China,Xiamen,27,2011,Viva (www.chinabrt.org
+Asia,China,Yancheng,18,2012,www.chinabrt.org
+Asia,China,Yichang,20,2015,itdp-china.org
+Asia,China,Yinchuan,15,2013,www.chinabrt.org
+Asia,China,Zaozhuang,30,2011,www.chinabrt.org
+Asia,China,Zhengzhou,15,2013,www.chinabrt.org
+Asia,India,Ahmedabad,24,2013,www.embarq.org
+Asia,India,Bhopal,,,
+Asia,India,Indore,,,
+Asia,India,Jaipur,18,2011,"Primary Survey, EMBARQ"
+Asia,India,Pune - Primpi-Chinchwad,,,
+Asia,India,Rajkot,,,
+Asia,India,Surat,,,
+Asia,Indonesia,Jakarta,19,2013,www.embarq.org
+Asia,Iran,Isfahan,,,
+Asia,Iran,Tabriz,,,
+Asia,Iran,Tehran,19,2011,Tehran bus
+Asia,Israel,Haifa,24.7,2015,"Calculated using Red, Blue and Green Lines operating speed and their representativeness (length) in the system"
+Asia,Japan,Kesennuma - Tome,,,
+Asia,Japan,Nagoya,30,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Malaysia,Subang Jaya,,,
+Asia,Pakistan,Islamabad - Rawalpindi,,,
+Asia,Pakistan,Lahore,26,2015,www.pma.punjab.gov.pk
+Asia,Republic of Korea,Seoul,17,2011,Bus Rapid Transit Planning Guide (ITDP) 2007 ; www.chinabrt.org
+Asia,Taiwan,Chiayi,,,
+Asia,Taiwan,Taichung,,,
+Asia,Taiwan,Taipei,19.5,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Asia,Thailand,Bangkok,26,2010,Viva 2010 ( www.uncrd.or.jp ); www.bangkokpost.comwww.chinabrt.org
+Europe,Belgium,Liège,,,
+Europe,Czech Republic,Prague,21.8,2011,COST - European Cooperation in Science and Technology
+Europe,Finland,Helsinki,26,2011,COST - European Cooperation in Science and Technology
+Europe,France,Belfort,21,2014,info.optymo.fr
+Europe,France,Caen,20,2010,ITDP (2007) Bus Rapid Transit Planning Guide ; CERTU 2010
+Europe,France,Cannes,,,
+Europe,France,Châlon-sur-Saône,19,2014,www.mobilicites.com
+Europe,France,Douai,24.7,2010,Viva 2010 ( www.uncrd.or.jp ); connectedcities.eu ; lw2.easy-site.nl
+Europe,France,Evry,21,2014,www.bus-tice.com
+Europe,France,La Rochelle,,,
+Europe,France,Lille,,,
+Europe,France,Lorient,19,2011,COST - European Cooperation in Science and Technology .
+Europe,France,Lyon,17,2007,ITDP (2007) Bus Rapid Transit Planning Guide ; CERTU 2010
+Europe,France,Maubeuge,,,
+Europe,France,Metz,20,2013,Mettis
+Europe,France,Nancy,14.5,2010,CERTU 2010
+Europe,France,Nantes,21,2011,COST - European Cooperation in Science and Technology
+Europe,France,Nice,,,
+Europe,France,Nîmes,22.5,2015,www.tangobus.fr
+Europe,France,Paris,23.5,2011,
+Europe,France,Rouen,17.5,2015,www.la-crea.fr
+Europe,France,Saint-Nazaire,18.4,2014,Google Transit
+Europe,France,Strasbourg,18,2014,www.en.strasbourg.eu
+Europe,France,Toulouse,25,2010,Viva 2010 ( www.uncrd.or.jp ); CERTU 2010
+Europe,Germany,Essen,16.5,2011,COST - European Cooperation in Science and Technology
+Europe,Germany,Hamburg,18.8,2011,COST - European Cooperation in Science and Technology
+Europe,Germany,Oberhausen,34,2011,COST - European Cooperation in Science and Technology
+Europe,Ireland,Dublin,,,
+Europe,Italy,Brescia,15.5,2011,
+Europe,Italy,Prato,19.6,2015,"Calculated using operating speed, corridor"
+Europe,Netherlands,Almere,24.5,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Amsterdam,35,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Eindhoven,21,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,Netherlands,Enschede,23.8,2011,COST - European Cooperation in Science and Technology
+Europe,Netherlands,Utrecht,,,
+Europe,Portugal,Lisbon,16,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Barcelona,10,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Castellon,18,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Madrid,28.5,2011,COST - European Cooperation in Science and Technology
+Europe,Spain,Granada,,,
+Europe,Sweden,Gothenburg,21,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Jonkoping,22,2011,COST - European Cooperation in Science and Technology
+Europe,Sweden,Stockholm,16.5,2011,COST - European Cooperation in Science and Technology
+Europe,Switzerland,Zurich,19,2011,COST - European Cooperation in Science and Technology
+Europe,Turkey,Istanbul,35,2013,IETT
+Europe,United Kingdom,Bradford,,,
+Europe,United Kingdom,Cambridge,60,"2011, on guided section",COST - European Cooperation in Science and Technology
+Europe,United Kingdom,Crawley,20,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Europe,United Kingdom,Edinburgh,,,
+Europe,United Kingdom,Fareham - Gosport,,,
+Europe,United Kingdom,Kent,,,
+Europe,United Kingdom,Leeds,,,
+Europe,United Kingdom,London,,,
+Europe,United Kingdom,Luton,,,
+Europe,United Kingdom,Manchester,16,2011,COST - European Cooperation in Science and Technology
+Europe,United Kingdom,Runcorn,31,2001,onlinepubs.trb.org
+Europe,United Kingdom,Swansea,,,
+Europe,United Kingdom,York,,,
+Latin America,Argentina,Buenos Aires,24,,
+Latin America,Argentina,Córdoba,,,
+Latin America,Argentina,Rosario,15,2013,ar.finanzas.yahoo.com
+Latin America,Brazil,Belém,27.7,2014,ww3.belem.pa.gov.br
+Latin America,Brazil,Belo Horizonte,17.6,,
+Latin America,Brazil,Blumenau,20.6,,
+Latin America,Brazil,Brasília,,,
+Latin America,Brazil,Campinas,,,
+Latin America,Brazil,Campo Grande,17.8,,
+Latin America,Brazil,Caxias do Sul,,,
+Latin America,Brazil,Criciúma,40,,
+Latin America,Brazil,Curitiba,,,
+Latin America,Brazil,São Paulo - Metropolitan area,21,2014,www.etransport.com.br
+Latin America,Brazil,Feira de Santana,,,
+Latin America,Brazil,Fortaleza,23,2012,www.fortaleza.ce.gov.br
+Latin America,Brazil,Goiânia,17.8,,
+Latin America,Brazil,Guarulhos,,,
+Latin America,Brazil,Jaboatão dos Guararapes,,,
+Latin America,Brazil,João Pessoa,18,,
+Latin America,Brazil,Joinville,18.5,,
+Latin America,Brazil,Juiz de Fora,,,
+Latin America,Brazil,Londrina,,,
+Latin America,Brazil,Maceió,,,
+Latin America,Brazil,Natal,,,
+Latin America,Brazil,Niterói,,,
+Latin America,Brazil,Olinda,,,
+Latin America,Brazil,Porto Alegre,19.8,,
+Latin America,Brazil,Recife,,,
+Latin America,Brazil,Rio de Janeiro,21.8,,
+Latin America,Brazil,Salvador,,,
+Latin America,Brazil,Santos,13,,
+Latin America,Brazil,São Paulo,19.3,,
+Latin America,Brazil,Sorocaba,,,
+Latin America,Brazil,Sumaré,,,
+Latin America,Brazil,Teresina,,,
+Latin America,Brazil,Uberaba,25,2013,uberaba.mg.gov.br
+Latin America,Brazil,Uberlândia,25,2013,www.uberlandia.mg.gov.br
+Latin America,Chile,Santiago,26.2,,
+Latin America,Colombia,Barranquilla,22,,
+Latin America,Colombia,Bogotá,26.2,2013,Transmilenio S.A.
+Latin America,Colombia,Bucaramanga,20,2012,Metrolínea
+Latin America,Colombia,Cali,17.8,2014,www.metrocali.gov.co
+Latin America,Colombia,Medellín,16,,
+Latin America,Colombia,Pereira,20,2010,pdf.wri.org
+Latin America,Ecuador,Guayaquil,21.5,,Metrovía
+Latin America,Ecuador,Quito,17.8,,
+Latin America,El Salvador,Gran San Salvador,15.4,2015,www.vmt.gob.sv
+Latin America,Guatemala,Guatemala,26.5,,
+Latin America,Mexico,Chihuahua,,,
+Latin America,Mexico,Ecatepec,25,,mx.noticias.yahoo.com
+Latin America,Mexico,Guadalajara,28,2010,Macrobus
+Latin America,Mexico,Guadalupe,20,,
+Latin America,Mexico,León de los Aldama,25.5,,
+Latin America,Mexico,Mexico City,,,
+Latin America,Mexico,Juárez,,,
+Latin America,Mexico,Monterrey,,,
+Latin America,Mexico,Nezahualcoyotl,16.9,2013,mexibus.net
+Latin America,Mexico,Pachuca,,,
+Latin America,Mexico,Puebla,,,
+Latin America,Panama,Panama,,,
+Latin America,Peru,Lima,25.5,2013,Protransporte Planing and Information System Office
+Latin America,Trinidad and Tobago,Port of Spain - Arima,,,
+Latin America,Uruguay,Montevideo,,,
+Latin America,Venezuela,Caracas,,,
+Latin America,Venezuela,Merida,25,,
+Latin America,Venezuela,Barquisimeto,26,2015,es.wikipedia.org
+Northern America,Canada,Brampton,,,
+Northern America,Canada,Gatineau,,,
+Northern America,Canada,Halifax,,,
+Northern America,Canada,Ottawa,45,2007,www.rapibus.sto.ca
+Northern America,Canada,Vancouver,23,,
+Northern America,Canada,Waterloo,,,
+Northern America,Canada,Winnipeg,,,
+Northern America,Canada,York Regional Municipality,,,
+Northern America,United States,Alexandria - Arlington,,,
+Northern America,United States,Albuquerque,28,2009,www.fta.dot.gov
+Northern America,United States,Boston,17.3,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Chicago,25.4,2012,chi.streetsblog.org
+Northern America,United States,Cleveland,17.7,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,Eugene,24,2007,Bus Rapid Transit Planning Guide (ITDP) 2007
+Northern America,United States,Everett,,,
+Northern America,United States,Kansas City,22.5,2013,
+Northern America,United States,Las Vegas,21,2013,
+Northern America,United States,Los Angeles,32,2007,Metro Orange Line presented to APTA by Dana Woodbury
+Northern America,United States,Miami,45,2007,Bus Rapid Transit Planning Guide (ITDP) 2007 ; Federal Transit Administration
+Northern America,United States,New York,16.4,,"Calculated using Bx12, M15 and Bx41 operating speed and their representativeness (length) in the system"
+Northern America,United States,Oakland,,,
+Northern America,United States,Orlando,,,
+Northern America,United States,Phoenix,,,
+Northern America,United States,Pittsburgh,47.2,2013,More Development For Your Transit Dollar - An Analysis of 21 North American Transit Corridors (ITDP)
+Northern America,United States,San Bernardino,,,
+Northern America,United States,San Diego,38.4,2000,"GAO, Report to Congressional Requesters: MASS TRANSIT - Bus Rapid Transit Shows Promise; at www.gao.gov"
+Northern America,United States,Snohomish County,,,
+Northern America,United States,Stockton,,,
+Oceania,Australia,Adelaide,80,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Brisbane,37.5,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,18,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Liverpool - Parramatta,29,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,29,2013,"Currie G; Delbosc, A. (2013) Assessing bus rapid transit system performance in Australasia"
+Oceania,New Zealand,Auckland,31,2013,"Currie G; Delbosc, A; Assessing bus rapid transit system performance in Australasia"

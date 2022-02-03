@@ -1,0 +1,201 @@
+Country,Region,City,Value,Year,Source
+Argentina,Latin America,Buenos Aires,12510,2014,data.worldbank.org
+Argentina,Latin America,Córdoba,12510,2014,data.worldbank.org
+Argentina,Latin America,Rosario,12510,2014,data.worldbank.org
+Australia,Oceania,Adelaide,61926,2014,data.worldbank.org
+Australia,Oceania,Brisbane,61926,2014,data.worldbank.org
+Australia,Oceania,Sydney - Blacktown - Rouse Hill,61926,2014,data.worldbank.org
+Australia,Oceania,Sydney - Liverpool - Parramatta,61926,2014,data.worldbank.org
+Australia,Oceania,Sydney - Parramatta - Rouse Hill,61926,2014,data.worldbank.org
+Belgium,Europe,Liège,47353,2014,data.worldbank.org
+Brazil,Latin America,Belém,11384,2014,data.worldbank.org
+Brazil,Latin America,Belo Horizonte,11384,2014,data.worldbank.org
+Brazil,Latin America,Blumenau,11384,2014,data.worldbank.org
+Brazil,Latin America,Brasília,11384,2014,data.worldbank.org
+Brazil,Latin America,Campinas,11384,2014,data.worldbank.org
+Brazil,Latin America,Campo Grande,11384,2014,data.worldbank.org
+Brazil,Latin America,Caxias do Sul,11384,2014,data.worldbank.org
+Brazil,Latin America,Criciúma,11384,2014,data.worldbank.org
+Brazil,Latin America,Curitiba,11384,2014,data.worldbank.org
+Brazil,Latin America,São Paulo - Metropolitan area,11384,2014,data.worldbank.org
+Brazil,Latin America,Feira de Santana,11384,2014,data.worldbank.org
+Brazil,Latin America,Fortaleza,11384,2014,data.worldbank.org
+Brazil,Latin America,Goiânia,11384,2014,data.worldbank.org
+Brazil,Latin America,Guarulhos,11384,2014,data.worldbank.org
+Brazil,Latin America,Jaboatão dos Guararapes,11384,2014,data.worldbank.org
+Brazil,Latin America,João Pessoa,11384,2014,data.worldbank.org
+Brazil,Latin America,Joinville,11384,2014,data.worldbank.org
+Brazil,Latin America,Juiz de Fora,11384,2014,data.worldbank.org
+Brazil,Latin America,Londrina,11384,2014,data.worldbank.org
+Brazil,Latin America,Maceió,11384,2014,data.worldbank.org
+Brazil,Latin America,Natal,11384,2014,data.worldbank.org
+Brazil,Latin America,Niterói,11384,2014,data.worldbank.org
+Brazil,Latin America,Olinda,11384,2014,data.worldbank.org
+Brazil,Latin America,Porto Alegre,11384,2014,data.worldbank.org
+Brazil,Latin America,Recife,11384,2014,data.worldbank.org
+Brazil,Latin America,Rio de Janeiro,11384,2014,data.worldbank.org
+Brazil,Latin America,Salvador,11384,2014,data.worldbank.org
+Brazil,Latin America,Santos,11384,2014,data.worldbank.org
+Brazil,Latin America,São Paulo,11384,2014,data.worldbank.org
+Brazil,Latin America,Sorocaba,11384,2014,data.worldbank.org
+Brazil,Latin America,Sumaré,11384,2014,data.worldbank.org
+Brazil,Latin America,Teresina,11384,2014,data.worldbank.org
+Brazil,Latin America,Uberaba,11384,2014,data.worldbank.org
+Brazil,Latin America,Uberlândia,11384,2014,data.worldbank.org
+Canada,Northern America,Brampton,50235,2014,data.worldbank.org
+Canada,Northern America,Gatineau,50235,2014,data.worldbank.org
+Canada,Northern America,Halifax,50235,2014,data.worldbank.org
+Canada,Northern America,Ottawa,50235,2014,data.worldbank.org
+Canada,Northern America,Vancouver,50235,2014,data.worldbank.org
+Canada,Northern America,Waterloo,50235,2014,data.worldbank.org
+Canada,Northern America,Winnipeg,50235,2014,data.worldbank.org
+Canada,Northern America,York Regional Municipality,50235,2014,data.worldbank.org
+Chile,Latin America,Santiago,14528,2014,data.worldbank.org
+China,Asia,Beijing,7590,2014,data.worldbank.org
+China,Asia,Changde,7590,2014,data.worldbank.org
+China,Asia,Changzhou,7590,2014,data.worldbank.org
+China,Asia,Chengdu,7590,2014,data.worldbank.org
+China,Asia,Chongqing,7590,2014,data.worldbank.org
+China,Asia,Dalian,7590,2014,data.worldbank.org
+China,Asia,Guangzhou,7590,2014,data.worldbank.org
+China,Asia,Hangzhou,7590,2014,data.worldbank.org
+China,Asia,Hefei,7590,2014,data.worldbank.org
+China,Asia,Jinan,7590,2014,data.worldbank.org
+China,Asia,Kunming,7590,2014,data.worldbank.org
+China,Asia,Lanzhou,7590,2014,data.worldbank.org
+China,Asia,Lianyungang,7590,2014,data.worldbank.org
+China,Asia,Urumqi,7590,2014,data.worldbank.org
+China,Asia,Xiamen,7590,2014,data.worldbank.org
+China,Asia,Yancheng,7590,2014,data.worldbank.org
+China,Asia,Yichang,7590,2014,data.worldbank.org
+China,Asia,Yinchuan,7590,2014,data.worldbank.org
+China,Asia,Zaozhuang,7590,2014,data.worldbank.org
+China,Asia,Zhengzhou,7590,2014,data.worldbank.org
+Colombia,Latin America,Barranquilla,7904,2014,data.worldbank.org
+Colombia,Latin America,Bogotá,7904,2014,data.worldbank.org
+Colombia,Latin America,Bucaramanga,7904,2014,data.worldbank.org
+Colombia,Latin America,Cali,7904,2014,data.worldbank.org
+Colombia,Latin America,Medellín,7904,2014,data.worldbank.org
+Colombia,Latin America,Pereira,7904,2014,data.worldbank.org
+Czech Republic,Europe,Prague,19530,2014,data.worldbank.org
+Ecuador,Latin America,Guayaquil,6346,2014,data.worldbank.org
+Ecuador,Latin America,Quito,6346,2014,data.worldbank.org
+El Salvador,Latin America,Gran San Salvador,4120,2014,data.worldbank.org
+Finland,Europe,Helsinki,49824,2014,data.worldbank.org
+France,Europe,Belfort,42733,2014,data.worldbank.org
+France,Europe,Caen,42733,2014,data.worldbank.org
+France,Europe,Cannes,42733,2014,data.worldbank.org
+France,Europe,Châlon-sur-Saône,42733,2014,data.worldbank.org
+France,Europe,Douai,42733,2014,data.worldbank.org
+France,Europe,Evry,42733,2014,data.worldbank.org
+France,Europe,La Rochelle,42733,2014,data.worldbank.org
+France,Europe,Lille,42733,2014,data.worldbank.org
+France,Europe,Lorient,42733,2014,data.worldbank.org
+France,Europe,Lyon,42733,2014,data.worldbank.org
+France,Europe,Maubeuge,42733,2014,data.worldbank.org
+France,Europe,Metz,42733,2014,data.worldbank.org
+France,Europe,Nancy,42733,2014,data.worldbank.org
+France,Europe,Nantes,42733,2014,data.worldbank.org
+France,Europe,Nice,42733,2014,data.worldbank.org
+France,Europe,Nîmes,42733,2014,data.worldbank.org
+France,Europe,Paris,42733,2014,data.worldbank.org
+France,Europe,Rouen,42733,2014,data.worldbank.org
+France,Europe,Saint-Nazaire,42733,2014,data.worldbank.org
+France,Europe,Strasbourg,42733,2014,data.worldbank.org
+France,Europe,Toulouse,42733,2014,data.worldbank.org
+Germany,Europe,Essen,47822,2014,data.worldbank.org
+Germany,Europe,Hamburg,47822,2014,data.worldbank.org
+Germany,Europe,Oberhausen,47822,2014,data.worldbank.org
+Guatemala,Latin America,Guatemala,3673,2014,data.worldbank.org
+India,Asia,Ahmedabad,1582,2014,data.worldbank.org
+India,Asia,Bhopal,1582,2014,data.worldbank.org
+India,Asia,Indore,1582,2014,data.worldbank.org
+India,Asia,Jaipur,1582,2014,data.worldbank.org
+India,Asia,Pune,1582,2014,data.worldbank.org
+India,Asia,Rajkot,1582,2014,data.worldbank.org
+India,Asia,Surat,1582,2014,data.worldbank.org
+Indonesia,Asia,Jakarta,3492,2014,data.worldbank.org
+Iran,Asia,Tabriz,5443,2014,data.worldbank.org
+Iran,Asia,Tehran,5443,2014,data.worldbank.org
+Ireland,Europe,Dublin,53374,2014,data.worldbank.org
+Israel,Asia,Haifa,37208,2014,data.worldbank.org
+Italy,Europe,Brescia,34906,2014,data.worldbank.org
+Italy,Europe,Prato,34906,2014,data.worldbank.org
+Japan,Asia,Kesennuma - Tome,36194,2014,data.worldbank.org
+Japan,Asia,Nagoya,36194,2014,data.worldbank.org
+Malaysia,Asia,Subang Jaya,11307,2014,data.worldbank.org
+Mexico,Latin America,Chihuahua,10326,2014,data.worldbank.org
+Mexico,Latin America,Ecatepec,10326,2014,data.worldbank.org
+Mexico,Latin America,Guadalajara,10326,2014,data.worldbank.org
+Mexico,Latin America,Guadalupe,10326,2014,data.worldbank.org
+Mexico,Latin America,León de los Aldama,10326,2014,data.worldbank.org
+Mexico,Latin America,Mexico City,10326,2014,data.worldbank.org
+Mexico,Latin America,Juárez,10326,2014,data.worldbank.org
+Mexico,Latin America,Monterrey,10326,2014,data.worldbank.org
+Mexico,Latin America,Nezahualcoyotl,10326,2014,data.worldbank.org
+Mexico,Latin America,Puebla,10326,2014,data.worldbank.org
+Netherlands,Europe,Almere,52172,2014,data.worldbank.org
+Netherlands,Europe,Amsterdam,52172,2014,data.worldbank.org
+Netherlands,Europe,Eindhoven,52172,2014,data.worldbank.org
+Netherlands,Europe,Enschede,52172,2014,data.worldbank.org
+Netherlands,Europe,Utrecht,52172,2014,data.worldbank.org
+New Zealand,Oceania,Auckland,37897,2011,data.worldbank.org
+Nigeria,Africa,Lagos,3203,2014,data.worldbank.org
+Pakistan,Asia,Islamabad - Rawalpindi,1316,2014,data.worldbank.org
+Pakistan,Asia,Lahore,1316,2014,data.worldbank.org
+Panama,Latin America,Panama,11949,2014,data.worldbank.org
+Peru,Latin America,Lima,6541,2014,data.worldbank.org
+Portugal,Europe,Lisbon,22132,2014,data.worldbank.org
+Republic of Korea,Asia,Seoul,27971,2014,data.worldbank.org
+South Africa,Africa,Cape Town,6483,2014,data.worldbank.org
+South Africa,Africa,Johannesburg,6483,2014,data.worldbank.org
+Spain,Europe,Barcelona,29767,2014,data.worldbank.org
+Spain,Europe,Castellon,29767,2014,data.worldbank.org
+Spain,Europe,Madrid,29767,2014,data.worldbank.org
+Spain,Europe,Granada,29767,2014,data.worldbank.org
+Sweden,Europe,Gothenburg,58939,2014,data.worldbank.org
+Sweden,Europe,Jonkoping,58939,2014,data.worldbank.org
+Sweden,Europe,Stockholm,58939,2014,data.worldbank.org
+Switzerland,Europe,Zurich,84594,2014,data.worldbank.org
+Taiwan,Asia,Chiayi,20925,2013,www.imf.org
+Taiwan,Asia,Taichung,20925,2013,www.imf.org
+Taiwan,Asia,Taipei,20925,2013,www.imf.org
+Thailand,Asia,Bangkok,5977,2014,data.worldbank.org
+Trinidad and Tobago,Latin America,Port of Spain - Arima,21324,2014,data.worldbank.org
+Turkey,Europe,Istanbul,10515,2014,data.worldbank.org
+United Kingdom,Europe,Bradford,46332,2014,data.worldbank.org
+United Kingdom,Europe,Cambridge,46332,2014,data.worldbank.org
+United Kingdom,Europe,Crawley,46332,2014,data.worldbank.org
+United Kingdom,Europe,Edinburgh,46332,2014,data.worldbank.org
+United Kingdom,Europe,Fareham - Gosport,46332,2014,data.worldbank.org
+United Kingdom,Europe,Kent,46332,2014,data.worldbank.org
+United Kingdom,Europe,Leeds,46332,2014,data.worldbank.org
+United Kingdom,Europe,London,46332,2014,data.worldbank.org
+United Kingdom,Europe,Luton,46332,2014,data.worldbank.org
+United Kingdom,Europe,Manchester,46332,2014,data.worldbank.org
+United Kingdom,Europe,Runcorn,46332,2014,data.worldbank.org
+United Kingdom,Europe,Swansea,46332,2014,data.worldbank.org
+United Kingdom,Europe,York,46332,2014,data.worldbank.org
+United States,Northern America,Albuquerque,54630,2014,data.worldbank.org
+United States,Northern America,Boston,54630,2014,data.worldbank.org
+United States,Northern America,Chicago,54630,2014,data.worldbank.org
+United States,Northern America,Cleveland,54630,2014,data.worldbank.org
+United States,Northern America,Eugene,54630,2014,data.worldbank.org
+United States,Northern America,Everett,54630,2014,data.worldbank.org
+United States,Northern America,Kansas City,54630,2014,data.worldbank.org
+United States,Northern America,Las Vegas,54630,2014,data.worldbank.org
+United States,Northern America,Los Angeles,54630,2014,data.worldbank.org
+United States,Northern America,Miami,54630,2014,data.worldbank.org
+United States,Northern America,New York,54630,2014,data.worldbank.org
+United States,Northern America,Oakland,54630,2014,data.worldbank.org
+United States,Northern America,Orlando,54630,2014,data.worldbank.org
+United States,Northern America,Phoenix,54630,2014,data.worldbank.org
+United States,Northern America,Pittsburgh,54630,2014,data.worldbank.org
+United States,Northern America,San Bernardino,54630,2014,data.worldbank.org
+United States,Northern America,San Diego,54630,2014,data.worldbank.org
+United States,Northern America,Snohomish County,54630,2014,data.worldbank.org
+United States,Northern America,Stockton,54630,2014,data.worldbank.org
+Uruguay,Latin America,Montevideo,16807,2014,data.worldbank.org
+Venezuela,Latin America,Caracas,12772,2012,data.worldbank.org
+Venezuela,Latin America,Merida,12772,2012,data.worldbank.org
+Venezuela,Latin America,Barquisimeto,12772,2012,data.worldbank.org

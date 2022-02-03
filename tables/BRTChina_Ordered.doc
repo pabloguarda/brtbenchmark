@@ -1,0 +1,24 @@
+
+<table style="text-align:center"><caption><strong>Regression coefficients for fixed effects models compared with the pooled OLS model coefficients</strong></caption>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td colspan="6"><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="6" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td>m1</td><td>m2</td><td>m3</td><td>m4</td><td>m5</td><td>m6</td></tr>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">log(corridor_length)</td><td>0.056 (0.100)</td><td>0.680 (1.200)</td><td>0.276 (0.700)</td><td>0.103 (0.100)</td><td>0.118 (0.300)</td><td>0.260 (0.700)</td></tr>
+<tr><td style="text-align:left">network_length</td><td>-0.001 (-0.100)</td><td>0.003 (0.400)</td><td>0.003 (0.500)</td><td></td><td></td><td>-0.00004<sup>***</sup> (0.000)</td></tr>
+<tr><td style="text-align:left">metro_length</td><td>-0.005 (-0.900)</td><td>0.001 (0.200)</td><td>-0.003 (-0.700)</td><td>0.002 (0.300)</td><td></td><td>-0.011 (-2.400)</td></tr>
+<tr><td style="text-align:left">network_length > 0</td><td></td><td></td><td></td><td></td><td>0.241 (0.400)</td><td></td></tr>
+<tr><td style="text-align:left">metro_length > 0</td><td></td><td></td><td></td><td></td><td>0.659 (1.300)</td><td></td></tr>
+<tr><td style="text-align:left">log(pop_density)</td><td>0.486 (1.900)</td><td>0.334 (0.900)</td><td>0.406 (1.900)</td><td>1.238 (1.100)</td><td>0.358 (2.100)</td><td>0.636 (2.800)</td></tr>
+<tr><td style="text-align:left">factor(country == "China")</td><td>-1.723 (-1.700)</td><td>-2.434 (-1.700)</td><td></td><td></td><td>-1.633 (-1.900)</td><td>-0.462 (-0.600)</td></tr>
+<tr><td style="text-align:left">factor(continent == "Latin America")</td><td></td><td></td><td></td><td></td><td></td><td>2.691 (4.100)</td></tr>
+<tr><td style="text-align:left">metro_length:factor(country == "China")</td><td>0.006 (0.900)</td><td>0.030 (1.200)</td><td></td><td></td><td></td><td>0.013 (2.200)</td></tr>
+<tr><td style="text-align:left">year == 2013</td><td></td><td></td><td>0.400 (0.800)</td><td>0.334<sup>*</sup> (0.200)</td><td>0.549 (1.100)</td><td></td></tr>
+<tr><td style="text-align:left">metro_length > 0TRUE:factor(country == "China")</td><td></td><td></td><td></td><td></td><td>1.046 (0.700)</td><td></td></tr>
+<tr><td style="text-align:left">1| 2</td><td>-8.869 (-500.400)</td><td>-7.178<sup>***</sup> (-0.200)</td><td>-7.194 (-446.500)</td><td>-2.128 (-44.100)</td><td>-7.679<sup>***</sup> (-0.400)</td><td>-4.328<sup>***</sup> (-0.300)</td></tr>
+<tr><td style="text-align:left">2| 3</td><td>2.866<sup>***</sup> (1.100)</td><td>4.013<sup>***</sup> (1.500)</td><td>3.413<sup>*</sup> (1.900)</td><td>10.301<sup>***</sup> (1.300)</td><td>3.193<sup>*</sup> (1.800)</td><td>5.896<sup>**</sup> (3.000)</td></tr>
+<tr><td style="text-align:left">3| 4</td><td>4.567<sup>***</sup> (1.700)</td><td>6.607<sup>***</sup> (2.300)</td><td>5.361<sup>*</sup> (2.800)</td><td>12.016<sup>***</sup> (1.500)</td><td>5.151<sup>*</sup> (2.800)</td><td>8.332<sup>**</sup> (3.900)</td></tr>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">AIC</td><td>114.93</td><td>67.38</td><td>144.82</td><td>34.64</td><td>167.92</td><td>149.97</td></tr>
+<tr><td style="text-align:left">Log-likelihood</td><td>-48.47</td><td>-24.69</td><td>-64.41</td><td>-10.32</td><td>-73.96</td><td>-64.99</td></tr>
+<tr><td style="text-align:left">Observations</td><td>49</td><td>31</td><td>64</td><td>16</td><td>80</td><td>80</td></tr>
+<tr><td colspan="7" style="border-bottom: 1px solid black"></td></tr><tr><td colspan="7" style="text-align:left"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>

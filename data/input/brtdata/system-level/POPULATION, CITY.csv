@@ -1,0 +1,201 @@
+Region,Country,City,Value,Year,Source
+Africa,Nigeria,Lagos,22583305,2014 (Projection based on population growth rate of 3.2% from Census 2006. Supplied by Lagos Bureau of Statistics),www.lagosstate.gov.ng
+Africa,South Africa,Cape Town,3740026,2011,www.capetown.gov.za
+Africa,South Africa,Johannesburg,957441,2011,census2011.adrianfrith.com
+Asia,China,Beijing,12265000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Changde,1401000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Changzhou,2305000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Chengdu,7415590,2010,chengdu.isfoundhere.com
+Asia,China,Chongqing,17791000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Dalian,2992000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Guangzhou,6780000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Hangzhou,4454000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Hefei,2222000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Jinan,4340000,2015,Jinan Public Transport Research Center
+Asia,China,Kunming,2727000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Lanzhou,2064000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Lianyungang,967000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Urumqi,2518000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Xiamen,1909000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Yancheng,760000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Yichang,1049363,2010,www.citypopulation.de
+Asia,China,Yinchuan,1130000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Zaozhuang,2258000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,China,Zhengzhou,5872000,2013,China City Statistical Yearbook. Beijing: National Statistics Bureau Press
+Asia,India,Ahmedabad,5726000,2010,www.unhabitat.org
+Asia,India,Bhopal,1843000,2011,sustainablecitiescollective.com
+Asia,India,Indore,1960631,2011,censusindia.gov.in
+Asia,India,Jaipur,3136000,2010,www.unhabitat.org
+Asia,India,Pune,3115431,2011,www.census2011.co.in
+Asia,India,Rajkot,1286995,2011,censusindia.gov.in
+Asia,India,Surat,4462002,2011,censusindia.gov.in
+Asia,Indonesia,Jakarta,9607787,2011,www.bps.go.id
+Asia,Iran,Tabriz,2383294,2012,Census of the Islamic Republic of Iran
+Asia,Iran,Tehran,8244535,2012,Census of the Islamic Republic of Iran
+Asia,Israel,Haifa,271400,2012,www1.haifa.muni.il
+Asia,Japan,Kesennuma - Tome,176643,"2010, population of Tome, Minamisanriku and Kesennuma",www.stat.go.jp
+Asia,Japan,Nagoya,2262176,2013,www.city.nagoya.jp
+Asia,Malaysia,Subang Jaya,708296,2010,Department of Statistics Malaysia Census
+Asia,Pakistan,Islamabad - Rawalpindi,3871000,"2015, population of both cities",www.cia.gov
+Asia,Pakistan,Lahore,7132000,2010,UN Habitat
+Asia,Republic of Korea,Seoul,10442426,2012,www.index.go.kr
+Asia,Taiwan,Chiayi,270872,2013,www.citypopulation.de
+Asia,Taiwan,Taichung,2701661,2013,www.citypopulation.de
+Asia,Taiwan,Taipei,2618772,2012,eng.stat.gov.tw
+Asia,Thailand,Bangkok,8305218,2010,"2010 Population and Housing Census, National Statistical Office, Ministry of Information and Communication Technology"
+Europe,Belgium,Liège,195414,2013,www.liege.be
+Europe,Czech Republic,Prague,1268796,2011,www.czso.cz
+Europe,Finland,Helsinki,614074,2014,vrk.fi
+Europe,France,Belfort,50078,2010,www.insee.fr
+Europe,France,Caen,108954,2010,www.insee.fr
+Europe,France,Cannes,137757,"2010, population of Cannes, Le Cannet and Mandelieu-la-Napoule",www.insee.fr
+Europe,France,Châlon-sur-Saône,44985,2010,www.insee.fr
+Europe,France,Douai,42197,2010,www.insee.fr
+Europe,France,Evry,52802,2010,www.evry.fr
+Europe,France,La Rochelle,75170,2010,www.insee.fr
+Europe,France,Lille,227560,2010,www.insee.fr
+Europe,France,Lorient,57204,2010,www.insee.fr
+Europe,France,Lyon,484344,2010,www.insee.fr
+Europe,France,Maubeuge,31046,2010,www.insee.fr
+Europe,France,Metz,120738,2010,www.insee.fr
+Europe,France,Nancy,105421,2010,www.insee.fr
+Europe,France,Nantes,284970,2010,www.insee.fr
+Europe,France,Nice,343304,2010,www.insee.fr
+Europe,France,Nîmes,146709,2012,www.insee.fr
+Europe,France,Paris,2243833,2010,www.insee.fr
+Europe,France,Rouen,110933,2010,www.insee.fr
+Europe,France,Saint-Nazaire,67097,2011,www.linternaute.com
+Europe,France,Strasbourg,272222,2011,www.insee.fr
+Europe,France,Toulouse,441802,2010,www.insee.fr
+Europe,Germany,Essen,566201,2011,ergebnisse.zensus2011.de
+Europe,Germany,Hamburg,1706696,2011,ergebnisse.zensus2011.de
+Europe,Germany,Oberhausen,209097,2013,www.citypopulation.de
+Europe,Ireland,Dublin,525383,2011,www.cso.ie
+Europe,Italy,Brescia,189085,2012,ISTAT
+Europe,Italy,Prato,184885,2012,ISTAT
+Europe,Netherlands,Almere,195846,2013,statline.cbs.nl
+Europe,Netherlands,Amsterdam,802938,2013,statline.cbs.nl
+Europe,Netherlands,Eindhoven,219456,2013,statline.cbs.nl
+Europe,Netherlands,Enschede,157962,2013,statline.cbs.nl
+Europe,Netherlands,Utrecht,323845,2013,statline.cbs.nl
+Europe,Portugal,Lisbon,547733,2011,www.ine.pt
+Europe,Spain,Barcelona,1615448,2011,barcelonacatalonia.cat
+Europe,Spain,Castellon,180185,2013,www.ine.es
+Europe,Spain,Madrid,3207247,2013,www.ine.es
+Europe,Spain,Granada,237540,2014,www.ine.es
+Europe,Sweden,Gothenburg,529343,2013,www.scb.se
+Europe,Sweden,Jonkoping,129889,2013,www.scb.se
+Europe,Sweden,Stockholm,889501,2013,www.scb.se
+Europe,Switzerland,Zurich,396389,2012,www.stadt-zuerich.ch
+Europe,Turkey,Istanbul,14160467,2014,www.istanbul.com
+Europe,United Kingdom,Bradford,523115,2012,www.ons.gov.uk
+Europe,United Kingdom,Cambridge,128000,2013,www.cambridgeshireinsight.org.uk
+Europe,United Kingdom,Crawley,107053,2012,www.ons.gov.uk
+Europe,United Kingdom,Edinburgh,477940,2012,www.ons.gov.uk
+Europe,United Kingdom,Fareham - Gosport,194203,"2011, population of both cities",documents.hants.gov.uk
+Europe,United Kingdom,Kent,199370,"2012, population of Dartford and Gravesham",www.ons.gov.uk
+Europe,United Kingdom,Leeds,750683,2012,www.ons.gov.uk
+Europe,United Kingdom,London,8308369,2012,www.ons.gov.uk
+Europe,United Kingdom,Luton,203641,2012,www.ons.gov.uk
+Europe,United Kingdom,Manchester,514417,2013,www.neighbourhood.statistics.gov.uk
+Europe,United Kingdom,Runcorn,61789,2011,www.citypopulation.de
+Europe,United Kingdom,Swansea,239600,2012,www.ons.gov.uk
+Europe,United Kingdom,York,197783,2012,www.ons.gov.uk
+Latin America,Argentina,Buenos Aires,2891082,2010,www.censo2010.indec.gov.ar
+Latin America,Argentina,Córdoba,1329604,2010,www2.cordoba.gov.ar
+Latin America,Argentina,Rosario,909866,2010,www.rosario.gov.ar
+Latin America,Brazil,Belém,1439561,2015,ftp.ibge.gov.br
+Latin America,Brazil,Belo Horizonte,2502557,2015,ftp.ibge.gov.br
+Latin America,Brazil,Blumenau,338876,2015,ftp.ibge.gov.br
+Latin America,Brazil,Brasília,2914830,2015,ftp.ibge.gov.br
+Latin America,Brazil,Campinas,1164098,2015,ftp.ibge.gov.br
+Latin America,Brazil,Campo Grande,853622,2015,ftp.ibge.gov.br
+Latin America,Brazil,Caxias do Sul,474853,2015,ftp.ibge.gov.br
+Latin America,Brazil,Criciúma,206918,2015,ftp.ibge.gov.br
+Latin America,Brazil,Curitiba,1879355,2015,ftp.ibge.gov.br
+Latin America,Brazil,São Paulo - Metropolitan area,14360674,"2015, for cities Diadema, São Bernardo, Santo André, Mauá and São Paulo",ftp.ibge.gov.br
+Latin America,Brazil,Feira de Santana,617528,2015,ftp.ibge.gov.br
+Latin America,Brazil,Fortaleza,2591188,2015,ftp.ibge.gov.br
+Latin America,Brazil,Goiânia,1430697,2015,ftp.ibge.gov.br
+Latin America,Brazil,Guarulhos,1324781,2015,ftp.ibge.gov.br
+Latin America,Brazil,Jaboatão dos Guararapes,686122,2015,ftp.ibge.gov.br
+Latin America,Brazil,João Pessoa,791438,2015,ftp.ibge.gov.br
+Latin America,Brazil,Joinville,562151,2015,ftp.ibge.gov.br
+Latin America,Brazil,Juiz de Fora,555284,2015,ftp.ibge.gov.br
+Latin America,Brazil,Londrina,548249,2015,ftp.ibge.gov.br
+Latin America,Brazil,Maceió,1013773,2015,ftp.ibge.gov.br
+Latin America,Brazil,Natal,869954,2015,ftp.ibge.gov.br
+Latin America,Brazil,Niterói,496696,2015,ftp.ibge.gov.br
+Latin America,Brazil,Olinda,810826,"2015, for cities Igarassu, Olinda, Abreu e Lima and Paulista",ftp.ibge.gov.br
+Latin America,Brazil,Porto Alegre,1476867,2015,ftp.ibge.gov.br
+Latin America,Brazil,Recife,1617183,2015,ftp.ibge.gov.br
+Latin America,Brazil,Rio de Janeiro,6476631,2015,ftp.ibge.gov.br
+Latin America,Brazil,Salvador,2921087,2015,ftp.ibge.gov.br
+Latin America,Brazil,Santos,433966,2015,ftp.ibge.gov.br
+Latin America,Brazil,São Paulo,11967825,2015,ftp.ibge.gov.br
+Latin America,Brazil,Sorocaba,644919,2015,ftp.ibge.gov.br
+Latin America,Brazil,Sumaré,265955,2015,ftp.ibge.gov.br
+Latin America,Brazil,Teresina,844245,2015,ftp.ibge.gov.br
+Latin America,Brazil,Uberaba,322126,2015,ftp.ibge.gov.br
+Latin America,Brazil,Uberlândia,662362,2015,ftp.ibge.gov.br
+Latin America,Chile,Santiago,5879000,2010,UN-Habitat
+Latin America,Colombia,Barranquilla,1386865,2011,www.barranquilla.gov.co
+Latin America,Colombia,Bogotá,7760500,2014,www.citypopulation.de
+Latin America,Colombia,Bucaramanga,525119,2011,www.bucaramanga.gov.co
+Latin America,Colombia,Cali,2344703,2014,planeacion.cali.gov.co
+Latin America,Colombia,Medellín,2223078,,pt.wikipedia.org
+Latin America,Colombia,Pereira,469644,2015,www.dane.gov.co
+Latin America,Ecuador,Guayaquil,2690000,2010,UN-Habitat
+Latin America,Ecuador,Quito,1619791,2010,"Population and housing census. CPV 2001, Instituto Nacional de Estadística y Censos INEC."
+Latin America,El Salvador,Gran San Salvador,2177432,2009,en.wikipedia.org
+Latin America,Guatemala,Guatemala,1533461,"2013, population of Guatemala City and Villa Nueva",www.ine.gob.gt
+Latin America,Mexico,Chihuahua,819543,2010,www3.inegi.org.mx
+Latin America,Mexico,Ecatepec,2020686,"2010, population of Ecatepec and Tecámac",cuentame.inegi.org.mx
+Latin America,Mexico,Guadalajara,1494134,2010,Instituto Nacional de Estadística y Geografía (INEGI)
+Latin America,Mexico,Guadalupe,690600,2014,www.citypopulation.de
+Latin America,Mexico,León de los Aldama,1278087,2005,www.inegi.gob.mx
+Latin America,Mexico,Mexico City,8851080,,cuentame.inegi.org.mx
+Latin America,Mexico,Juárez,1332131,2010,www3.inegi.org.mx
+Latin America,Mexico,Monterrey,1135550,2010,www.municipios.mx
+Latin America,Mexico,Nezahualcoyotl,2155996,"2010, population of Nezahualcoyotl, Chimalhuacán and Delegación Venustiano Carranza (DF)",www3.inegi.org.mx
+Latin America,Mexico,Puebla,1539819,2010,www3.inegi.org.mx
+Latin America,Panama,Panama,813097,,es.wikipedia.org
+Latin America,Peru,Lima,7605742,,Global Urban Indicator-Selected statistics
+Latin America,Trinidad and Tobago,Port of Spain - Arima,442579,"2000, population of Port of Spain, San Juan-Laventille, Tanapuna-Piarco and Arima",en.wikipedia.org
+Latin America,Uruguay,Montevideo,1335484,2011,INE
+Latin America,Venezuela,Caracas,1943901,2011,INE
+Latin America,Venezuela,Merida,250303,2011,www.censoinfo.ine.gob.ve
+Latin America,Venezuela,Barquisimeto,1242351,2011,www.censoinfo.ine.gob.ve
+Northern America,Canada,Brampton,523911,2011,www12.statcan.gc.ca
+Northern America,Canada,Gatineau,265350,2011,www12.statcan.gc.ca
+Northern America,Canada,Halifax,390096,2011,www12.statcan.gc.ca
+Northern America,Canada,Ottawa,951727,2014,ottawa.ca
+Northern America,Canada,Vancouver,578041,2006,www12.statcan.gc.ca
+Northern America,Canada,Waterloo,98780,2011,www12.statcan.gc.ca
+Northern America,Canada,Winnipeg,663617,2011,www12.statcan.gc.ca
+Northern America,Canada,York Regional Municipality,1032524,2011,www12.statcan.gc.ca
+Northern America,United States,Albuquerque,556495,2013,quickfacts.census.gov
+Northern America,United States,Boston,645966,2013,quickfacts.census.gov
+Northern America,United States,Chicago,2714856,2012,quickfacts.census.gov
+Northern America,United States,Cleveland,396815,2010,US Census
+Northern America,United States,Eugene,156185,2010,US Census
+Northern America,United States,Everett,235682,"2012, population of Everett, Lynnwood, Edmonds, Shoreline",quickfacts.census.gov
+Northern America,United States,Kansas City,464310,2012,www.census.gov
+Northern America,United States,Las Vegas,606762,2013,www.lvcva.com
+Northern America,United States,Los Angeles,3792621,2010,factfinder2.census.gov
+Northern America,United States,Miami,413892,2012,quickfacts.census.gov
+Northern America,United States,New York,8405837,"2013, estimated by US Census Bureau",quickfacts.census.gov
+Northern America,United States,Oakland,400740,2012,quickfacts.census.gov
+Northern America,United States,Orlando,249562,2012,quickfacts.census.gov
+Northern America,United States,Phoenix,1488750,2012,quickfacts.census.gov
+Northern America,United States,Pittsburgh,306211,2012,quickfacts.census.gov
+Northern America,United States,San Bernardino,2101053,"2012, population of San Bernardino and Loma Linda",quickfacts.census.gov
+Northern America,United States,San Diego,1338348,2012,quickfacts.census.gov
+Northern America,United States,Snohomish County,713000,2010,The United State Census
+Northern America,United States,Stockton,302389,"2014, estimated by US Census Bureau",factfinder.census.gov
+Oceania,Australia,Adelaide,1168000,2010,UN Habitat
+Oceania,Australia,Brisbane,1970000,2010,UN Habitat
+Oceania,Australia,Sydney - Blacktown - Rouse Hill,307816,2010,www.abs.gov.au
+Oceania,Australia,Sydney - Liverpool - Parramatta,643702,2010,www.abs.gov.au
+Oceania,Australia,Sydney - Parramatta - Rouse Hill,469853,2011,Population of LGA: Parramatta Inner and North West+The Hills Shire+ Blacktown (without South East part).
+Oceania,New Zealand,Auckland,1507700,2012,www.stats.govt.nz
