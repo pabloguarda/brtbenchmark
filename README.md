@@ -13,5 +13,5 @@ This methodology was extended to compare BRT systems worldwide and to develop a 
   <img width="737" alt="Screen Shot 2022-02-03 at 2 33 08 PM" src="https://user-images.githubusercontent.com/25504487/152415769-439c6a38-a74a-4363-9a66-b268a7708a02.png">
   <img width="875" alt="Screen Shot 2022-02-03 at 2 33 02 PM" src="https://user-images.githubusercontent.com/25504487/152415740-62322554-0625-4871-a0d1-ed1f95c70857.png">
 </p>
-The dashboard can be accessed in this [link](https://pabloguarda.github.io/research/BRTChina/). 
+The dashboard can be accessed in this [https://pabloguarda.github.io/research/BRTChina/](link). 
 
