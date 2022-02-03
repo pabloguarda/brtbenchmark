@@ -1,2 +1,1 @@
-# BRTChina
- 
+Guarda, P., Velásquez, J.., Tun, T.H., Chen, X. and Zhong, G., 2017. Comparing Chinese and non-Chinese Bus Rapid Transit: Evidence from evaluation of global BRT based on BRT design indicators. Transportation Research Record 2647, 118–126.
