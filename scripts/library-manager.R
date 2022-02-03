@@ -4,7 +4,7 @@ options(install.packages.compile.from.source = "never")
 
 # - List of libraries ------------------------------------------------------------------
 
-libraries_tools <- c("tidyverse", 'Hmisc', 'visreg','XML')
+libraries_tools <- c("tidyverse", 'Hmisc', 'visreg','XML', 'gdata', 'weights','lubridate')
 libraries_tables <- c('stargazer', 'texreg', 'apsrtable', 'xtable','markdown' ) 
 libraries_graphics <- c('ggplot2','ggrepel',"ggjoy","ggthemes")
 libraries <- c(libraries_tools, libraries_tables, libraries_graphics)

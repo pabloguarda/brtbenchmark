@@ -54,7 +54,7 @@ strengths_weaknesses_China_year$dimension[strengths_weaknesses_China_year$id %in
 # strengths_weaknesses_China_year$dimension[strengths_weaknesses_China_year$id %in% itdp$ITDP2014[str_count(itdp$ITDP2014,"g")==1]] = "Point Deductions"
 
 strengths_weaknesses_China_year = merge(strengths_weaknesses_China_year,itdp2014[c("id","item")],by.x="id_variable",by.y ="id")
-strengths_weaknesses_China_year= rename(strengths_weaknesses_China_year,c(item="category"))
+strengths_weaknesses_China_year= plyr::rename(strengths_weaknesses_China_year,c(item="category"))
 
 # strengths_weaknesses_China_year$dimension[strengths_weaknesses_China_year$dimension=="Point Deductions"] = "Net Score"
 
@@ -94,7 +94,7 @@ strengths_weaknesses_China$dimension[strengths_weaknesses_China$id %in% c("total
 strengths_weaknesses_China$dimension[strengths_weaknesses_China$id %in% itdp$ITDP2014[str_count(itdp$ITDP2014,"g")==1]] = "Point Deductions"
 
 strengths_weaknesses_China = merge(strengths_weaknesses_China,itdp2014[c("id","item")],by.x="id_variable",by.y ="id")
-strengths_weaknesses_China= rename(strengths_weaknesses_China,c(item="category"))
+strengths_weaknesses_China= plyr::rename(strengths_weaknesses_China,c(item="category"))
 
 save(strengths_weaknesses_China,file=str_c(data.base,"output/strengths_weaknesses_China.Rdata"))
 write.csv(strengths_weaknesses_China,file = str_c(data.base,"output/strengths_weaknesses_China.csv"),row.names = FALSE, fileEncoding = "ISO-8859-1")

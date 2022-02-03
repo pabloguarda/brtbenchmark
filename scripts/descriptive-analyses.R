@@ -34,7 +34,7 @@ corridor_list = unique(rbind(data.frame(corridor_name = unique(scores2013$corrid
 #       aggregate(scores_table2013["corridor_length"],by=list(country = scores_table2013$country),FUN=function(x) round(length(x),1)),by = "country"
 # )
 # 
-# corridorslength2013_country =rename(corridorslength2013_country,c(corridor_length="corridors_length"))
+# corridorslength2013_country =plyr::rename(corridorslength2013_country,c(corridor_length="corridors_length"))
 # corridorslength2013_country$proportion = round(100*corridorslength2013_country$corridors_length/sum(corridorslength2013_country$corridors_length),1)
 # 
 # #2014
@@ -42,7 +42,7 @@ corridor_list = unique(rbind(data.frame(corridor_name = unique(scores2013$corrid
 #                                       by=list(country = scores_table2014$country)
 #                                       ,FUN=function(x) round(sum(x),1))
 # 
-# corridorslength2014_country =rename(corridorslength2014_country,c(corridor_length="corridors_length"))
+# corridorslength2014_country =plyr::rename(corridorslength2014_country,c(corridor_length="corridors_length"))
 # corridorslength2014_country$proportion = round(100*corridorslength2014_country$corridors_length/sum(corridorslength2014_country$corridors_length),1)
 # 
 # #Total length of corridors, number of corridors adding 2013 and 2014
@@ -52,7 +52,7 @@ corridor_list = unique(rbind(data.frame(corridor_name = unique(scores2013$corrid
 # corridorslength_country= aggregate(temp$corridors_length,
 #                                        by=list(country = temp$country)
 #                                        ,FUN=function(x) round(sum(x),1))
-# corridorslength_country =rename(corridorslength_country,c(x="corridors_length"))
+# corridorslength_country =plyr::rename(corridorslength_country,c(x="corridors_length"))
 # corridorslength_country$proportion = round(100*corridorslength_country$corridors_length/sum(corridorslength_country$corridors_length),1)
 # 
 # 
@@ -86,13 +86,13 @@ total_scores2013_mean_country= aggregate(scores_table2013[c("total_score")],
                                    ,FUN=function(x) round(mean(x),1))
 
 
-# total_scores2013_mean_country =rename(total_scores2013_mean_country,c(total_score="score"))
+# total_scores2013_mean_country =plyr::rename(total_scores2013_mean_country,c(total_score="score"))
 
 total_scores2014_mean_country= aggregate(scores_table2014[c("total_score")],
                                    by=list(country = scores_table2014$country)
                                    ,FUN=function(x) round(mean(x),1))
 
-# total_scores2014_mean_country =rename(total_scores2014_mean_country,c(total_score="total_score"))
+# total_scores2014_mean_country =plyr::rename(total_scores2014_mean_country,c(total_score="total_score"))
 
 table_total_scores = merge(total_scores2013_mean_country,total_scores2014_mean_country,by="country",all=TRUE)
 colnames(table_total_scores) = c("country","score2013","score2014")
@@ -322,14 +322,14 @@ km_year_china = merge(km_year_china,km_brt_year_china,by.x="year",by.y="year_cor
 km_year_china = merge(km_year_china,km_metro_year_china,by.x="year",by.y="year_metro_commenced",all.x=TRUE)
 km_year_china[is.na(km_year_china)] = 0
 
-scores2013 =rename(scores2013,c(QUALITY_OF_SERVICE_PASSENGER_INFORMATION_SYSTEMS="e"))
+scores2013 =plyr::rename(scores2013,c(QUALITY_OF_SERVICE_PASSENGER_INFORMATION_SYSTEMS="e"))
 
 save(km_year_china,file=str_c(data.base,"/output/Km_year_China.Rdata"))
 write.csv(km_year_china,file = str_c(data.base,"output/Km_year_China.csv"),row.names = FALSE, fileEncoding = "ISO-8859-1")
 
 
-km_year_china = rename(km_year_china,c(corridor_length_year="corridor_length_year_china"))
-km_year_china = rename(km_year_china,c(metro_length_year="metro_length_year_china"))
+km_year_china = plyr::rename(km_year_china,c(corridor_length_year_china="corridor_length_year"))
+km_year_china = plyr::rename(km_year_china,c(metro_length_year_china="metro_length_year"))
 
 
 #Joining the two databases
@@ -338,7 +338,7 @@ km_year = merge(km_year,km_year_china,by="year",all.x=TRUE)
 # km_year[is.na(km_year)==TRUE] = 0
 
 #Proportion Metro in China
-km_year_china$proportion_metro = with(km_year_china,metro_length_year_/(corridor_length_year+metro_length_year))
+km_year_china$proportion_metro = with(km_year_china,metro_length_year/(corridor_length_year+metro_length_year))
 
 save(km_year,file= str_c(data.base,"/output/Km_year.Rdata"))
 write.csv(km_year,file = str_c(data.base,"output/Km_year.csv"),row.names = FALSE, fileEncoding = "ISO-8859-1")
