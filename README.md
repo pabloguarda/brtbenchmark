@@ -1,4 +1,4 @@
-## Benchmarking of Bus Rapid Transit systems
+## Benchmarking of Bus Rapid Transit (BRT) systems
 
 This repository includes R code to reproduce the analyses of the following journal publication:
 
