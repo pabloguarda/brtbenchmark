@@ -1,0 +1,204 @@
+"continent","country","city","demand","system_length","productivity","speed","station_spacing"
+"Latin America","Argentina","Córdoba",58000,5.3,10943.4,NA,588.9
+"Latin America","Argentina","Buenos Aires",6e+05,38.5,15584.4,24,663.8
+"Latin America","Argentina","Rosario",2e+05,9.6,20833.3,15,320
+"Oceania","Australia","Adelaide",32000,12,2666.7,80,5000
+"Oceania","Australia","Sydney - Blacktown - Rouse Hill",NA,6.4,NA,18,711
+"Oceania","Australia","Sydney - Liverpool - Parramatta",10681,31,344.5,29,920
+"Oceania","Australia","Sydney - Parramatta - Rouse Hill",7660,11.7,654.7,29,861
+"Oceania","Australia","Brisbane",356800,28.4,12563.4,37.5,1153
+"Europe","Belgium","Liège",NA,6,NA,NA,375
+"Latin America","Brazil","Teresina",NA,1.5,NA,NA,750
+"Latin America","Brazil","Joinville",NA,9.2,NA,18.5,400
+"Latin America","Brazil","Brasília",301000,91.1,3304.1,NA,949
+"Latin America","Brazil","Fortaleza",286777,8.5,33738.5,23,293.1
+"Latin America","Brazil","Sao Paulo",3194000,129.8,24607.1,19.3,355.3
+"Latin America","Brazil","Curitiba",561000,83.9,6686.5,NA,682.1
+"Latin America","Brazil","Juiz de Fora",NA,3.1,NA,NA,387.5
+"Latin America","Brazil","Guarulhos",30000,3.7,8108.1,NA,925
+"Latin America","Brazil","Maceió",NA,15,NA,NA,750
+"Latin America","Brazil","Olinda",447695,13.5,33162.6,NA,NA
+"Latin America","Brazil","Campinas",2e+05,13.4,14925.4,NA,557.3
+"Latin America","Brazil","Criciúma",10470,8,1308.8,40,500
+"Latin America","Brazil","Porto Alegre",491600,62,7929,19.8,570.6
+"Latin America","Brazil","Santos",1705,2.6,655.8,13,300
+"Latin America","Brazil","Natal",NA,3.5,NA,NA,437.5
+"Latin America","Brazil","Belém",1e+05,6,16666.7,27.7,NA
+"Latin America","Brazil","Caxias do Sul",NA,9.6,NA,NA,266.7
+"Latin America","Brazil","Recife",701259,25.4,27608.6,NA,1494.1
+"Latin America","Brazil","Uberlândia",22000,7.5,2933.3,25,500
+"Latin America","Brazil","Niterói",250000,6,41666.7,NA,600
+"Latin America","Brazil","Blumenau",82000,10.5,7809.5,20.6,524.9
+"Latin America","Brazil","Londrina",37000,6.8,5441.2,NA,308.3
+"Latin America","Brazil","Jaboatão dos Guararapes",NA,1.5,NA,NA,500
+"Latin America","Brazil","Rio de Janeiro",3132600,140,22375.7,21.8,651.2
+"Latin America","Brazil","Goiânia",378300,26.5,14275.5,17.8,602.3
+"Latin America","Brazil","João Pessoa",276243,7.3,37841.5,18,560
+"Latin America","Brazil","Campo Grande",73000,7.32,9972.7,17.8,NA
+"Latin America","Brazil","Belo Horizonte",1047374,39.3,26650.7,17.6,473.5
+"Latin America","Brazil","Uberaba",68000,5,13600,25,500
+"Latin America","Brazil","Sumaré",75000,32.7,2293.6,NA,1090
+"Latin America","Brazil","Feira de Santana",NA,1.2,NA,NA,300
+"Latin America","Brazil","São Paulo - Metropolitan area",360000,45,8000,21,625
+"Latin America","Brazil","Sorocaba",NA,2.8,NA,NA,NA
+"Latin America","Brazil","Salvador",NA,8.2,NA,NA,341.7
+"Northern America","Canada","Winnipeg",166000,3.6,46111.1,NA,NA
+"Northern America","Canada","Ottawa",220000,35.4,6214.7,45,621.1
+"Northern America","Canada","Waterloo",14000,52,269.2,NA,1486
+"Northern America","Canada","Gatineau",NA,12,NA,NA,1200
+"Northern America","Canada","Halifax",7266,39.44,184.2,NA,NA
+"Northern America","Canada","Brampton",37357,84.5,442.1,NA,1157.5
+"Northern America","Canada","York Regional Municipality",35300,59,598.3,NA,NA
+"Northern America","Canada","Vancouver",1e+05,27,3703.7,23,1900
+"Latin America","Chile","Santiago",340800,91.85,3710.4,26.2,416.1
+"Asia","China","Yichang",240000,13,18461.5,20,590.9
+"Asia","China","Yancheng",33000,16,2062.5,18,666.7
+"Asia","China","Yinchuan",87000,17,5117.6,15,772.7
+"Asia","China","Chengdu",NA,28.8,NA,26,1028.6
+"Asia","China","Hefei",65250,7.2,9062.5,16,800
+"Asia","China","Guangzhou",850000,22.5,37777.8,23,865.4
+"Asia","China","Dalian",87000,13.7,6350.4,24,1245.5
+"Asia","China","Lianyungang",20000,34,588.2,18,1172.4
+"Asia","China","Jinan",220000,83.8,2625.3,17.5,829.7
+"Asia","China","Hangzhou",260000,55.4,4693.1,18,1103
+"Asia","China","Xiamen",340000,48.9,6953,27,1516
+"Asia","China","Lanzhou",290000,9.1,31868.1,22,606.7
+"Asia","China","Beijing",305000,74.5,4094,26,967.5
+"Asia","China","Zhengzhou",650000,30.5,21311.5,15,802.6
+"Asia","China","Chongqing",12000,11.5,1043.5,31,1440
+"Asia","China","Changzhou",350000,49.9,7014,18,875.4
+"Asia","China","Urumqi",380000,40.2,9452.7,13,650
+"Asia","China","Changde",NA,18.9,NA,31,787.5
+"Asia","China","Kunming",156000,46.7,3340.5,18,NA
+"Asia","China","Zaozhuang",30000,33,909.1,30,1375
+"Latin America","Colombia","Barranquilla",115000,14,8214.3,22,933.3
+"Latin America","Colombia","Bucaramanga",72000,8.95,8044.7,20,530
+"Latin America","Colombia","Perira",96000,15.5,6193.5,20,553.6
+"Latin America","Colombia","Bogota",2213236,112.9,19603.5,26.2,836.3
+"Latin America","Colombia","Cali",471361,36.07,13068,17.8,736.1
+"Latin America","Colombia","Medellin",60000,18,3333.3,16,640
+"Europe","Czech Republic","Prague",18000,10.25,1756.1,21.8,NA
+"Latin America","Ecuador","Quito",833095,69.3,12021.6,17.8,561
+"Latin America","Ecuador","Guayaquil",310000,45.4,6828.2,21.5,400
+"Latin America","El Salvador","Gran San Salvador",27000,6.4,4218.8,15.4,711.1
+"Europe","Finland","Helsinki",30000,27.5,1090.9,26,750
+"Europe","France","Caen",48000,15.7,3057.3,20,500
+"Europe","France","Belfort",32000,4.5,7111.1,21,300
+"Europe","France","La Rochelle",5600,6,933.3,NA,NA
+"Europe","France","Nice",58000,NA,NA,NA,NA
+"Europe","France","Evry",NA,18,NA,21,580.6
+"Europe","France","Lorient",45000,4.6,9782.6,19,NA
+"Europe","France","Metz",25000,17.9,1396.6,20,484
+"Europe","France","Maubeuge",5000,8.4,595.2,NA,NA
+"Europe","France","Paris",89500,41.2,2172.3,23.5,758
+"Europe","France","Nancy",37000,12,3083.3,14.5,370
+"Europe","France","Nantes",25000,6.9,3623.2,21,460
+"Europe","France","Nîmes",7719,4.5,1715.3,22.5,460
+"Europe","France","Toulouse",13300,11,1209.1,25,600
+"Europe","France","Douai",1800,34,52.9,24.7,400
+"Europe","France","Cannes",NA,11,NA,NA,440
+"Europe","France","Lyon",4700,4,1175,17,NA
+"Europe","France","Rouen",42000,31.1,1350.5,17.5,586.8
+"Europe","France","Saint-Nazaire",10000,9,1111.1,18.4,474
+"Europe","France","Strasbourg",9000,5.2,1730.8,18,472
+"Europe","France","Châlon-sur-Saône",5300,6.4,828.1,19,426
+"Europe","France","Lille",NA,5.5,NA,NA,NA
+"Europe","Germany","Hamburg",60000,15.1,3973.5,18.8,503.3
+"Europe","Germany","Essen",17000,24.2,702.5,16.5,NA
+"Europe","Germany","Oberhausen",25000,6.8,3676.5,34,1133.3
+"Latin America","Guatemala","Guatemala City",210000,35,6000,26.5,1200
+"Asia","India","Rajkot",7500,10.7,700.9,NA,600
+"Asia","India","Ahmedabad",130000,82,1585.4,24,645.7
+"Asia","India","Surat",13500,10,1350,NA,526.3
+"Asia","India","Bhopal",70000,24,2916.7,NA,585.4
+"Asia","India","Pune - Primpi-Chinchwad",67000,29.2,2294.5,NA,730
+"Asia","India","Indore",45500,11.45,3973.8,NA,550
+"Asia","India","Jaipur",6622,7.1,932.7,18,710
+"Asia","Indonesia","Jakarta",370000,206.75,1789.6,19,971
+"Asia","Iran","Tabriz",NA,18,NA,NA,NA
+"Asia","Iran","Tehran",2e+06,129.9,15396.5,19,915
+"Asia","Iran","Isfahan",135000,17,7941.2,NA,531.3
+"Europe","Ireland","Dublin",34000,8.4,4047.6,NA,NA
+"Asia","Israel","Haifa",92000,40,2300,24.7,519
+"Europe","Italy","Brescia",12000,27.8,431.7,15.5,NA
+"Europe","Italy","Prato",23000,19.42,1184.3,19.6,262.4
+"Asia","Japan","Kesennuma - Tome",NA,21.7,NA,NA,1276
+"Asia","Japan","Nagoya",9000,6.8,1323.5,30,720
+"Asia","Malaysia","Subang Jaya",NA,5.4,NA,NA,771
+"Latin America","Mexico","Ecatepec",140000,16.5,8484.8,25,750
+"Latin America","Mexico","Pachuca",114000,16.5,6909.1,NA,634.6
+"Latin America","Mexico","Mexico City",1065000,125,8520,NA,706.2
+"Latin America","Mexico","Chihuahua",50000,22.4,2232.1,NA,622.2
+"Latin America","Mexico","León de los Aldama",220500,31.8,6934,25.5,400
+"Latin America","Mexico","Juárez",50000,25,2000,NA,757.6
+"Latin America","Mexico","Guadalupe",15000,7.6,1973.7,20,447.1
+"Latin America","Mexico","Monterrey",NA,30.1,NA,NA,771.8
+"Latin America","Mexico","Guadalajara",127000,16,7937.5,28,590
+"Latin America","Mexico","Nezahualcoyotl",130000,16.9,7692.3,16.9,625.9
+"Latin America","Mexico","Puebla",251704,32.3,7792.7,NA,489.4
+"Europe","Netherlands","Utrecht",40000,8.2,4878,NA,680
+"Europe","Netherlands","Eindhoven",12000,15,800,21,NA
+"Europe","Netherlands","Enschede",2568,23,111.7,23.8,600
+"Europe","Netherlands","Amsterdam",40000,56.7,705.5,35,1718.2
+"Europe","Netherlands","Almere",16000,58,275.9,24.5,NA
+"Oceania","New Zealand","Auckland",22900,6.2,3693.5,31,1240
+"Africa","Nigeria","Lagos",2e+05,22,9090.9,30,800
+"Asia","Pakistan","Islamabad - Rawalpindi",125000,22.5,5555.6,NA,937.5
+"Asia","Pakistan","Lahore",180000,27,6666.7,26,1000
+"Latin America","Panama","Panama",NA,5,NA,NA,294.1
+"Latin America","Peru","Lima",350000,26,13461.5,25.5,700
+"Europe","Portugal","Lisbon",27000,4.8,5625,16,NA
+"Asia","Republic of Korea","Seoul",4e+05,43,9302.3,17,NA
+"Africa","South Africa","Cape Town",20000,17,1176.5,NA,485.7
+"Africa","South Africa","Johannesburg",42000,43.5,965.5,30,1384
+"Europe","Spain","Madrid",112000,16.1,6956.5,28.5,860
+"Europe","Spain","Granada",27667,4.2,6587.4,NA,381.8
+"Europe","Spain","Barcelona",15300,21.8,701.8,10,589
+"Europe","Spain","Castellón",NA,NA,NA,NA,NA
+"Europe","Sweden","Stockholm",57000,40,1425,16.5,450
+"Europe","Sweden","Jonkoping",18000,39.2,459.2,22,NA
+"Europe","Sweden","Gothenburg",25000,16.5,1515.2,21,688
+"Europe","Switzerland","Zurich",14000,11,1272.7,19,407
+"Asia","Taiwan","Chiayi",2000,29.65,67.5,NA,1647
+"Asia","Taiwan","Taipei",1200000,60,20000,19.5,380
+"Asia","Taiwan","Taichung",50000,17.2,2907,NA,820
+"Asia","Thailand","Bangkok",15000,15.3,980.4,26,1400
+"Latin America","Trinidad and Tobago","Port of Spain - Arima",NA,24.9,NA,NA,NA
+"Europe","Turkey","Istanbul",750000,52,14423.1,35,1181.8
+"Europe","United Kingdom","Crawley",6000,24,250,20,400
+"Europe","United Kingdom","Fareham - Gosport",NA,3.4,NA,NA,486
+"Europe","United Kingdom","Luton",30000,5,6000,NA,NA
+"Europe","United Kingdom","Bradford",5467,2.74,1995.3,NA,342.5
+"Europe","United Kingdom","Runcorn",NA,19.3,NA,31,507.9
+"Europe","United Kingdom","Manchester",21000,15.5,1354.8,16,NA
+"Europe","United Kingdom","Swansea",5000,13.5,370.4,NA,NA
+"Europe","United Kingdom","Leeds",31000,4.2,7381,NA,525
+"Europe","United Kingdom","Kent",5726,15,381.7,NA,NA
+"Europe","United Kingdom","Cambridge",12000,40,300,60,3125
+"Europe","United Kingdom","Edinburgh",44000,5,8800,NA,NA
+"Europe","United Kingdom","York",5500,5,1100,NA,NA
+"Europe","United Kingdom","London",9000,20,450,NA,NA
+"Northern America","United States","Cleveland",15800,11.4,1386,17.7,317
+"Northern America","United States","Snohomish County",4878,28.9,168.8,NA,NA
+"Northern America","United States","Stockton",5322,26.22,203,NA,874
+"Northern America","United States","Pittsburgh",41861,31,1350.4,47.2,NA
+"Northern America","United States","New York",199566,79.78,2501.5,16.4,805
+"Northern America","United States","Alexandria - Arlington",1412,6.4,220.6,NA,581.8
+"Northern America","United States","Eugene",10000,18.88,529.7,24,787
+"Northern America","United States","Albuquerque",10542,17.7,595.6,28,1106.3
+"Northern America","United States","Los Angeles",33000,22.9,1441,32,1635.7
+"Northern America","United States","Phoenix",2372,128.01,18.5,NA,402
+"Northern America","United States","Las Vegas",34189,63.05,542.3,21,0.7
+"Northern America","United States","Kansas City",13900,35.2,394.9,22.5,800
+"Northern America","United States","Chicago",12500,25.4,492.1,25.4,805
+"Northern America","United States","San Bernardino",NA,25.7,NA,NA,1606.3
+"Northern America","United States","San Diego",NA,14,NA,38.4,777.8
+"Northern America","United States","Miami",23000,34,676.5,45,607.1
+"Northern America","United States","Boston",33386,10.3,3241.4,17.3,322
+"Northern America","United States","Orlando",4475,5.1,877.5,NA,300
+"Northern America","United States","Everett",4200,26.9,156.1,NA,1921.4
+"Northern America","United States","Oakland",13000,23.8,546.2,NA,901
+"Latin America","Uruguay","Montevideo",25000,6.3,3968.3,NA,370
+"Latin America","Venezuela","Caracas",30000,5.2,5769.2,NA,470
+"Latin America","Venezuela","Barquisimeto",132830,23.9,5557.7,26,582.9
+"Latin America","Venezuela","Merida",30000,13.1,2290.1,25,625

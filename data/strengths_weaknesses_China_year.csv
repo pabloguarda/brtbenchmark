@@ -1,0 +1,48 @@
+"type","id_variable","variable","test","Difference","Mean.x","Mean.y","Std..Err","t.value","df","p.value","x_difference"
+"strengths","f5","Bicycle lanes","two.tailed",24.493,47.826,23.333,8.405,2.914,36.464,0.006,105
+"strengths","d5","Sliding doors in BRT stations","two.tailed",41.819,82.609,40.789,9.874,4.235,45.781,0,102.5
+"strengths","a3","Off-board fare collection","two.tailed",25.696,95.574,69.878,5.695,4.512,96.992,0,36.8
+"strengths","c5","Pavement quality","two.tailed",24.142,97.826,73.684,5.118,4.717,95.824,0,32.8
+"strengths","b3","Control center","two.tailed",20.206,95.652,75.446,5.545,3.644,52.187,0.001,26.8
+"strengths","e2","Passenger information","two.tailed",18.207,86.957,68.75,6.016,3.026,53.375,0.004,26.5
+"strengths","d3","Number of doors on bus","two.tailed",14.071,95.652,81.582,6.05,2.326,65.606,0.023,17.2
+"strengths","e","Communications and Marketing","two.tailed",12.746,86.957,74.211,5.624,2.266,44.652,0.028,17.2
+"strengths","d2","Safe and comfortable stations","two.tailed",10.564,88.413,77.849,5.205,2.03,56.067,0.047,13.6
+"strengths","b6","Hours of operations","two.tailed",10,100,90,2.511,3.982,74,0,11.1
+"strengths","g3","Lack of enforcement of right-of-way","two.tailed",7.471,-1.739,-9.211,2.877,2.597,87.435,0.011,-81.1
+"strengths","g5","Overcrowding","two.tailed",24.145,-2.609,-26.754,5.63,4.288,96.919,0,-90.2
+"strengths","g4","Significant gap between bus floor and station platform","two.tailed",8.421,0,-8.421,2.287,3.682,75,0,-100
+"strengths","g8","Poorly-maintained Busway, Buses, Stations and Technology Systems","two.tailed",4.309,0,-4.309,1.202,3.586,75,0.001,-100
+"weaknesses","f1","Universal access","two.tailed",-70.575,2.896,73.471,4.038,-17.479,96.808,0,-96.1
+"weaknesses","a4","Intersection treatments","two.tailed",-64.969,16.665,81.634,8.225,-7.899,27.498,0,-79.6
+"weaknesses","c1","Passing lanes at stations","two.tailed",-31.364,13.043,44.408,9.053,-3.465,50.444,0.001,-70.6
+"weaknesses","b2","Express, limited, and local services","two.tailed",-24.811,11.596,36.407,8.341,-2.975,53.212,0.004,-68.1
+"weaknesses","c3","Stations set back from intersections","two.tailed",-54.125,36.226,90.351,9.316,-5.81,26.69,0,-59.9
+"weaknesses","b5","Demand Profile","two.tailed",-51.621,34.783,86.404,10.88,-4.744,28.815,0,-59.7
+"weaknesses","c2","Minimizing bus emissions","two.tailed",-29.295,20.27,49.564,5.767,-5.08,87.967,0,-59.1
+"weaknesses","f3","Pedestrian access","two.tailed",-35.52,40.583,76.103,7.508,-4.731,29.9,0,-46.7
+"weaknesses","f","Integration and Access","two.tailed",-17.281,31.361,48.642,4.262,-4.055,31.488,0,-35.5
+"weaknesses","c","Infrastructure","two.tailed",-21.021,40.061,61.082,4.453,-4.721,38.737,0,-34.4
+"weaknesses","d1","Distances between stations","two.tailed",-27.689,56.522,84.211,11.377,-2.434,29.321,0.021,-32.9
+"weaknesses","total_score","Total Score","two.tailed",-7.007,62.565,69.572,2.67,-2.625,44.293,0.012,-10.1
+"weaknesses","score","Score","two.tailed",-7.187,65.609,72.796,2.377,-3.024,48.479,0.004,-9.9
+"weaknesses","g2","Peak passengers per hour per direction (pphpd) below 1,000","two.tailed",-19.108,-21.739,-2.632,8.986,-2.126,23.973,0.044,726
+"no_difference","g1","Commercial speeds","two.tailed",-6.505,-13.478,-6.974,5.972,-1.089,28.807,0.285,93.3
+"no_difference","f6","Bicycle-sharing integration","two.tailed",1.716,4.348,2.632,4.724,0.363,30.38,0.719,65.2
+"no_difference","c4","Center stations","two.tailed",16.476,71.739,55.263,11.288,1.46,36.838,0.153,29.8
+"no_difference","f2","Integration with other public transport","two.tailed",13.122,63.778,50.657,9.781,1.342,35.63,0.188,25.9
+"no_difference","a5","Platform-level boarding","two.tailed",13.366,88.617,75.251,6.857,1.949,65.699,0.056,17.8
+"no_difference","e1","Branding","two.tailed",9.104,86.957,77.853,7.296,1.248,49.312,0.218,11.7
+"no_difference","b1","Multiple routes","two.tailed",8.338,86.957,78.618,8.556,0.975,42.171,0.335,10.6
+"no_difference","d","Station Design and Station-bus Interface","two.tailed",5.318,81.304,75.987,3.972,1.339,49.85,0.187,7
+"no_difference","a2","Busway alignment","two.tailed",-0.009,95.961,95.97,2.73,-0.003,33.529,0.997,0
+"no_difference","a1","Dedicated right-of-way","two.tailed",-1.345,94.33,95.675,3.378,-0.398,29.036,0.693,-1.4
+"no_difference","a","BRT Basics","two.tailed",-4.32,79.665,83.986,3.125,-1.383,51.087,0.173,-5.1
+"no_difference","d4","Docking bays and sub-stops","two.tailed",-7.151,65.217,72.368,11.696,-0.611,37.544,0.545,-9.9
+"no_difference","b","Service Planning","two.tailed",-8.804,67.139,75.943,4.618,-1.906,35.047,0.065,-11.6
+"no_difference","b4","Located In top ten corridors","two.tailed",-13.444,82.609,96.053,8.388,-1.603,25.493,0.121,-14
+"no_difference","g","Point Deductions","two.tailed",1.207,-6.765,-7.972,1.745,0.692,41.209,0.493,-15.1
+"no_difference","g7","Off-peak frequency","two.tailed",-11.27,34.783,46.053,11.821,-0.953,38.967,0.346,-24.5
+"no_difference","b7","Multi-corridor network","two.tailed",-21.11,56.522,77.632,11.384,-1.854,29.39,0.074,-27.2
+"no_difference","f4","Secure bicycle parking","two.tailed",-7.094,8.696,15.789,6.777,-1.047,34.864,0.302,-44.9
+"no_difference","g6","Peak frequency","two.tailed",-21.681,21.739,43.42,15.504,-1.398,32.625,0.171,-49.9
